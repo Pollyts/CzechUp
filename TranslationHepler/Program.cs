@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CzechUp.EF;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.IO;
 using System.Net.Http;
 using System.Text;
@@ -11,35 +13,40 @@ class Program
 {
     static async Task Main()
     {
-        using HttpClient client = new();
+        var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
+        optionsBuilder.UseNpgsql("");
 
-        string apiKey = "4126f922-5096-4db4-a176-c8d10d2a6f29:fx";
-        client.DefaultRequestHeaders.Add("Authorization", $"DeepL-Auth-Key {apiKey}");
-
-        string[] wordsToTranslate = { "Hello", "World", "Test", "Example", "Computer", "Programming", "Language", "Coffee", "Sun", "Moon" };
-        string outputFilePath = "translations.txt";
-
-        // Очищаем файл перед записью
-        File.WriteAllText(outputFilePath, string.Empty);
-
-        foreach (string word in wordsToTranslate)
+        using (var db = new DatabaseContext(optionsBuilder.Options))
         {
-            TranslateResult? result = await TranslateWord(client, word);
+            using HttpClient client = new();
 
-            if (result != null && result.Translations.Length > 0)
+            string apiKey = "";
+            client.DefaultRequestHeaders.Add("Authorization", $"DeepL-Auth-Key {apiKey}");
+
+            string[] wordsToTranslate = { "Hello", "World", "Test", "Example", "Computer", "Programming", "Language", "Coffee", "Sun", "Moon" };
+            string outputFilePath = "translations.txt";
+
+            // Очищаем файл перед записью
+            File.WriteAllText(outputFilePath, string.Empty);
+
+            foreach (string word in wordsToTranslate)
             {
-                string translatedText = result.Translations[0].Text;
-                string detectedLanguage = result.Translations[0].DetectedSourceLanguage;
+                TranslateResult? result = await TranslateWord(client, word);
 
-                string outputLine = $"{word} -> {translatedText} (Detected: {detectedLanguage})";
-                Console.WriteLine(outputLine);
+                if (result != null && result.Translations.Length > 0)
+                {
+                    string translatedText = result.Translations[0].Text;
+                    string detectedLanguage = result.Translations[0].DetectedSourceLanguage;
 
-                // Добавляем строку в файл
-                await File.AppendAllTextAsync(outputFilePath, outputLine + Environment.NewLine);
+                    string outputLine = $"{word} -> {translatedText} (Detected: {detectedLanguage})";
+                    Console.WriteLine(outputLine);
+
+                    // Добавляем строку в файл
+                    await File.AppendAllTextAsync(outputFilePath, outputLine + Environment.NewLine);
+                }
             }
+            Console.WriteLine($"Результаты перевода сохранены в {outputFilePath}");
         }
-
-        Console.WriteLine($"Результаты перевода сохранены в {outputFilePath}");
     }
 
     static async Task<TranslateResult?> TranslateWord(HttpClient client, string word)
