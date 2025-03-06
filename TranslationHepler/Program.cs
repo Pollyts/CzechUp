@@ -1,13 +1,17 @@
 ﻿using CzechUp.EF;
+using CzechUp.EF.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.IO;
 using System.Net.Http;
+using System.Reflection;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using TranslationHepler;
+
 
 class Program
 {
@@ -23,38 +27,104 @@ class Program
             string apiKey = "";
             client.DefaultRequestHeaders.Add("Authorization", $"DeepL-Auth-Key {apiKey}");
 
-            string[] wordsToTranslate = { "Hello", "World", "Test", "Example", "Computer", "Programming", "Language", "Coffee", "Sun", "Moon" };
-            string outputFilePath = "translations.txt";
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "words.txt");
 
-            // Очищаем файл перед записью
-            File.WriteAllText(outputFilePath, string.Empty);
-
-            foreach (string word in wordsToTranslate)
+            if (!File.Exists(filePath))
             {
-                TranslateResult? result = await TranslateWord(client, word);
+                Console.WriteLine("Файл не найден: " + filePath);
+                return;
+            }
 
-                if (result != null && result.Translations.Length > 0)
+            LanguageLevel? level = null;
+            GeneralTopic? topic = null;
+            Language languageRu = db.Languages.First(l => l.Name == "RU");
+            Language languageEng = db.Languages.First(l => l.Name == "ENG");
+
+            List<string> lines = new List<string>(File.ReadAllLines(filePath));
+
+            for (int i = 0; i < lines.Count; i++)
+            {
+                string line = lines[i].Trim();
+                if (line.StartsWith("!!!Level:"))
                 {
-                    string translatedText = result.Translations[0].Text;
-                    string detectedLanguage = result.Translations[0].DetectedSourceLanguage;
+                    var str = line.Replace("!!!Level:", "").Trim();
+                    level = db.LanguageLevels.FirstOrDefault(x => x.Name == str);
+                    if (level == null)
+                    {
+                        Console.WriteLine(string.Format("Не найден уровень {0}", str));
+                    }
+                }
+                else if (line.StartsWith("---Topic:"))
+                {
+                    var str = line.Replace("---Topic:", "").Trim();
+                    topic = db.GeneralTopics.FirstOrDefault(x => x.Name == str);
+                    if (topic == null)
+                    {
+                        Console.WriteLine(string.Format("Не найдена тема {0}", str));
+                    }
+                }
+                else if (line.StartsWith("**") || line.Trim().StartsWith("CZ") || line.Trim().StartsWith("SZ"))
+                {
+                    continue; 
+                }
+                else if (line == "f" && i + 1 < lines.Count)
+                {
+                    lines[i + 1] = "f" + lines[i + 1].Trim(); 
+                    lines.RemoveAt(i); 
+                    i--; 
+                }
+                else if (!string.IsNullOrWhiteSpace(line))
+                {                    
+                    string[] words = line.Split('/');
+                    foreach (var word in words)
+                    {
+                        //string cleanedWord = Regex.Replace(word, "\\(.*?\\)", "").Trim();
+                        TranslateResult? resultRu = await TranslateWord(client, word.Trim(), "RU");
+                        await Task.Delay(1000);
+                        TranslateResult? resultEn = await TranslateWord(client, word.Trim(), "EN");
 
-                    string outputLine = $"{word} -> {translatedText} (Detected: {detectedLanguage})";
-                    Console.WriteLine(outputLine);
+                        if (resultRu != null && resultRu.Translations.Length > 0)
+                        {
+                            string translatedTextRu = resultRu.Translations[0].Text;
+                            db.GeneralWords.Add(new GeneralWord()
+                            {
+                                GeneralTopicId = topic!.Id,
+                                LanguageId = languageRu.Id,
+                                LanguageLevelId = level!.Id,
+                                Original = word,
+                                Translation = translatedTextRu                                
+                            });
+                        }
+                        if (resultEn != null && resultEn.Translations.Length > 0)
+                        {
+                            string translatedTextEng = resultEn.Translations[0].Text;
+                            db.GeneralWords.Add(new GeneralWord()
+                            {
+                                GeneralTopicId = topic!.Id,
+                                LanguageId = languageEng.Id,
+                                LanguageLevelId = level!.Id,
+                                Original = word,
+                                Translation = translatedTextEng
+                            });
 
-                    // Добавляем строку в файл
-                    await File.AppendAllTextAsync(outputFilePath, outputLine + Environment.NewLine);
+                            db.SaveChanges();
+                        }
+                    }
+
+                    await Task.Delay(2000);
                 }
             }
-            Console.WriteLine($"Результаты перевода сохранены в {outputFilePath}");
         }
     }
 
-    static async Task<TranslateResult?> TranslateWord(HttpClient client, string word)
+    static async Task<TranslateResult?> TranslateWord(HttpClient client, string word, string targerLang)
     {
         var requestBody = new
         {
             text = new[] { word },
-            target_lang = "DE"
+            source_lang = "CS",
+            target_lang = targerLang,
+
         };
 
         string json = JsonSerializer.Serialize(requestBody);
@@ -66,7 +136,7 @@ class Program
         {
             string responseJson = await response.Content.ReadAsStringAsync();
             Console.WriteLine($"Перевод получился");
-            return JsonSerializer.Deserialize<TranslateResult>(responseJson);            
+            return JsonSerializer.Deserialize<TranslateResult>(responseJson);
         }
         else
         {
