@@ -31,7 +31,7 @@ class Program
 
             if (!File.Exists(filePath))
             {
-                Console.WriteLine("Файл не найден: " + filePath);
+                Console.WriteLine("File not found: " + filePath);
                 return;
             }
 
@@ -51,7 +51,7 @@ class Program
                     level = db.LanguageLevels.FirstOrDefault(x => x.Name == str);
                     if (level == null)
                     {
-                        Console.WriteLine(string.Format("Не найден уровень {0}", str));
+                        Console.WriteLine(string.Format("Language not found {0}", str));
                     }
                 }
                 else if (line.StartsWith("---Topic:"))
@@ -60,7 +60,7 @@ class Program
                     topic = db.GeneralTopics.FirstOrDefault(x => x.Name == str);
                     if (topic == null)
                     {
-                        Console.WriteLine(string.Format("Не найдена тема {0}", str));
+                        Console.WriteLine(string.Format("Topic not found {0}", str));
                     }
                 }
                 else if (line.StartsWith("**") || line.Trim().StartsWith("CZ") || line.Trim().StartsWith("SZ"))
