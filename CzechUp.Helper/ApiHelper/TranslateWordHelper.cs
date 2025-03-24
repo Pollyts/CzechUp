@@ -1,75 +1,80 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace CzechUp.Helper.ApiHelper
 {
     public static class TranslateWordHelper
     {
-        //https://slovnik.seznam.cz/api/slovnik?dictionary=ru&query=syn
-
-        //
-        public static async Task TranslateWord(HttpClient client, string word, string targetLang)
+        public static async Task<TranslateWordResponse?> TranslateWord(HttpClient client, string word, string targetLang)
         {
-            HttpResponseMessage response = await client.GetAsync(string.Format("https://slovnik.seznam.cz/api/slovnik?dictionary={0}&query={1}", targetLang, word));
+            Console.WriteLine("Start scrapping from https://slovnik.seznam.cz/api/slovnik?dictionary");
+            try
+            {
+                HttpResponseMessage response = await client.GetAsync(string.Format("https://slovnik.seznam.cz/api/slovnik?dictionary={0}&query={1}", targetLang, word));
 
-            if (response.IsSuccessStatusCode)
-            {
-                string responseJson = await response.Content.ReadAsStringAsync();
-                var result = JsonSerializer.Deserialize<TranslateWordResponse>(responseJson);
+                if (response.IsSuccessStatusCode)
+                {
+                    string responseJson = await response.Content.ReadAsStringAsync();
+                    var result = JsonSerializer.Deserialize<TranslateWordResponse>(responseJson);
+                    return result;
+                }
+                else
+                {
+                    throw new Exception(response.StatusCode.ToString());
+                }
             }
-            else
+            catch (Exception ex)
             {
-                throw new Exception();
+                throw new Exception(string.Format("Error while translating word '{0}'. {1}", word, ex.Message));
             }
+            
         }
     }
 
     public class TranslateWordResponse
     {
         [JsonPropertyName("translate")]
-        public List<Translation> Translate { get; set; }
-
-        [JsonPropertyName("sound")]
-        public string Sound { get; set; }
+        public List<MainInfo> MainInfo { get; set; }
 
         [JsonPropertyName("relations")]
         public Relations Relations { get; set; }
 
         [JsonPropertyName("ftx_samp")]
-        public List<ExampleSentence> FtxSamp { get; set; }
+        public List<ExampleSentence> ExampleSentences { get; set; }
     }
 
-    public class Translation
+    public class MainInfo
     {
         [JsonPropertyName("head")]
         public Head Head { get; set; }
 
         [JsonPropertyName("grps")]
-        public List<Group> Grps { get; set; }
+        public List<Translation> Translations { get; set; }
     }
 
     public class Head
     {
         [JsonPropertyName("entr")]
-        public string Entr { get; set; }
+        public string FoundedWord { get; set; }
+
+        [JsonPropertyName("morf")]
+        public string Description { get; set; }
     }
 
-    public class Group
+    public class Translation
     {
         [JsonPropertyName("sens")]
-        public List<Sense> Sens { get; set; }
+        public List<Meaning> Meanings { get; set; }
     }
 
-    public class Sense
+    public class Meaning
     {
         [JsonPropertyName("numb")]
-        public string Numb { get; set; }
+        public string TranslateNumber { get; set; }
 
         [JsonPropertyName("trans")]
-        public List<List<string>> Trans { get; set; }
-
-        [JsonPropertyName("samp2")]
-        public List<SampleTranslation> Samp2 { get; set; }
+        public List<List<string>> Translations { get; set; }
     }
 
     public class SampleTranslation
@@ -85,15 +90,18 @@ namespace CzechUp.Helper.ApiHelper
     {
         [JsonPropertyName("Slovní spojení")]
         public List<string> SlovniSpojeni { get; set; }
+
+        [JsonPropertyName("Synonyma")]
+        public List<string> Synonyms { get; set; }
     }
 
     public class ExampleSentence
     {
         [JsonPropertyName("samp2s")]
-        public string Samp2s { get; set; }
+        public string OriginalSentence { get; set; }
 
         [JsonPropertyName("samp2t")]
-        public string Samp2t { get; set; }
+        public string TranslatedSentence { get; set; }
     }
 
 }

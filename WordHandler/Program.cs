@@ -1,6 +1,7 @@
 ﻿using CzechUp.EF;
 using CzechUp.EF.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Text.RegularExpressions;
 
 
 class Program
@@ -23,7 +24,7 @@ class Program
             LanguageLevel? level = null;
             GeneralTopic? topic = null;
             Language languageRu = db.Languages.First(l => l.Name == "RU");
-            Language languageEng = db.Languages.First(l => l.Name == "ENG");
+            Language languageEng = db.Languages.First(l => l.Name == "EN");
 
             List<string> lines = new List<string>(File.ReadAllLines(filePath));
 
@@ -65,11 +66,12 @@ class Program
                     string[] words = line.Split('/');
                     foreach (var word in words)
                     {
+                        Match match = Regex.Match(word, @"^(.*?)\s*\((.*?)\)\s*$");
                         db.GeneralOriginalWords.Add(new GeneralOriginalWord()
                         {
                             GeneralTopicId = topic!.Id,
                             LanguageLevelId = level!.Id,
-                            Word = word.Trim()
+                            Word = match.Success? match.Groups[1].Value.Trim(): word.Trim()
                         });
                     }
                 }

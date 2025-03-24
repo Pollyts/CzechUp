@@ -1,147 +1,203 @@
 ﻿using CzechUp.EF;
 using CzechUp.EF.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.IO;
-using System.Net.Http;
-using System.Reflection;
-using System.Text;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using TranslationHepler;
+using CzechUp.Helper.ApiHelper;
 
 
 class Program
 {
     static async Task Main()
     {
+        List<string> exceptionWords = new List<string>()
+        {
+            "had"
+        };
+
+        using HttpClient wordTranslateClient = new();
+        using HttpClient wordFormClient = new();
+        using HttpClient translateSentenceClient = new();
+        string apiKey = "";
+        translateSentenceClient.DefaultRequestHeaders.Add("Authorization", $"DeepL-Auth-Key {apiKey}");
+
         var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
         optionsBuilder.UseNpgsql("");
 
         using (var db = new DatabaseContext(optionsBuilder.Options))
         {
-            using HttpClient client = new();
+            var words = db.GeneralOriginalWords.ToList();
+            var languages = db.Languages.Where(l => l.Name != "CZ").ToList();
 
-            string apiKey = "";
-            client.DefaultRequestHeaders.Add("Authorization", $"DeepL-Auth-Key {apiKey}");
-
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "words.txt");
-
-            if (!File.Exists(filePath))
+            foreach (var word in words)
             {
-                Console.WriteLine("File not found: " + filePath);
-                return;
+                foreach (var language in languages)
+                {
+                    try
+                    {
+                        string mainText = word.Word;
+                        var mainWords = mainText.Split(' ');
+
+                        var wordTranslationAreadyExist = db.GeneralWordTranslations.Any(t => t.GeneralOriginalWordId == word.Id && t.LanguageId == language.Id);
+                        var wordFormsAreadyExist = db.GeneralWordForms.Any(t => t.OriginalWordId == word.Id);
+
+                        if (wordTranslationAreadyExist && wordFormsAreadyExist)
+                        {
+                            Console.WriteLine($"Translation and forms of word '{word.Word}' for language {language.Name} have already stored in database");
+                            continue;
+                        }
+
+                        if (exceptionWords.Contains(mainText))
+                        {
+                            Console.WriteLine($"Skipping word '{word.Word}' for language '{language.Name}'");
+                            continue;
+                        }
+
+                        Console.WriteLine($"Starting translation for word '{word.Word}', language {language.Name}");
+
+                        if (mainWords.Count() == 1 || mainWords.Count() == 2 && (mainWords[1] == "se" || mainWords[1] == "si"))
+                        {
+                            //translate word
+                            var translateWordResult = await TranslateWordHelper.TranslateWord(wordTranslateClient, mainText, language.Name.ToLower());
+
+                            if (translateWordResult != null && translateWordResult.MainInfo.Count>0)
+                            {
+                                if (!wordTranslationAreadyExist)
+                                {
+                                    foreach (var meaning in translateWordResult.MainInfo.First().Translations.First().Meanings)
+                                    {
+                                        var translation = string.Join("", meaning.Translations.First());
+                                        db.GeneralWordTranslations.Add(new GeneralWordTranslation()
+                                        {
+                                            GeneralOriginalWordId = word.Id,
+                                            LanguageId = language.Id,
+                                            Translation = Regex.Replace(translation, "\\<.*?>", "")
+                                        });
+                                    }
+                                    foreach (var translationExample in translateWordResult.ExampleSentences)
+                                    {
+                                        db.GeneralWordExamples.Add(new GeneralWordExample()
+                                        {
+                                            GeneralOriginalWordId = word.Id,
+                                            OriginalExample = Regex.Replace(translationExample.OriginalSentence, "\\<.*?>", ""),
+                                            TranslatedExample = translationExample.TranslatedSentence,
+                                        });
+                                    }
+                                }
+                                //find word forms
+                                if (!wordFormsAreadyExist)
+                                {                                    
+                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, translateWordResult.MainInfo.First().Head.FoundedWord);
+
+                                    foreach (var form in forms)
+                                    {
+                                        db.GeneralWordForms.Add(new GeneralWordForm()
+                                        {
+                                            WordNumber = 1,
+                                            OriginalWordId = word.Id,
+                                            Tag = form.Tag,
+                                            WordForm = form.Word,
+                                        });
+                                    }
+                                }
+                                
+                            }
+                            else
+                            {
+                                if (!wordTranslationAreadyExist)
+                                {
+                                    //слово по какой-то причине отсутствует в seznam slovnik (например, множ число или слово 18+)
+                                    var translateSentenceResult = await TranslateSentenceHelper.TranslateSentence(translateSentenceClient, mainText, language.Name);
+                                                                    
+                                    var generalWordTranslation = new GeneralWordTranslation()
+                                    {
+                                        GeneralOriginalWordId = word.Id,
+                                        LanguageId = language.Id,
+                                        Translation = translateSentenceResult.TranslationTexts.First().Text
+                                    };
+
+                                    db.Add(generalWordTranslation);
+                                }
+
+                                //find word forms
+                                if(!wordFormsAreadyExist)
+                                {
+                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, mainText);
+
+                                    foreach (var form in forms)
+                                    {
+                                        db.GeneralWordForms.Add(new GeneralWordForm()
+                                        {
+                                            WordNumber = 1,
+                                            OriginalWordId = word.Id,
+                                            Tag = form.Tag,
+                                            WordForm = form.Word,
+                                        });
+                                    }
+                                }                                
+                            }                            
+                        }
+                        else
+                        {
+                            //translate all sentence
+                            if(!wordTranslationAreadyExist)
+                            {
+                                var translateSentenceResult = await TranslateSentenceHelper.TranslateSentence(translateSentenceClient, mainText, language.Name);
+
+                                var generalWordTranslation = new GeneralWordTranslation()
+                                {
+                                    GeneralOriginalWordId = word.Id,
+                                    LanguageId = language.Id,
+                                    Translation = translateSentenceResult.TranslationTexts.First().Text
+                                };
+
+                                db.Add(generalWordTranslation);
+                            }
+
+                            if (!wordFormsAreadyExist)
+                            {
+                                //translate each word to find word form for every word
+                                int wordNumber = 1;
+                                foreach (var mainWord in mainWords)
+                                {
+                                    var translateResult = await TranslateWordHelper.TranslateWord(wordTranslateClient, mainWord, language.Name.ToLower());
+                                    //find word forms for every word
+                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, translateResult.MainInfo.First().Head.FoundedWord);
+
+                                    foreach (var form in forms)
+                                    {
+                                        db.GeneralWordForms.Add(new GeneralWordForm()
+                                        {
+                                            WordNumber = wordNumber,
+                                            OriginalWordId = word.Id,
+                                            Tag = form.Tag,
+                                            WordForm = form.Word,
+                                        });
+                                    }
+
+                                    wordNumber++;
+                                }
+                            }         
+                        }
+
+                        Console.WriteLine($"The translation for word '{word.Word}' ({language.Name}) was added  to database, waiting for save");
+                        await db.SaveChangesAsync();
+
+                        await Task.Delay(5000);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(string.Format("ERROR! Word {0}, language {1}. {2}", word.Word, language.Name, ex.ToString()));
+                        string logFilePath = "error_log.txt";
+                        File.AppendAllText(logFilePath, DateTime.Now + " - " + string.Format("ERROR! Word {0}, language {1}. {2}", word.Word, language.Name, ex.ToString()) + Environment.NewLine);
+                        await Task.Delay(60000);
+                    }
+                    finally
+                    {
+                        Console.WriteLine($"The translation process for the word '{word.Word}' ({language.Name}) was finished");
+                    }
+                }
             }
 
-            LanguageLevel? level = null;
-            GeneralTopic? topic = null;
-            Language languageRu = db.Languages.First(l => l.Name == "RU");
-            Language languageEng = db.Languages.First(l => l.Name == "ENG");
-
-            List<string> lines = new List<string>(File.ReadAllLines(filePath));
-
-            for (int i = 0; i < lines.Count; i++)
-            {
-                string line = lines[i].Trim();
-                if (line.StartsWith("!!!Level:"))
-                {
-                    var str = line.Replace("!!!Level:", "").Trim();
-                    level = db.LanguageLevels.FirstOrDefault(x => x.Name == str);
-                    if (level == null)
-                    {
-                        Console.WriteLine(string.Format("Language not found {0}", str));
-                    }
-                }
-                else if (line.StartsWith("---Topic:"))
-                {
-                    var str = line.Replace("---Topic:", "").Trim();
-                    topic = db.GeneralTopics.FirstOrDefault(x => x.Name == str);
-                    if (topic == null)
-                    {
-                        Console.WriteLine(string.Format("Topic not found {0}", str));
-                    }
-                }
-                else if (line.StartsWith("**") || line.Trim().StartsWith("CZ") || line.Trim().StartsWith("SZ"))
-                {
-                    continue; 
-                }
-                else if (line == "f" && i + 1 < lines.Count)
-                {
-                    lines[i + 1] = "f" + lines[i + 1].Trim(); 
-                    lines.RemoveAt(i); 
-                    i--; 
-                }
-                else if (!string.IsNullOrWhiteSpace(line))
-                {                    
-                    string[] words = line.Split('/');
-                    foreach (var word in words)
-                    {
-                        //string cleanedWord = Regex.Replace(word, "\\(.*?\\)", "").Trim();
-                        TranslateResult? resultRu = await TranslateWord(client, word.Trim(), "RU");
-                        await Task.Delay(1000);
-                        TranslateResult? resultEn = await TranslateWord(client, word.Trim(), "EN");
-
-                        if (resultRu != null && resultRu.Translations.Length > 0)
-                        {
-                            string translatedTextRu = resultRu.Translations[0].Text;
-                            db.GeneralWords.Add(new GeneralWord()
-                            {
-                                GeneralTopicId = topic!.Id,
-                                LanguageId = languageRu.Id,
-                                LanguageLevelId = level!.Id,
-                                Original = word,
-                                Translation = translatedTextRu                                
-                            });
-                        }
-                        if (resultEn != null && resultEn.Translations.Length > 0)
-                        {
-                            string translatedTextEng = resultEn.Translations[0].Text;
-                            db.GeneralWords.Add(new GeneralWord()
-                            {
-                                GeneralTopicId = topic!.Id,
-                                LanguageId = languageEng.Id,
-                                LanguageLevelId = level!.Id,
-                                Original = word,
-                                Translation = translatedTextEng
-                            });
-
-                            db.SaveChanges();
-                        }
-                    }
-
-                    await Task.Delay(2000);
-                }
-            }
-        }
-    }
-
-    static async Task<TranslateResult?> TranslateWord(HttpClient client, string word, string targerLang)
-    {
-        var requestBody = new
-        {
-            text = new[] { word },
-            source_lang = "CS",
-            target_lang = targerLang,
-
-        };
-
-        string json = JsonSerializer.Serialize(requestBody);
-        var content = new StringContent(json, Encoding.UTF8, "application/json");
-
-        HttpResponseMessage response = await client.PostAsync("https://api-free.deepl.com/v2/translate", content);
-
-        if (response.IsSuccessStatusCode)
-        {
-            string responseJson = await response.Content.ReadAsStringAsync();
-            Console.WriteLine($"Перевод получился");
-            return JsonSerializer.Deserialize<TranslateResult>(responseJson);
-        }
-        else
-        {
-            Console.WriteLine($"Ошибка при переводе '{word}': {response.StatusCode}");
-            return null;
         }
     }
 }

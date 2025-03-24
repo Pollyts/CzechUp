@@ -9,7 +9,9 @@ namespace CzechUp.EF.Models
     public class GeneralWordExample
     {
         public int Id { get; set; }
-        string OriginalExample { get; set; }
-        string TranslatedExample { get; set; }
+        public int GeneralOriginalWordId { get; set; }
+        public string OriginalExample { get; set; }
+        public string TranslatedExample { get; set; }
+        public GeneralOriginalWord GeneralOriginalWord { get; set; }
     }
 }

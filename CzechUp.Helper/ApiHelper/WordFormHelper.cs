@@ -7,21 +7,30 @@ namespace CzechUp.Helper.ApiHelper
     {
         public static async Task<List<WordForm>> GetWordForms (HttpClient client, string word)
         {
-            HttpResponseMessage response = await client.GetAsync(string.Format("https://nlp.fi.muni.cz/languageservices/service.py?call=gen&lang=cs&output=json&lemma={0}", word));
-
-            if (response.IsSuccessStatusCode)
+            Console.WriteLine("Start scrapping from https://nlp.fi.muni.cz/languageservices/service.py");
+            try
             {
-                string responseJson = await response.Content.ReadAsStringAsync();
-                var responseContent = JsonSerializer.Deserialize<WordFormsResponse>(responseJson);
-                if (responseContent != null)
-                    return responseContent.Forms;
-            }
-            else
-            {
-                throw new Exception();
-            }
+                HttpResponseMessage response = await client.GetAsync(string.Format("https://nlp.fi.muni.cz/languageservices/service.py?call=gen&lang=cs&output=json&lemma={0}", word));
 
-            return new List<WordForm>();
+                if (response.IsSuccessStatusCode)
+                {
+                    string responseJson = await response.Content.ReadAsStringAsync();
+                    var responseContent = JsonSerializer.Deserialize<WordFormsResponse>(responseJson);
+                    if (responseContent != null && responseContent.Forms!=null)
+                        return responseContent.Forms;
+                }
+                else
+                {
+                    throw new Exception(response.StatusCode.ToString());
+                }
+
+                return new List<WordForm>();
+            }
+            catch (Exception ex) 
+            {
+                throw new Exception(string.Format("Error while getting forms of word '{0}'. {1}", word, ex.Message));
+            }
+            
         }
     }
 

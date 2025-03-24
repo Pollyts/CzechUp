@@ -48,6 +48,7 @@ namespace CzechUp.EF.Migrations
                 {
                     { "RU" },
                     { "CZ" },
+                    { "EN" },
                 });
 
             migrationBuilder.InsertData(
