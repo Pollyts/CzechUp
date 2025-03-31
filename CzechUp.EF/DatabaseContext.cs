@@ -27,5 +27,31 @@ namespace CzechUp.EF
         public DbSet<UserWordForm> UserWordForms { get; set; }
         public DbSet<GeneralWordExample> GeneralWordExamples { get; set; }
         public DbSet<UserWordExample> UserWordExamples { get; set; }
+        public DbSet<GeneralExercise> GeneralExercises { get; set; }
+        public DbSet<UserExercise> UserExercises { get; set; }
+        public DbSet<UserTag> UserTags { get; set; }
+        public DbSet<UserRuleNote> UserRuleNotes { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<UserOriginalWord>()
+            .HasMany(w => w.UserTags)
+            .WithMany()
+            .UsingEntity<Dictionary<string, object>>(
+                "UserOriginalWordUserTag", // Имя промежуточной таблицы
+                j => j.HasOne<UserTag>().WithMany().HasForeignKey("UserTagId"),  // Связь с UserTag
+                j => j.HasOne<UserOriginalWord>().WithMany().HasForeignKey("UserOriginalWordId") // Связь с UserOriginalWord
+            );
+
+            modelBuilder.Entity<Rule>()
+            .HasMany(w => w.UserTags)
+            .WithMany()
+            .UsingEntity<Dictionary<string, object>>(
+                "UserRuleUserTag", // Имя промежуточной таблицы
+                j => j.HasOne<UserTag>().WithMany().HasForeignKey("UserTagId"),  //
+                j => j.HasOne<Rule>().WithMany().HasForeignKey("UserRuleId") //
+            );
+        }
+
     }
 }

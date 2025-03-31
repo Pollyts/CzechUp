@@ -11,8 +11,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CzechUp.EF.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20250317215041_AddTableOriginalWord")]
-    partial class AddTableOriginalWord
+    [Migration("20250328222253_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,34 @@ namespace CzechUp.EF.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+
+            modelBuilder.Entity("CzechUp.EF.Models.GeneralExercise", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Answer")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("AnswerOptions")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("ExerciseType")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Question")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("GeneralExercises");
+                });
 
             modelBuilder.Entity("CzechUp.EF.Models.GeneralOriginalWord", b =>
                 {
@@ -76,7 +104,20 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("GeneralOriginalWordId")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("OriginalExample")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("TranslatedExample")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("GeneralOriginalWordId");
 
                     b.ToTable("GeneralWordExamples");
                 });
@@ -89,7 +130,7 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("OriginalWordId")
+                    b.Property<int>("GeneralOriginalWordId")
                         .HasColumnType("integer");
 
                     b.Property<string>("Tag")
@@ -100,9 +141,12 @@ namespace CzechUp.EF.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int>("WordNumber")
+                        .HasColumnType("integer");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("OriginalWordId");
+                    b.HasIndex("GeneralOriginalWordId");
 
                     b.ToTable("GeneralWordForms");
                 });
@@ -176,10 +220,6 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("text");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("text");
@@ -198,10 +238,6 @@ namespace CzechUp.EF.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Login")
                         .IsRequired()
                         .HasColumnType("text");
 
@@ -224,6 +260,35 @@ namespace CzechUp.EF.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("CzechUp.EF.Models.UserExercise", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CorrectAnswerCount")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("GeneralExerciseId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("WrongAnswerCount")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("GeneralExerciseId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("UserExercises");
+                });
+
             modelBuilder.Entity("CzechUp.EF.Models.UserOriginalWord", b =>
                 {
                     b.Property<int>("Id")
@@ -232,7 +297,13 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("GeneralOriginalWordId")
+                        .HasColumnType("integer");
+
                     b.Property<int?>("LanguageLevelId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserId")
                         .HasColumnType("integer");
 
                     b.Property<int?>("UserTopicId")
@@ -244,11 +315,67 @@ namespace CzechUp.EF.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("GeneralOriginalWordId");
+
                     b.HasIndex("LanguageLevelId");
+
+                    b.HasIndex("UserId");
 
                     b.HasIndex("UserTopicId");
 
                     b.ToTable("UserOriginalWords");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.UserRuleNote", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Note")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("RuleId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RuleId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("UserRuleNotes");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.UserTag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("TagType")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("UserTags");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.UserTopic", b =>
@@ -286,7 +413,20 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("OriginalExample")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("TranslatedExample")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("UserOriginalWordId")
+                        .HasColumnType("integer");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserOriginalWordId");
 
                     b.ToTable("UserWordExamples");
                 });
@@ -299,14 +439,11 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("OriginalWordId")
-                        .HasColumnType("integer");
-
                     b.Property<string>("Tag")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("UserWordId")
+                    b.Property<int>("UserOriginalWordId")
                         .HasColumnType("integer");
 
                     b.Property<string>("WordForm")
@@ -315,7 +452,7 @@ namespace CzechUp.EF.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OriginalWordId");
+                    b.HasIndex("UserOriginalWordId");
 
                     b.ToTable("UserWordForms");
                 });
@@ -328,12 +465,6 @@ namespace CzechUp.EF.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("OriginalWordId")
-                        .HasColumnType("integer");
-
-                    b.Property<int?>("TopicId")
-                        .HasColumnType("integer");
-
                     b.Property<string>("Translation")
                         .IsRequired()
                         .HasColumnType("text");
@@ -341,22 +472,49 @@ namespace CzechUp.EF.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("integer");
 
-                    b.Property<string>("UserOriginalWordId")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<int>("UserOriginalWordId")
+                        .HasColumnType("integer");
 
                     b.Property<bool>("WasLearned")
                         .HasColumnType("boolean");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OriginalWordId");
-
-                    b.HasIndex("TopicId");
-
                     b.HasIndex("UserId");
 
+                    b.HasIndex("UserOriginalWordId");
+
                     b.ToTable("UserWordTranslations");
+                });
+
+            modelBuilder.Entity("UserOriginalWordUserTag", b =>
+                {
+                    b.Property<int>("UserOriginalWordId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserTagId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("UserOriginalWordId", "UserTagId");
+
+                    b.HasIndex("UserTagId");
+
+                    b.ToTable("UserOriginalWordUserTag");
+                });
+
+            modelBuilder.Entity("UserRuleUserTag", b =>
+                {
+                    b.Property<int>("UserRuleId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserTagId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("UserRuleId", "UserTagId");
+
+                    b.HasIndex("UserTagId");
+
+                    b.ToTable("UserRuleUserTag");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.GeneralOriginalWord", b =>
@@ -378,15 +536,26 @@ namespace CzechUp.EF.Migrations
                     b.Navigation("LanguageLevel");
                 });
 
-            modelBuilder.Entity("CzechUp.EF.Models.GeneralWordForm", b =>
+            modelBuilder.Entity("CzechUp.EF.Models.GeneralWordExample", b =>
                 {
-                    b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", "OriginalWord")
+                    b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", "GeneralOriginalWord")
                         .WithMany()
-                        .HasForeignKey("OriginalWordId")
+                        .HasForeignKey("GeneralOriginalWordId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("OriginalWord");
+                    b.Navigation("GeneralOriginalWord");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.GeneralWordForm", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", "GeneralOriginalWord")
+                        .WithMany()
+                        .HasForeignKey("GeneralOriginalWordId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("GeneralOriginalWord");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.GeneralWordTranslation", b =>
@@ -427,19 +596,82 @@ namespace CzechUp.EF.Migrations
                     b.Navigation("TranslatedLanguage");
                 });
 
+            modelBuilder.Entity("CzechUp.EF.Models.UserExercise", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.GeneralExercise", "GeneralExercise")
+                        .WithMany()
+                        .HasForeignKey("GeneralExerciseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CzechUp.EF.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("GeneralExercise");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("CzechUp.EF.Models.UserOriginalWord", b =>
                 {
+                    b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", "GeneralOriginalWord")
+                        .WithMany()
+                        .HasForeignKey("GeneralOriginalWordId");
+
                     b.HasOne("CzechUp.EF.Models.LanguageLevel", "LanguageLevel")
                         .WithMany()
                         .HasForeignKey("LanguageLevelId");
+
+                    b.HasOne("CzechUp.EF.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("CzechUp.EF.Models.UserTopic", "UserTopic")
                         .WithMany()
                         .HasForeignKey("UserTopicId");
 
+                    b.Navigation("GeneralOriginalWord");
+
                     b.Navigation("LanguageLevel");
 
+                    b.Navigation("User");
+
                     b.Navigation("UserTopic");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.UserRuleNote", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.Rule", "Rule")
+                        .WithMany()
+                        .HasForeignKey("RuleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CzechUp.EF.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Rule");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.UserTag", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.UserTopic", b =>
@@ -459,38 +691,75 @@ namespace CzechUp.EF.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("CzechUp.EF.Models.UserWordForm", b =>
+            modelBuilder.Entity("CzechUp.EF.Models.UserWordExample", b =>
                 {
-                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", "OriginalWord")
+                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", "UserOriginalWord")
                         .WithMany()
-                        .HasForeignKey("OriginalWordId")
+                        .HasForeignKey("UserOriginalWordId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("OriginalWord");
+                    b.Navigation("UserOriginalWord");
+                });
+
+            modelBuilder.Entity("CzechUp.EF.Models.UserWordForm", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", "UserOriginalWord")
+                        .WithMany()
+                        .HasForeignKey("UserOriginalWordId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("UserOriginalWord");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.UserWordTranslation", b =>
                 {
-                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", "OriginalWord")
-                        .WithMany()
-                        .HasForeignKey("OriginalWordId");
-
-                    b.HasOne("CzechUp.EF.Models.UserTopic", "Topic")
-                        .WithMany()
-                        .HasForeignKey("TopicId");
-
                     b.HasOne("CzechUp.EF.Models.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("OriginalWord");
-
-                    b.Navigation("Topic");
+                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", "UserOriginalWord")
+                        .WithMany()
+                        .HasForeignKey("UserOriginalWordId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("User");
+
+                    b.Navigation("UserOriginalWord");
+                });
+
+            modelBuilder.Entity("UserOriginalWordUserTag", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", null)
+                        .WithMany()
+                        .HasForeignKey("UserOriginalWordId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CzechUp.EF.Models.UserTag", null)
+                        .WithMany()
+                        .HasForeignKey("UserTagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("UserRuleUserTag", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.Rule", null)
+                        .WithMany()
+                        .HasForeignKey("UserRuleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CzechUp.EF.Models.UserTag", null)
+                        .WithMany()
+                        .HasForeignKey("UserTagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

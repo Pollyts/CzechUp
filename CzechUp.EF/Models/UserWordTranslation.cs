@@ -10,14 +10,11 @@ namespace CzechUp.EF.Models
     {
         public int Id { get; set; }
         public string Translation { get; set; }
-        public string UserOriginalWordId { get; set; }        
-        public int UserId {  get; set; }
-        public int? TopicId { get; set; }
-        public int? OriginalWordId { get; set; }
+        public int UserOriginalWordId { get; set; }
+        public int UserId {  get; set; }   
         public bool WasLearned { get; set; }
-        public User User { get; set; }        
-        public UserTopic? Topic { get; set; }       
-        public UserOriginalWord? OriginalWord { get; set; }
+        public User User { get; set; }     
+        public UserOriginalWord UserOriginalWord { get; set; }       
         
     }
 }

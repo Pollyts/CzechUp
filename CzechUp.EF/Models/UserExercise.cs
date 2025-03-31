@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CzechUp.EF.Models
+{
+    public class UserExercise
+    {
+        public int Id { get; set; }
+        public int GeneralExerciseId { get; set; }
+        public int UserId { get; set; }
+        public int CorrectAnswerCount { get; set; }
+        public int WrongAnswerCount { get; set; }
+        public User User { get; set; }
+        public GeneralExercise GeneralExercise { get; set; }
+    }
+}

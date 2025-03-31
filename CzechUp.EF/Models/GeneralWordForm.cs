@@ -12,7 +12,7 @@ namespace CzechUp.EF.Models
         public int WordNumber { get; set; }
         public string WordForm { get; set; }
         public string Tag { get; set; }
-        public int OriginalWordId { get; set; }
-        public GeneralOriginalWord OriginalWord { get; set; }        
+        public int GeneralOriginalWordId { get; set; }
+        public GeneralOriginalWord GeneralOriginalWord { get; set; }        
     }
 }

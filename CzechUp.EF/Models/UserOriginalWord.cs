@@ -12,7 +12,12 @@ namespace CzechUp.EF.Models
         public string Word { get; set; }
         public int? LanguageLevelId { get; set; }
         public int? UserTopicId { get; set; }
+        public int? GeneralOriginalWordId { get; set; }
+        public int UserId { get; set; }
         public UserTopic? UserTopic { get; set; }
         public LanguageLevel? LanguageLevel { get; set; }
+        public User User { get; set; }
+        public GeneralOriginalWord? GeneralOriginalWord { get; set; }
+        public List<UserTag> UserTags { get; set; }
     }
 }
