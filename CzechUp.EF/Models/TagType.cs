@@ -7,10 +7,18 @@ using System.Threading.Tasks;
 
 namespace CzechUp.EF.Models
 {
-    public class LanguageLevel
+    public class TagType
     {
         [Key]
         public Guid Guid { get; set; }
-        public required string Name { get; set; }
+        public TagTypeEnum TagTypeEnum { get; set; }
+    }
+
+    public enum TagTypeEnum
+    {
+        Word = 0,
+        Rule = 1,
+        Topic = 2,
+        Exercise =3
     }
 }

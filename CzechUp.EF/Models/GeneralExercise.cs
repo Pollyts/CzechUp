@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,8 @@ namespace CzechUp.EF.Models
 {
     public class GeneralExercise
     {
-        public int Id { get; set; }
+        [Key]
+        public Guid Guid { get; set; }
         public ExerciseType ExerciseType { get; set; }
         public string Question { get; set; }
         public string AnswerOptions { get; set; } //suggested answer options
@@ -21,6 +23,8 @@ namespace CzechUp.EF.Models
         InsertWord, //Заполнение пропусков подходящими словами
         CreateSentence, //Составление предложений с новыми словами
         InsertWordInRightWorm, //Подстановка форм слов (например, спряжение глаголов)
-        TransformSentence, //Трансформация предложений (например, активный → пассивный залог)
+        SelectAnswer, //Выбрать правильный ответ из предложенных
+        WriteAnswer, //Заполнить пропуск в вопросе/ввести ответ на вопрос
+        ChooseCategory, //Выбрать категорию
     }
 }
