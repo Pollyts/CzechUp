@@ -1,9 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using CzechUp.EF.Models.Absract;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CzechUp.EF.Models
 {
-    public class GeneralWordTranslation
+    public class GeneralWordTranslation : IDbEntity
     {
         [Key]
         public Guid Guid { get; set; }

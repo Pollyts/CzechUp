@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CzechUp.EF.Models.Absract;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CzechUp.EF.Models
 {
-    public class GeneralOriginalWord
+    public class GeneralOriginalWord : IDbEntity
     {
         [Key]
         public Guid Guid { get; set; }
@@ -18,8 +19,8 @@ namespace CzechUp.EF.Models
         public Guid LanguageLevelGuid { get; set; }
 
         [ForeignKey("GeneralTopic")]
-        public Guid GeneralTopicGuid { get; set; }
-        public GeneralTopic GeneralTopic { get; set; }
+        public Guid? GeneralTopicGuid { get; set; }
+        public GeneralTopic? GeneralTopic { get; set; }
         public LanguageLevel LanguageLevel { get; set; }
     }
 }

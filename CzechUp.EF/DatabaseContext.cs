@@ -1,4 +1,5 @@
 ﻿using CzechUp.EF.Models;
+using CzechUp.EF.Models.Absract;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -133,15 +134,6 @@ namespace CzechUp.EF
                 "UserRuleUserTag",
                 j => j.HasOne<UserTag>().WithMany().HasForeignKey("UserTagGuid"),
                 j => j.HasOne<Rule>().WithMany().HasForeignKey("UserRuleGuid")
-            );
-
-            modelBuilder.Entity<UserTopic>()
-            .HasMany(w => w.UserTags)
-            .WithMany()
-            .UsingEntity<Dictionary<string, object>>(
-                "UserTopicUserTag",
-                j => j.HasOne<UserTag>().WithMany().HasForeignKey("UserTagGuid"),
-                j => j.HasOne<UserTopic>().WithMany().HasForeignKey("UserTopicGuid")
             );
 
             modelBuilder.Entity<UserExercise>()

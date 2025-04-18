@@ -3,6 +3,7 @@ using System;
 using CzechUp.EF;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CzechUp.EF.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    partial class DatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20250413222636_AlterGeneralExerciseTabel")]
+    partial class AlterGeneralExerciseTabel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -551,6 +554,21 @@ namespace CzechUp.EF.Migrations
                     b.ToTable("UserTagTagTypes");
                 });
 
+            modelBuilder.Entity("UserTopicUserTag", b =>
+                {
+                    b.Property<Guid>("UserTagGuid")
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("UserTopicGuid")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("UserTagGuid", "UserTopicGuid");
+
+                    b.HasIndex("UserTopicGuid");
+
+                    b.ToTable("UserTopicUserTag");
+                });
+
             modelBuilder.Entity("CzechUp.EF.Models.GeneralExercise", b =>
                 {
                     b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", "GeneralOriginalWord")
@@ -843,6 +861,21 @@ namespace CzechUp.EF.Migrations
                     b.HasOne("CzechUp.EF.Models.UserTag", null)
                         .WithMany()
                         .HasForeignKey("UserTagGuid")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("UserTopicUserTag", b =>
+                {
+                    b.HasOne("CzechUp.EF.Models.UserTag", null)
+                        .WithMany()
+                        .HasForeignKey("UserTagGuid")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CzechUp.EF.Models.UserTopic", null)
+                        .WithMany()
+                        .HasForeignKey("UserTopicGuid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
