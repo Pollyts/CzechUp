@@ -1,0 +1,42 @@
+---Dům, domácnost a nejbližší okolí
+2
+2
+---Nakupování
+9
+10
+---Jazyk a komunikace
+13
+7
+---Jídlo a pití
+10
+11
+---Vztahy s lidmi
+6
+6
+---Okolní prostředí
+12
+none
+---Služby
+11
+12
+---Volný čas a zábava
+4
+4
+---Cestování a doprava
+5
+5
+---Zdraví a péče o tělo
+7
+8
+---Osobní údaje
+1
+1
+---Vzdělání
+8
+9
+---Každodenní život
+3
+3
+---Počasí a klima
+14
+13

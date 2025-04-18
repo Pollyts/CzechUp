@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordHandler", "WordHandler\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzechUp.Tests", "CzechUp.Tests\CzechUp.Tests.csproj", "{29EF5214-6445-43F7-BA5E-DE76BA70141C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseGenerator", "ExerciseGenerator\ExerciseGenerator.csproj", "{45B1C7A1-7CDE-49B3-B273-457A866F6F54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{29EF5214-6445-43F7-BA5E-DE76BA70141C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29EF5214-6445-43F7-BA5E-DE76BA70141C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29EF5214-6445-43F7-BA5E-DE76BA70141C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B1C7A1-7CDE-49B3-B273-457A866F6F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1C7A1-7CDE-49B3-B273-457A866F6F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1C7A1-7CDE-49B3-B273-457A866F6F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1C7A1-7CDE-49B3-B273-457A866F6F54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

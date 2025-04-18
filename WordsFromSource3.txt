@@ -1,0 +1,4902 @@
+!!!Level: A1
+a JF 5.6, OP 4.1.7, OP 7.7.1 
+a taky OP 7.7.1 
+áčko SP 5.1.1, SP 5.1.3 
+adoptivní SP 1.11 
+adresa SP 4.3.4, SP 6.3 
+aerobik SP 4.8 
+Afrika SP 5.10 
+aftershave SP 7.3 
+ahoj JF 4.3.1, JF 4.3.2, JF 4.5.3, JF 5.10.9, JF 5.11.1, JF 5.11.8 
+Ach jo! JF 2.12.9 
+akce SP 9.2 
+aktivní SP 1.14 
+ale  JF 1.3.1, JF 3.3.2, JF 5.6, OP 7.7.3 
+ale ano  JF 1.3.3, JF 2.2.3 
+ale jo  JF 1.3.3, JF 2.2.3 
+ale ne  JF 1.3.3, OP 7.7.4 
+ale! JF 2.12.8 
+alergie SP 7.4 
+alkohol SP 6.6, SP 10.1.8 
+alkoholický SP 10.1.8 
+alkoholička SP 6.8 
+alkoholik SP 6.8 
+ambasáda SP 6.5, SP 11.5 
+americké brambory SP 10.1.4.2 
+americký SP 1.8 
+Amerika SP 5.10 
+angína SP 7.4 
+anglicky SP 13.1 
+anglický SP 1.8 
+angličtina SP 13.1 
+Anglie SP 5.10 
+ani jednou OP 4.1.3 
+ani OP 7.7.1 
+ani – ani OP 7.7.1 
+ano  JF 1.5.1.1, JF 2.1, JF 2.10.3.1, JF 2.12.8, JF 3.1.2.1, JF 3.3.1, JF 3.13.2.1, JF 5.7 
+ano? JF 3.1.1, JF 3.13.1, JF 5.10.1.2 
+Antarktida SP 5.10 
+antibiotika SP 7.5 
+antikoncepce SP 7.5 
+apartmá SP 5.11 
+268
+architekt SP 4.6, SP 1.10.2 
+architektka SP 1.10.2, SP 4.6 
+architektura SP 4.6 
+asi JF 2.6.3, OP 3.5, OP 4.3.4, OP 5.1.2.5 
+asi ano JF 2.6.3 
+asi jo JF 2.6.3 
+asi ne JF 2.6.3, JF 3.14.2.2 
+asiat SP 1.15 
+asiatka SP 1.15 
+Asie SP 5.10 
+ať JF 3.5 
+ateista SP 1.12 
+ateistka SP 1.12 
+atletika SP 4.8 
+Austrálie SP 5.10 
+autem OP 2.4.2 
+auto SP 5.6 
+autobus SP 5.1.2 
+autobusem OP 2.4.2 
+autobusový SP 5.1.3 
+automatický SP 2.5 
+automechanik SP 1.10.2 
+autoopravna SP 5.7, SP 11.8 
+autopůjčovna SP 5.6 
+autor SP 4.7 
+autorka SP 4.7 
+(auto)servis SP 5.7, 11.8 
+azyl SP 5.14, SP 11.5 
+azylant SP 5.14 
+azylantka SP 5.14 
+až OP 3.15.2 
+babička SP 1.11 
+bageta SP 10.1.5 
+balení OP 5.1.2.5 
+balet SP 4.5 
+balíček OP 4.2.1 
+balík SP 6.3, SP 11.1 
+balkon SP 2.2, SP 4.5 
+banán SP 10.1.2 
+banka SP 1.10.3, SP 11.4 
+bankomat SP 11.4 
+(bankovní) účet SP 11.4 
+bar SP 10.2 
+barevný OP 5.1.10, SP 4.3.1, SP 4.3.3 
+barva OP 5.1.9 
+barvit si (vlasy) – barvím si, barvíš si SP 7.3 
+báseň SP 4.7 
+basketbal SP 4.8 
+básník SP 4.7 
+básnířka SP 4.7 
+269
+bát se – bojím se, bojíš se JF 2.12.11, JF 3.8, OP 6.1.2 
+batoh SP 5.12 
+baví mě/tě/vás SP 4.2 
+bavlna OP 5.1.12.5 
+bavlněný OP 5.1.12.5 
+bazén SP 4.8 
+béčko SP 5.1.1, SP 5.1.3 
+běh OP 2.4.3.1 
+běhat – běhám, běháš OP 2.4.1, SP 4.8 
+běloch SP 1.15 
+běloška SP 1.15 
+benzin SP 5.7, SP 11.9 
+benzínka SP 5.7 
+benzinová pumpa SP 5.7 
+benzinová stanice SP 11.9 
+beton OP 5.1.12.5 
+betonový OP 5.1.12.5 
+bez vyznání SP 1.12 
+bez vzoru OP 5.1.10 
+bezdomovec SP 6.8 
+bezdomovkyně SP 6.8 
+běženec SP 5.14 
+běženka SP 5.14 
+běžet – běžím, běžíš OP 2.4.1 
+bílý OP 5.1.9, SP 10.1.8 
+bionafta SP 5.7 
+blahopřát – blahopřeju, blahopřeješ JF 4.8.4, JF 5.11.6 
+blesk SP 14.1 
+blízko OP 2.3, OP 5.1.2.1.5, SP 12.1 
+blond OP 5.1.9, SP 1.15 
+bod SP 4.8 
+bohužel JF 3.1.2.2, JF 3.3.2, JF 5.10.7 
+bohužel ne JF 2.10.3.2, JF 3.1.2.1 
+bojler SP 2.3 
+bolet – bolí (mě) impers. SP 7.4 
+bomba SP 6.6 
+bonbon SP 10.1.6 
+boty SP 9.4 
+bouřka SP 14.1 
+(bramborová) kaše SP 10.1.4.2 
+bramborové knedlíky SP 10.1.4.2 
+brambory SP 10.1.4.2 
+branka SP 4.8 
+brát – beru, bereš SP 7.4 
+bratr SP 1.11 
+bratranec SP 1.11 
+broskev SP 10.1.2 
+brusle SP 4.8 
+bruslení SP 4.8 
+bruslit – bruslím, bruslíš OP 2.4.1, SP 4.8 
+270
+brýle SP 1.15, SP 4.8, SP 7.5 
+brzdit – brzdím, brzdíš SP 5.6 
+brzdy SP 11.8 
+brzo OP 3.5, OP 3.7.4 
+březen OP 3.2.3 
+břicho SP 7.1 
+buddhista SP 1.12 
+buddhistka SP 1.12 
+bufet SP 3.2, SP 10.2 
+Bůh/bůh SP 1.12 
+buchta SP 10.1.6 
+bunda SP 9.4 
+bydlet – bydlím, bydlíš SP 1.2, SP 2.1, SP 5.11 
+být – jsem, jsi  OP 1.1, OP 1.2, OP 1.4, SP 1.6, SP 1.10.1, SP 6.4 
+být mi/ti/vám ... let OP 5.1.11.1 
+být (komu) jak SP 7.2 
+být jaký SP 1.15 
+být kde OP 1.3.1-2 
+být na řadě OP 4.1.2, SP 7.5, SP 9.2 
+byt SP 2.1 
+být v důchodu SP 1.10.1 
+být v rekonvalescenci SP 7.4 
+být z/ze (materiál) OP 5.1.12.5 
+být z/ze (stát, město) OP 2.5.10, SP 1.2, SP 1.6 
+bytná SP 2.1 
+bytný SP 2.1 
+CD přehrávač SP 4.4 
+CD SP 4.3.4, SP 4.4 
+céčko SP 5.1.1, SP 5.1.3 
+cédéčko SP 4.3.4, SP 4.4 
+celá/celé/celých (ve zlomcích) OP 4.1.7 
+celer SP 10.1.2 
+celý OP 4.1.5, OP 5.1.2.7, OP 5.1.12.2 
+cena OP 5.2.1, SP 2.4, SP 9.7 
+cent OP 4.1.6, SP 9.7 
+centimetr (cm) OP 5.1.2.2 
+centrum OP 2.2 
+certifikát SP 8.3 
+cesta SP 5.10 
+cestovat – cestuju, cestuješ OP 2.4.1, OP 2.4.2, SP 4.2 
+cestovní kancelář SP 5.10 
+cibule SP 10.1.2 
+cigareta SP 6.6, SP 9.6 
+cítit se – cítím se, cítíš se SP 7.2 
+citron SP 10.1.2 
+cizinec SP 1.6 
+cizinka SP 1.6 
+clo SP 5.13 
+co  JF 1.4.2, JF 2.9.2, JF 6.1, OP 3.3.2, OP 8.1.5, OP 8.1.7 
+cože? JF 5.8 
+271
+cukr SP 10.1.3 
+cukrárna SP 10.2 
+cyklista OP 2.4.3.2, SP 5.8 
+cyklistika SP 4.8 
+cyklistka OP 2.4.3.2, SP 5.8 
+čaj SP 10.1.8 
+čas OP 3.1 
+časopis SP 4.3.1 
+často OP 3.14.4 
+čau JF 4.3.1 
+Čech SP 1.9 
+čekárna SP 5.1.3 
+čekat – čekám, čekáš JF 5.11.3, SP 6.2 
+čepice SP 9.4 
+černobílý SP 4.3.1, SP 4.3.3 
+černoch SP 1.15 
+černoška SP 1.15 
+černý OP 5.1.9, SP 1.15, SP 10.1.8 
+čerstvý OP 5.1.12.2 
+červen OP 3.2.3 
+červenec OP 3.2.3 
+červený OP 5.1.9, SP 10.1.8 
+česat se – češu se, češeš se SP 7.3 
+Česká republika SP 1.8, SP 5.10 
+česky JF 6.10-11, SP 13.1 
+český SP 1.8 
+česnek SP 10.1.2 
+Češka SP 1.9 
+čeština SP 13.1 
+čí  JF 1.4.2, OP 7.5, OP 8.1.5, OP 8.1.7 
+číslo JF 5.10.11, OP 4.1.7, OP 5.1.2.1, SP 10.3 
+číslo (domu) SP 1.2 
+číslo (faxu) SP 11.3 
+číslo (karty/účtu) SP 11.4 
+číslo pasu SP 1.4 
+číslo popisné SP 1.2 
+číst – čtu, čteš SP 3.1, SP 4.3.1, SP 4.7 
+číst jak SP 13.1 
+čistící prostředky SP 2.6 
+čistírna OP 5.1.12.4, SP 11.10 
+čistit – čistím, čistíš OP 5.1.12.4, SP 2.6 
+čistit si (zuby) – čistím si, čistíš si SP 7.3 
+čistý OP 5.1.12.4, SP 2.6, SP 2.7, SP 7.3 
+číšnice SP 1.10.2, SP 10.2 
+číšník SP 1.10.2, SP 10.2 
+článek SP 4.3.1 
+člen SP 6.4 
+členka SP 6.4 
+člověk OP 8.5 
+čokoláda SP 10.1.6 
+272
+čtrnáct dní OP 3.2.1 
+čtvrt OP 3.2.1, OP 3.3.1, OP 4.1.5 
+čtvrtek OP 3.2.4 
+čtvrtka OP 4.1.5 
+čtvrtletní SP 5.1.3 
+čtyři OP 4.1.6 
+dabovaný SP 4.3.3 
+dál/dále JF 4.12, OP 3.13.2 
+daleko OP 2.3, OP 5.1.2.1.5, SP 12.1 
+dálnice SP 5.7 
+další OP 4.1.2, SP 7.5 
+daň SP 3.3 
+dárek SP 6.2 
+dát + A + kam – dám, dáš OP 2.6.2 
+dát do opravy SP 5.7 
+dát do servisu SP 5.7 
+dát nahlas OP 5.1.5 
+dát potichu OP 5.1.5 
+dát se (ostříhat) – dám se, dáš se SP 7.3, SP 11.10 
+dát si – dám si, dáš si JF 2.11.2, JF 3.15.1, JF 4.12, SP 10.2, SP 11.10 
+datum narození SP 1.4 
+datum OP 3.3.3 
+dávat – dávám, dáváš SP 4.3.3, SP 4.5 
+dcera SP 1.11 
+deci (decilitr) OP 5.1.2.4 
+decilitr (dl) OP 5.1.2.4 
+dědeček SP 1.11 
+dechová zkouška SP 5.9 
+deko (dekagram) OP 5.1.2.3 
+deka (přikrývka) SP 2.3 
+dekagram (dkg) OP 5.1.2.3 
+děkovat – děkuju, děkuješ JF 2.13.5, JF 5.11.2, OP 6.2, SP 6.2 
+dělat – dělám, děláš JF 1.4.2, OP 8.6, SP 1.10.1, SP 3.1, SP 3.2, SP 4.2, SP 4.8, SP 8.3, SP 
+10.1.9 
+dělat kde SP 1.10.4 
+děleno OP 4.1.7 
+dělnice SP 1.10.2 
+dělník SP 1.10.2 
+den JF 4.2.1, OP 3.2.1, OP 3.3.2 
+denně SP 7.4 
+dentista SP 7.5 
+desítka SP 10.1.8 
+deska SP 4.4 
+déšť SP 14.1 
+detektivka SP 4.3.3, SP 4.7 
+dětský pokoj SP 2.2 
+dětský pořad SP 4.3.3 
+dévédéčko SP 4.3.4 
+dezert SP 10.1.6 
+diabetik/diabetička SP 7.4 
+273
+díky JF 2.13.5 
+diplom SP 8.3 
+dirigent SP 4.5 
+dirigovat – diriguju, diriguješ SP 4.5 
+disketa SP 4.3.4 
+diskotéka SP 4.5 
+diskusní pořad SP 4.3.3 
+diskžokej SP 4.5 
+dít se – děje se impers. JF 1.4.2, JF 2.12.11, OP 1.2 
+dítě/děti OP 5.1.11.1.1, SP 1.6, SP 1.11 
+divadlo SP 4.5 
+dívat se (na) – dívám se, díváš se SP 3.1, SP 4.3.3, SP 4.5, SP 9.2 
+dívka OP 5.1.11.1.1, SP 1.6 
+divoký SP 2.8 
+DJ SP 4.5 
+dlouho OP 3.7.1, OP 5.1.2.1.1 
+dlouhý OP 5.1.2.1.1, SP 1.15 
+dnes OP 3.4 
+dneska OP 3.4 
+do kolika hodin OP 3.7.3 
+do OP 2.5.2, OP 2.5.4, OP 3.7.3, OP 3.8, OP 5.1.2.1.5 
+do práce SP 1.3 
+do vlastních rukou SP 11.1 
+doba OP 3.1 
+dobrodružný SP 4.7 
+dobrou chuť JF 4.11 
+dobrý OP 5.1.6, OP 5.2.2.1, OP 5.2.3, SP 10.2, SP 13.1 
+dobře JF 2.12.1, JF 2.12.4, JF 3.1.2.1, JF 3.3.1, JF 3.13.2.1, JF 4.4.2, OP 5.1.12.1, OP 
+5.2.2.1, OP 5.2.3, SP 13.1 
+docela hodně OP 4.3.6 
+docela málo OP 4.3.6 
+docela JF 4.4.2, OP 5.2.8 
+dohromady OP 4.1.7, OP 7.6, SP 10.2 
+dokdy OP 3.7.3, OP 8.3 
+doklad(y) SP 5.9, SP 5.10, SP 5.15 
+doktor SP 1.10.2, SP 7.5 
+doktorka SP 1.10.2, SP 7.5 
+dokument SP 4.3.3 
+dolar SP 9.7, SP 11.4 
+dole OP 2.2 
+doleva OP 2.5.7, SP 12.1 
+dolít (olej) – doleju, doleješ SP 11.9 
+dolů OP 2.5.6 
+doma OP 2.1.1 
+domácí SP 2.8 
+domů OP 2.5.4, SP 1.3 
+dopis JF 5.11.2, OP 6.2, SP 6.3, SP 11.1 
+dopisní papír SP 6.3 
+dopoledne JF 4.2.1, OP 3.2.5 
+doporučeně SP 6.3, SP 11.1 
+274
+doporučený SP 11.1 
+doprava OP 2.5.7, SP 12.1 
+dopravní policie SP 5.9 
+doprostřed OP 2.5.8 
+dopředu OP 2.5.5 
+dort SP 10.1.6 
+doručit – doručím, doručíš SP 11.1 
+doručovatel SP 11.1 
+doručovatelka SP 11.1 
+dospělý OP 5.1.11.1.1 
+dost OP 4.1.1, OP 4.2.1, OP 4.3.4, OP 5.2.8  
+dostat – dostanu, dostaneš JF 3.17, SP 6.3, SP 7.4, SP 11.1 
+dostat se – dostanu se, dostaneš se SP 12.1 
+dostupný JF 5.10.10 
+doufat – doufám, doufáš JF 2.12.10, OP 6.1.1 
+doutník SP 9.6 
+dovnitř OP 2.5.4 
+dovolat se – dovolám se, dovoláš se JF 5.10.10 
+dovolená OP 3.2.6, SP 3.2, SP 4.1 
+dozadu OP 2.5.5 
+drahý OP 5.2.1, SP 9.2 
+drama SP 4.7, SP 4.5 
+dramatička SP 4.7 
+dramatik SP 4.7 
+dres SP 4.8 
+drobné SP 9.7 
+drogerie SP 9.2 
+drogy SP 6.6 
+druh OP 4.1.4, SP 1.11, SP 6.1 
+družka SP 1.11, SP 6.1 
+dřevěný OP 5.1.12.5 
+dřevo OP 5.1.12.5 
+dřez SP 2.3 
+dřív/dříve OP 3.4 
+duben OP 3.2.3 
+důchod SP 3.3 
+důchodce OP 5.1.11.1.1, SP 3.3 
+důchodkyně OP 5.1.11.1.1, SP 3.3 
+důležitý OP 5.2.5 
+dům SP 2.1 
+dusno SP 14.1 
+dva/dvě OP 4.1.6 
+dvanáctka SP 10.1.8 
+DVD SP 4.3.4 
+dveře SP 2.2 
+dvojka (vína) OP 5.1.2.4  
+dvojka SP 5.1.1 
+dvoubarevný OP 5.1.10 
+dvoulůžkový SP 5.11 
+dvůr SP 2.2 
+275
+dýmka SP 9.6 
+džem SP 10.1.5 
+džus SP 10.1.8 
+egoista SP 1.14 
+egoistka SP 1.14 
+ehm JF 5.2 
+ekonom SP 1.10.2 
+ekonomka SP 1.10.2 
+elektrický SP 2.5 
+elektřina SP 2.5 
+e-mail JF 5.11.2, OP 6.2, SP 1.2, SP 4.3.4, SP 6.3, SP 11.3 
+e-mailová adresa SP 11.3 
+emigrovat – emigruju, emigruješ SP 5.14 
+EU SP 6.5 
+euro OP 4.1.6, SP 9.7, SP 11.4 
+EuroCity SP 5.3 
+evangelík SP 1.12 
+evangelička SP 1.12 
+Evropa SP 5.10 
+Evropská unie SP 6.5 
+existovat – existuju, existuješ OP 1.1 
+expres SP 5.3, SP 6.3, SP 11.1 
+fajn JF 2.12.1, JF 2.12.4, JF 3.1.2.1, JF 3.13.2.1, JF 4.4.2, OP 5.2.2.1 
+fakt JF 2.1.1, JF 2.6.6, JF 2.12.8 
+fandit – fandím, fandíš SP 4.8 
+fanoušek SP 4.8 
+fanynka SP 4.8 
+fax SP 11.3 
+faxovat SP 11.3 
+fialový OP 5.1.9 
+film SP 4.3.3, SP 4.5 
+firma SP 1.10.3 
+flaška OP 5.1.2.5 
+FM SP 4.3.2 
+folk SP 4.4 
+folkový SP 4.4 
+foťák SP 5.12 
+fotbal SP 4.8 
+fotka SP 4.3.1 
+fotoaparát SP 5.12 
+fotografie SP 4.3.1 
+foto-kino SP 11.10 
+foukat – fouká impers. SP 14.1 
+Francie SP 1.8, SP 5.10 
+francouzsky SP 13.1 
+francouzský SP 1.8 
+francouzština SP 13.1 
+fráze SP 13.1 
+fungovat – funguje impers. OP 5.1.12.2, SP 2.5, SP 11.8 
+galerie SP 4.5, SP 4.6 
+276
+garáž SP 11.8 
+garsoniéra SP 2.1 
+garsonka SP 2.1 
+gay SP 1.6 
+gól SP 4.8 
+gram (g) OP 5.1.2.3 
+gramofon SP 4.4 
+guláš SP 10.1.4.1 
+gymnázium SP 8.1 
+hádat se – hádáme se, hádáte se 
+hadr SP 2.6 
+haléř OP 4.1.6, SP 9.7 
+haló JF 4.1, JF 5.10.1.2, JF 5.10.4.1 
+hele JF 4.1 
+herec SP 1.10.2, SP 4.5 
+herečka SP 1.10.2, SP 4.5 
+hezký JF 2.12.3, JF 4.2.2, JF 4.3.2, OP 5.2.2.2, SP 1.15 
+hezky JF 2.11.1, JF 4.2.2, JF 4.3.2, JF 5.10.9, JF 5.11.8, SP 14.1 
+hinduista SP 1.12 
+hinduistka SP 1.12 
+historický SP 4.7 
+hlad SP 10.1.1 
+hladký OP 5.1.8 
+hlásit – hlásím, hlásíš SP 11.5 
+hláskovat – hláskuju, hláskuješ JF 6.7, SP 13.1 
+hlava SP 7.1 
+hlavní OP 5.2.5, SP 5.7 
+hlediště SP 4.5 
+hloupý OP 6.1.1, SP 1.14 
+hluboký OP 5.1.2.1.3 
+hlučný OP 5.1.5, SP 2.7 
+hluk OP 5.1.5, SP 2.7 
+hm JF 2.12.2, JF 3.1.2.1, JF 5.7 
+hmyz SP 2.8 
+hned OP 3.4 
+hnědý OP 5.1.9, SP 1.15 
+hobby SP 4.2 
+hodina OP 3.2.1, OP 3.3.1, SP 8.1 
+hodinářství SP 11.10 
+hodinky SP 9.4 
+hodit se – hodím se, hodíš se (mi/ti/vám) OP 5.2.3 
+hodně JF 4.8.1, OP 4.1.1, OP 4.2.1, OP 5.1.2.5, OP 5.2.8 
+hodný SP 1.14 
+hokej SP 4.8 
+hokejka SP 4.8 
+holicí strojek SP 7.3 
+holič SP 1.10.2 
+holička SP 1.10.2 
+holičství SP 1.10.3, SP 11.10 
+holit se – holím se, holíš se SP 7.3 
+277
+holka OP 5.1.11.1.1, SP 1.6 
+homosexuál SP 1.6 
+hora SP 2.7 
+horečka OP 5.1.2.7, SP 7.4 
+horko OP 5.1.2.7, SP 14.1 
+horký OP 5.1.2.7 
+horší OP 5.2.2.1 
+hořčice SP 10.1.3 
+hořet – hoří impers. JF 3.7 
+hořký OP 5.1.6 
+hospoda SP 10.2 
+hostel SP 5.11 
+hotel SP 2.1, SP 5.11 
+hotově SP 9.7 
+hotový OP 1.4 
+houska SP 10.1.5 
+houskové knedlíky SP 10.1.4.2 
+housle SP 4.2 
+hovězí SP 10.1.7 
+hra SP 4.5, SP 4.8 
+hrad SP 5.10 
+hrách/hrášek SP 10.1.2 
+hranice SP 5.13 
+hranolky SP 10.1.4.2 
+hrát – hraju, hraješ SP 1.10.4, SP 4.2, SP 4.5, SP 4.8 
+hrát na + A SP 1.10.4 
+hrnec SP 9.5 
+hrnek OP 5.1.2.5, SP 9.5 
+hrom SP 14.1 
+hroznové víno SP 10.1.2 
+hrubý OP 5.1.8 
+hruška SP 10.1.2 
+hřeben SP 7.3 
+hřiště SP 4.8 
+hubený OP 5.1.2.1.4, SP 1.15 
+hudba SP 4.4 
+hurá JF 2.12.1 
+hůř/hůře OP 5.1.12.1 
+hýbat – hýbám, hýbáš OP 2.6.1 
+hypermarket SP 9.1 
+chalupa SP 5.11  
+chata SP 5.11 
+chatovat – chatuju, chatuješ SP 4.3.4 
+chirurg SP 7.5 
+chladno OP 5.1.2.7, SP 14.1 
+chlapec OP 5.1.11.1.1, SP 1.6 
+chléb SP 10.1.5 
+chleba SP 10.1.5 
+chodba SP 2.2 
+chodec OP 2.4.3.2, SP 5.8 
+278
+chodit – chodím, chodíš OP 2.4.1, OP 3.16.1, SP 4.2 
+chodkyně OP 2.4.3.2, SP 5.8 
+chovat – chovám, chovám SP 4.2 
+chrám SP 5.10 
+chřipka SP 7.4 
+chtěl/chtěla bych JF 2.11.2, JF 3.17, JF 4.6.1, JF 5.9, SP 9.2 
+chtít – chci, chceš JF 2.9, JF 2.11.2, JF 3.1.1, JF 3.13.1, JF 3.14.1, JF 3.15.1 
+chutnat mi/ti/vám – chutná/chutnají impers. JF 2.12.3, OP 5.1.6 
+chůze OP 2.4.3.1 
+chvíle OP 3.2.1 
+chvilka OP 3.2.1 
+chyba OP 5.2.3, SP 13.1 
+chytrý OP 6.1.1, SP 1.14 
+indián SP 1.15 
+indiánka SP 1.15 
+informace SP 5.1.3 
+informatička SP 1.10.2 
+informatik SP 1.10.2 
+injekce SP 7.5 
+inkaso SP 2.4 
+inteligence OP 6.1.1 
+inteligentní OP 6.1.1, SP 1.14 
+InterCity SP 5.3 
+internet SP 4.3.4, SP 6.3 
+internetový SP 4.3.4 
+inzerát SP 4.3.1 
+inzulín SP 7.5 
+inženýr SP 1.10.2 
+inženýrka SP 1.10.2 
+Itálie SP 5.10 
+já  JF 1.1, OP 8.1.1 
+jablko SP 10.1.2 
+jak  JF 1.4.2, JF 6.5-7, SP 7.2, SP 14.1 
+jak často  JF 1.4.2, OP 3.14.1 
+jak dlouho  JF 1.4.2, OP 3.7.1, OP 3.8 
+jak moc  JF 1.4.2 
+jako OP 7.4 
+jaký  JF 1.4.2, OP 3.3.3, OP 5.1.1, OP 8.1.5, OP 8.1.7, SP 14.1 
+jaro OP 3.2.2 
+jasně JF 2.1, JF 2.10.3.1, JF 3.3.1 
+jasno SP 14.1 
+jazyk OP 6.2, SP 7.1, SP 13.1 
+jazz SP 4.4 
+jazzový SP 4.4 
+jde + infinitiv JF 2.7.1 
+je (výsledek při počtech) OP 4.1.7 
+jé JF 2.12.7 
+jeden/jedna/jedno OP 4.1.6 
+jednička SP 5.1.1 
+jedno JF 2.12.2, JF 2.12.5 
+279
+jednobarevný OP 5.1.10 
+jednodenní SP 5.1.3 
+jednolůžkový SP 5.11 
+jednou OP 4.1.3 
+jednou za čas OP 3.14.8 
+jeho OP 7.5, OP 8.1.6 
+její OP 7.5, OP 8.1.6 
+jejich OP 7.5, OP 8.1.6 
+jen/jenom OP 4.3.5 
+ještě jeden/jedna/jedno OP 4.1.2 
+ještě jednou JF 5.8, JF 6.2, JF 6.13 
+ještě OP 3.13.2, OP 7.6 
+ještě něco? SP 9.2 
+jet – jede impers. OP 5.1.12.2, SP 11.8 
+jet – jedu, jedeš OP 2.4.1, OP 2.5.11, OP 3.16.2, SP 5.1.1, SP 5.6, SP 5.10, SP 6.2, SP 
+12.1 
+jeviště SP 4.5 
+jezdit – jezdí impers. OP 5.1.12.2 
+jezdit – jezdím, jezdíš OP 2.4.1, OP 3.16.1, SP 5.1.1, SP 5.6 
+jezdit na kole – SP 4.8 
+jezero SP 2.7 
+jídelna SP 3.2, SP 10.2 
+(jídelní) lístek SP 10.2 
+jídelní vůz SP 5.3 
+jídlo SP 10.1.1, SP 10.2 
+jih OP 2.1.3 
+jinak OP 7.4 
+jiný OP 1.5, OP 7.4 
+jíst – jím, jíš SP 10.1.1 
+jistě JF 1.5.1.1, JF 2.1, JF 2.6.1, JF 2.6.5, JF 2.10.3.1, JF 3.3.1 
+jistěže ano JF 2.2.3 
+jistěže ne JF 2.1.3 
+jistý JF 2.6.5 
+jít – jde (to) impers. OP 5.2.4 
+jít – jde impers. OP 5.1.12.2, SP 2.5, SP 11.8 
+jít – jdu, jdeš OP 2.4.1, OP 2.4.2, OP 2.5.11, OP 3.16.2, SP 3.1, SP 4.2, SP 6.2, SP 12.1 
+jít spát SP 3.1 
+jízda OP 2.4.3.1 
+jízdenka SP 5.1.3 
+jízdní řád SP 5.1.3 
+jižní OP 2.1.3 
+jméno SP 1.1 
+jmenovat se – jmenuju se, jmenuješ se SP 1.1 
+jo  JF 1.5.1.1, JF 2.1, JF 2.10.3.1, JF 2.12.8, JF 3.1.2.1, JF 3.3.1, JF 5.7 
+jo? JF 3.1.1, JF 3.13.1 
+jogurt SP 10.1.5 
+k/ke OP 2.5.2 
+kabát SP 9.4 
+kabelka SP 5.12, SP 9.4 
+kadeřnice SP 1.10.2 
+280
+kadeřnictví SP 1.10.3, SP 11.10 
+kadeřník SP 1.10.2 
+kalhoty SP 9.4 
+kam  JF 1.4.2, OP 2.5.1, OP 8.3, SP 12.1 
+kamarád SP 6.1 
+kamarádka SP 6.1 
+kamna SP 2.3 
+kapela SP 4.5 
+kapky SP 7.5 
+kapusta SP 10.1.2 
+karafiát SP 2.9 
+kartáček (na zuby) SP 7.3 
+kartou SP 9.7 
+kašel SP 7.4 
+katedrála SP 5.10 
+katolička SP 1.12 
+katolík SP 1.12 
+káva SP 10.1.8 
+kavárna SP 10.2 
+kazeta SP 4.4 
+každý OP 3.14.3, OP 4.1.1 
+kbelík SP 2.6 
+kde JF 1.4.2, OP 2.1.1, OP 8.3, SP 12.1 
+kdo JF 1.4.2, OP 8.1.5, OP 8.1.7 
+kdy JF 1.4.2, OP 3.3.3, OP 3.4, OP 3.7.4, OP 8.3, SP 1.4 
+když OP 3.10, OP 7.8.3 
+kečup SP 10.1.3, 
+kemp SP 5.11 
+keramický OP 5.1.12.5 
+keramika OP 5.1.12.5 
+keř SP 2.9 
+kilo (kilogram) OP 4.1.5, OP 5.1.2.3 
+kilogram (kg) OP 5.1.2.3 
+kilometr (km) OP 5.1.2.2 
+kino SP 4.5 
+klapka SP 1.3 
+klasická hudba SP 4.4 
+klávesnice SP 4.3.4 
+klavír SP 4.2 
+klesat – klesám, klesáš OP 2.5.6 
+klíč SP 5.11 
+klima SP 14.1 
+klobása SP 10.1.7 
+klobouk SP 9.4 
+kluk OP 5.1.11.1.1, SP 1.6 
+knedlík(y) SP 10.1.4.2 
+kniha SP 4.7 
+knihkupectví SP 4.7 
+knihovna SP 4.7 
+knír SP 1.15 
+281
+koberec SP 2.3 
+koblih SP 10.1.6 
+kočka SP 2.8 
+koláč SP 3.2, SP 6.1, SP 10.1.6 
+kolega SP 3.2, SP 6.1 
+kolegyně SP 3.2, SP 6.1 
+kolej SP 2.1 
+kolem OP 2.5.11 
+koleno SP 7.1 
+kolik  JF 1.4.2, OP 3.3.1, OP 3.7.1, OP 4.1.1, OP 4.2.1, OP 5.1.11.1, OP 5.1.2.1.5, OP 8.2 
+kolikátý OP 3.3.3, OP 3.14.1, OP 4.1.2 
+kolikery OP 4.1.1 
+kolikrát OP 4.1.3 
+kolo SP 4.8, SP 5.6 
+kolo (pneumatika) SP 11.8 
+komedie SP 4.3.3, SP 4.5 
+kompresor SP 11.9 
+komunikace JF 5.10.10 
+koncert SP 4.5 
+končit – končí impers. SP 4.5 
+končit – končím, končíš OP 3.13.3, SP 3.2 
+konec OP 2.2, OP 3.13.3 
+koníček SP 4.2 
+kontaktní adresa SP 1.2 
+kontaktní čočky SP 7.5 
+konvice SP 9.5 
+konzul SP 6.5, SP 11.5 
+konzulát SP 6.5, SP 11.5 
+konzulka SP 6.5, SP 11.5 
+konzultační hodiny OP 3.2.6, SP 3.2 
+kopec SP 2.7 
+koruna OP 4.1.6, SP 9.7, SP 11.4 
+koření SP 10.1.3 
+kosmetika SP 7.3 
+kostel SP 5.10 
+kostkovaný OP 5.1.10 
+košile SP 9.4 
+koště SP 2.6 
+kotník SP 7.1 
+koupání zakázáno JF 2.10.1 
+koupat se – koupu se, koupeš se SP 3.1 
+koupelna OP 5.1.12.4, SP 2.2 
+koupit – koupím, koupíš OP 5.2.1, SP 2.1, SP 3.1, SP 9.2 
+kouření zakázáno JF 2.10.1, SP 9.6 
+kouřit – kouřím, kouříš SP 9.6 
+kousek OP 4.1.5, OP 4.2.1, OP 5.1.2.5 
+kov OP 5.1.12.5 
+kovový OP 5.1.12.5 
+kožený OP 5.1.12.5 
+krabička OP 5.1.2.5 
+282
+krájet – krájím, krájíš SP 10.1.9 
+krajina SP 2.7 
+krásný OP 5.2.2.2, SP 1.15 
+krát OP 4.1.7 
+…krát SP 7.4 
+krátký OP 5.1.2.1.1, SP 1.15 
+kráva SP 2.8 
+kravata SP 9.4 
+(kreditní) karta SP 9.7, SP 11.4 
+krém SP 7.3 
+kriminalita SP 6.6 
+krk SP 7.1 
+krosna SP 5.12 
+křeček SP 2.8 
+křehký OP 5.1.8 
+křeslo SP 2.3 
+křesťan SP 1.12 
+křesťanka SP 1.12 
+křestní jméno SP 1.1 
+křičet – křičím, křičíš OP 5.1.5 
+křižovatka SP 5.7 
+který  JF 1.4.2, OP 3.3.2, OP 8.1.5, OP 8.1.7 
+kudy  JF 1.4.2, OP 2.5.11, OP 8.3, SP 12.1 
+kufr SP 5.12 
+kuchař SP 1.10.2 
+kuchařka SP 1.10.2 
+kuchyně SP 2.2 
+(kuchyňská) linka SP 2.3 
+kupovat – kupuju, kupuješ OP 5.2.1, SP 2.1 
+kurs SP 8.1, SP 11.4 
+kuřačka SP 6.8 
+kuřák SP 5.3, SP 6.8 
+kuře SP 10.1.7 
+kus OP 4.1.5, OP 4.2.1, OP 5.1.2.5 
+kůže OP 5.1.12.5 
+květen OP 3.2.3 
+květina SP 2.9 
+květovaný OP 5.1.10 
+kyselý OP 5.1.6 
+kytara SP 4.2 
+kytka SP 2.9 
+L (velikost) OP 5.1.2.1 
+láhev OP 5.1.2.5 
+lampa SP 2.3 
+láska JF 4.8.1, OP 6.1.2 
+látka (= textil) OP 5.1.12.5 
+led OP 5.1.12.5 
+leden OP 3.2.3 
+lednička SP 2.3 
+ledvinka SP 5.12 
+283
+lehátkový vůz SP 5.3 
+lehký OP 5.1.2.3, OP 5.2.7 
+lék SP 7.5 
+lékárna SP 7.5 
+lékárnička SP 5.9 
+lékař SP 1.10.2, SP 7.5 
+lékařka SP 1.10.2, SP 7.5 
+lektor SP 1.10.2, SP 8.1 
+lektorka SP 1.10.2, SP 8.1 
+lépe/líp OP 5.1.12.1 
+lepší OP 5.2.2.1 
+les SP 2.7 
+lesbička SP 1.6 
+let OP 2.4.3.1, SP 5.2 
+letadlo SP 5.1.2, SP 5.2 
+letecky SP 6.3, SP 11.1 
+letenka SP 5.2 
+letět – letím letíš OP 2.4.1, OP 2.4.2, SP 5.2 
+letiště SP 5.2 
+léto OP 3.2.2 
+letos OP 3.4 
+levičák SP 6.5 
+levný OP 5.2.1, SP 9.2 
+ležet – ležím, ležíš OP 2.1.2 
+líbit se – líbím se, líbíš se (mi/ti/vám) JF 2.12.3, OP 5.2.2.2, OP 6.1.2 
+lidé OP 8.5 
+limonáda SP 10.1.8 
+lino SP 2.3 
+linoleum SP 2.3 
+líný SP 1.14 
+lístek SP 4.5 
+listopad OP 3.2.3 
+literatura SP 4.7 
+líto JF 2.12.6, JF 2.13.1, JF 4.9 
+litr (l) OP 4.1.5, OP 5.1.2.4, SP 11.9 
+loď SP 5.1.2, SP 5.4 
+loket SP 7.1 
+loni OP 3.4 
+louka SP 2.7 
+ložnice SP 2.2 
+lůžkový vůz SP 5.3 
+lyžařské boty SP 4.8 
+lyžařské hole SP 4.8 
+lyže SP 4.8 
+lyžování SP 4.8 
+lyžovat – lyžuju, lyžuješ OP 2.4.1, SP 4.8 
+lžíce OP 5.1.2.5, SP 9.5 
+lžička SP 9.5 
+M (velikost) OP 5.1.2.1 
+magnetofon SP 4.4 
+284
+mailovat – mailuju, mailuješ OP 6.2, SP 11.3 
+malé pivo OP 5.1.2.5, SP 10.1.8 
+malíř SP 1.10.2, SP 4.6 
+malířka SP 1.10.2, SP 4.6 
+málo OP 4.1.1, OP 4.2.1, OP 5.1.2.5 
+malý (o dětech) OP 5.1.11.1 
+malý OP 5.1.2.1, OP 5.1.2.1.3, OP 5.1.2.4, OP 5.1.2.6, SP 1.15 
+mám ... let OP 5.1.11.1 
+máma SP 1.11 
+maminka SP 1.11 
+manažer SP 1.10.2 
+manažerka SP 1.10.2 
+mandarínka SP 10.1.2 
+manžel SP 1.11, SP 6.1 
+manželka SP 1.11, SP 6.1 
+mapa SP 5.10, SP 12.1 
+margarín SP 10.1.5 
+máslo SP 10.1.5 
+maso SP 10.1.7 
+maso (a) uzeniny SP 9.2 
+materiál OP 5.1.12.5 
+matka SP 1.11 
+maturita SP 8.3 
+maximálně OP 4.3.5 
+med SP 10.1.5 
+mechanik SP 1.10.2, SP 11.8 
+měkký OP 5.1.8 
+měna SP 11.4 
+méně/míň než OP 4.3.4 
+měnit – měním, měníš SP 11.4 
+menší OP 5.1.2.1 
+menu SP 10.2 
+menza SP 3.2, SP 10.2 
+meruňka SP 10.1.2 
+měřit – měřím, měříš (teplotu) OP 5.1.2.7 
+měřit – měřím, měříš OP 5.1.2.1, SP 1.15 
+měsíc OP 3.2.1, OP 5.1.11.1 
+měsíční SP 5.1.3 
+město SP 1.2, SP 2.7 
+městský SP 2.7 
+metalíza OP 5.1.9 
+metr čtvereční OP 5.1.2.6 
+metr krychlový OP 5.1.2.4 
+metr (m) OP 5.1.2.2 
+metrák OP 5.1.2.3 
+metrem OP 2.4.2 
+metro SP 5.1.2 
+mezi OP 2.2 
+mezinárodní SP 5.3 
+míč SP 4.8 
+285
+míček SP 4.8 
+míchat – míchám, mícháš SP 10.1.9 
+milenec SP 1.11, SP 6.1 
+milenka SP 1.11. SP 6.1 
+milimetr (mm) OP 5.1.2.2 
+milovat – miluju, miluješ OP 6.1.2, SP 6.1 
+milý JF 3.13.2.1, JF 4.5.3, JF 5.11.1, SP 1.14 
+miminko OP 5.1.11.1.1 
+mimo provoz OP 5.1.12.2, SP 11.2 
+minerálka SP 10.1.8 
+minimálně OP 4.3.5 
+ministr SP 6.5 
+ministryně SP 6.5 
+minulý OP 3.4 
+minus OP 4.1.7, OP 5.1.2.7 
+minuta OP 3.2.1, OP 3.3.1 
+mír SP 6.7 
+mísa SP 9.5 
+místenka SP 5.1.3 
+místnost SP 2.2 
+místo narození SP 1.4 
+místo OP 5.1.2.4, OP 5.1.2.6, SP 4.5 
+mít – mám, máš OP 1.1, OP 1.4, OP 3.7.1, OP 7.5, SP 7.4 
+mít (u sebe) SP 6.6 
+mít + infinitiv JF 2.8, JF 3.10 
+mít dietu SP 7.4 
+mít na sobě SP 9.4 
+mít rád/ráda – mám rád/ráda, máš rád/ráda JF 2.12.3, OP 6.1.2, SP 4.2, SP 6.1 
+mít radost – mám/máš radost JF 2.12.1, OP 6.1.2 
+mít se – mám se, máš se JF 4.4.1, JF 4.2.2, JF 4.3.2, JF 5.10.9, JF 5.11.2, JF 5.11.8 
+mladistvý OP 5.1.11.1.1 
+mladší (než) OP 5.1.11.1 
+mladý OP 5.1.11.1, SP 1.15 
+mléko SP 10.1.3 
+mlha OP 5.1.4, SP 14.1 
+mluvit – mluvím, mluvíš JF 5.10.5, OP 6.2 
+mluvit jak SP 13.1 
+mnoho OP 4.2.1 
+mobil SP 1.3, SP 11.2 
+mobilní telefon SP 1.3, SP 11.2 
+moc málo OP 4.3.6 
+moc OP 4.1.1, OP 4.2.1, OP 5.2.8, OP 5.2.8 
+mockrát JF 2.13.5, OP 3.14.6 
+moct – můžu, můžeš JF 2.7, JF 2.10, JF 3.2, JF 3.10, JF 4.6.2, JF 5.9 
+moderní OP 5.1.11.2, SP 4.6 
+modrý OP 5.1.9, SP 1.15 
+mokro OP 5.1.3, SP 14.1 
+mokrý OP 5.1.3 
+moment JF 5.2, JF 5.9, JF 5.10.6, OP 3.2.1 
+monitor SP 4.3.4 
+286
+morče SP 2.8 
+moře SP 2.7 
+most SP 5.7 
+motocykl SP 5.6 
+motor SP 11.8 
+motorka SP 5.6 
+mouka SP 10.1.3 
+možná JF 2.6.4 
+možný JF 2.7.1 
+mrak SP 14.1 
+mráz OP 5.1.2.7, SP 14.1 
+mrkev SP 10.1.2 
+mrtvý OP 5.1.12.1, SP 7.4 
+mrzet – mrzí (to) + A JF 2.12.9, JF 2.13.1 
+mrznout – mrzne impers. SP 14.1 
+mrznout – mrznu, mrzneš OP 5.1.2.7 
+můj/moje OP 7.5, OP 8.1.6 
+muset – musím musíš JF 2.7.1, JF 2.8, JF 3.4 
+muslim SP 1.12 
+muslimka SP 1.12 
+muzeum SP 4.6 
+muzikál SP 4.5 
+muž SP 1.6 
+mužské SP 1.6 
+my  JF 1.1, OP 8.1.1 
+myčka OP 5.1.12.4, SP 2.3, SP 11.9 
+mýdlo SP 7.3 
+myslet – myslím, myslíš – JF 2.6.2, JF 2.6.3, JF 2.6.5, JF 2.13.4, JF 5.3, JF 5.4, JF 5.5, JF 
+6.5, OP 6.1.1 
+myš SP 4.3.4 
+mýt – myju, myješ OP 5.1.12.4, SP 2.6 
+mýt nádobí SP 2.6 
+mýt se – myju se, myješ se OP 5.1.12.4, SP 3.1, SP 7.3 
+mýt si – myju si, myješ si OP 5.1.12.4, SP 7.3 
+mzda SP 3.3 
+na OP 2.1.1 
+na + A OP 2.5.2, OP 2.5.4, OP 3.8 
+na dobírku SP 11.1 
+na jaře OP 3.4 
+na jih OP 2.1.3 
+na jihu OP 2.1.3 
+na kolej SP 1.3 
+na konci OP 2.2 
+na mateřské (dovolené) SP 1.10.1 
+na neschopence SP 7.4 
+na Nový rok OP 3.4 
+na podzim OP 3.4 
+na prodej SP 2.1 
+na rohu OP 2.2, SP 5.7 
+na řadě viz být na řadě 
+287
+na shledanou JF 4.2.2, JF 5.10.9 
+na sever OP 2.1.3 
+na severu OP 2.1.3 
+na Silvestra OP 3.4 
+na Vánoce OP 3.4 
+na Velikonoce OP 3.4 
+na východ OP 2.1.3 
+na východě OP 2.1.3 
+na začátku OP 2.2 
+na západ OP 2.1.3 
+na západě OP 2.1.3 
+Na zdraví! JF 4.10, SP 6.2 
+náboženství SP 1.12 
+nábytek SP 2.3 
+nad + I OP 2.2 
+nad nulou OP 5.1.2.7 
+(autobusové/vlakové) nádraží SP 1.10.3, SP 5.1.3 
+nádrž SP 11.8 
+nafta SP 5.7, SP 11.9 
+nahlas OP 5.1.5 
+nahoru OP 2.5.6 
+nahoře OP 2.2 
+nahrát – nahraju, nahraješ SP 4.3.3 
+nahrávat – nahrávám, nahráváš SP 4.4 
+nahustit (pneumatiky) – nahustím, nahustíš SP 11.9 
+nájem SP 2.4 
+nakonec OP 3.12 
+nákup SP 9.2 
+nakupovat – nakupuju, nakupuješ SP 3.1, SP 9.2 
+naladit – naladím, naladíš SP 4.3.2 
+nalevo OP 2.2 
+nalíčit – nalíčím, nalíčíš SP 11.10 
+náměstí SP 1.2 
+nápad JF 3.1.1, JF 3.1.2.1, OP 6.1.1 
+náplast SP 7.4 
+nápodobně JF 4.11.2 
+nápoj SP 10.1.1 
+(nápojový) lístek SP 10.2 
+napravo OP 2.2 
+naproti OP 2.2 
+například OP 7.7.4 
+napsat – napíšu, napíšeš JF 6.9, OP 6.2 
+narodit se – narodím se, narodíš se OP 1.5, SP 1.4 
+národnost SP 1.8 
+narozeniny JF 4.8.1, JF 5.11.4 
+nástupiště SP 5.3 
+nastupovat – nastupuju, nastupuješ OP 2.4.1, SP 5.1.1 
+nastydlý SP 7.4 
+náš/naše OP 7.5, OP 8.1.6 
+288
+ natankovat – natankuju, natankuješ SP 11.9 
+NATO SP 6.5 
+natural SP 5.7 
+návštěva SP 6.2 
+navštívit – navštívím, navštívíš SP 5.10 
+nazdar JF 4.3.1 
+ne JF 1.5.1.2, JF 2.2, JF 2.10.3.2, JF 3.1.2.1, JF 5.3 
+nealko SP 10.1.8 
+nealkoholické pivo SP 10.1.8 
+nealkoholický SP 10.1.8 
+nebo JF 2.3, JF 3.6, OP 7.7.2 
+něco JF 4.12, OP 8.1.8 
+neděle OP 3.2.4 
+nehoda SP 5.9 
+nechat – nechám, necháš JF 2.10.4, JF 5.10.7 
+nějaký OP 8.1.8 
+nejdříve OP 3.12 
+nejhorší OP 5.2.2.1 
+nejlepší JF 4.8.1, JF 5.11.4, OP 5.2.2.1 
+nejrychleji SP 12.1 
+někam OP 2.5.1, OP 8.3 
+někde OP 2.1.1, OP 8.3 
+někdo OP 8.1.8 
+někdy OP 3.4, OP 3.14.7, OP 8.3 
+několik OP 4.1.1, OP 8.2 
+několikrát OP 3.14.6 
+některý OP 8.1.8 
+nekuřačka SP 6.8 
+nekuřák SP 5.3, SP 6.8 
+němčina SP 13.1 
+Německo SP 1.8, SP 5.10 
+německy SP 13.1 
+německý SP 1.8 
+nemoc SP 7.4 
+nemocnice SP 1.10.3, SP 7.5 
+nemocný OP 5.1.12.1, SP 7.4 
+nemoct JF 2.7.1, JF 2.10.1, JF 3.1.2.2, JF 3.3.2 
+nemoderní OP 5.1.11.2 
+nemuset JF 2.7.1 
+němý SP 4.3.3 
+není zač JF 2.13.6 
+neperlivý SP 10.1.8 
+neplatný SP 5.15 
+nepořádek OP 5.1.12.4 
+nerozhodně SP 4.8 
+nervózní OP 6.1.2 
+nesmět JF 2.10.1, JF 2.10.4 
+nesnášet – nesnáším, nesnášíš OP 6.1.2, SP 6.1 
+nést – nesu, neseš OP 2.6.2 
+nešťastný OP 6.1.2 
+nevhodný OP 5.2.3 
+289
+nevinný SP 6.6 
+nevlastní SP 1.11 
+nezaměstnanost SP 6.8 
+nezaměstnaný SP 6.8, SP 1.10.1 
+nezařízený SP 2.1 
+než OP 4.3.1 
+nežít – nežiju, nežiješ OP 5.1.12.1 
+nic JF 2.12.11.3, OP 4.1.1, OP 4.2.1 
+nic moc JF 2.12.2, JF 4.4.3, OP 5.2.2.1 
+nikam OP 2.5.1, OP 8.3 
+nikde OP 2.1.1, OP 8.3 
+nikdo OP 4.1.1 
+nikdy OP 3.4, OP 3.14.9, OP 8.3 
+nízký OP 5.1.2.1.3, OP 5.1.2.7, SP 3.3 
+no  JF 1.5.1.1, JF 2.1, JF 2.10.3.1, JF 3.1.2.1, JF 3.3.1, JF 5.7 
+no jo JF 2.12.2 
+no tak JF 3.8 
+noc JF 4.2.2, OP 3.2.1, OP 3.2.5 
+noha SP 7.1 
+normálně OP 3.14.5 
+normální OP 5.2.6 
+nos SP 7.1 
+nosit – nosím, nosíš SP 9.4 
+novinář SP 1.10.2 
+novinářka SP 1.10.2 
+noviny SP 4.3.1 
+nový JF 4.8.3, OP 5.1.11.2 
+Nový rok JF 4.8.3, JF 5.11.5, OP 3.2.7 
+nula OP 5.1.2.7 
+nutný JF 2.8 
+nůž SP 9.5 
+nůžky na nehty SP 7.3 
+o dovolené OP 3.4 
+o moc OP 4.3.2 
+o prázdninách OP 3.4 
+o půlnoci OP 3.4 
+o Vánocích OP 3.4 
+o Velikonocích OP 3.4 
+o víkendu OP 3.4 
+oba/obě OP 4.1.1 
+obálka SP 6.3 
+občanská válka SP 6.7 
+občas OP 3.14.7 
+obec SP 1.2 
+oběd SP 10.1.1 
+obědvat – obědvám, obědváš SP 10.1.1 
+obézní SP 1.15 
+obchod SP 1.10.3, SP 9.1 
+obchodní centrum SP 9.1 
+obchodní dům SP 9.1 
+290
+objednat se – objednám se, objednáš se SP 7.5 
+objížďka SP 5.7 
+oblek SP 9.4 
+oblékat se – oblékám se, oblékáš se SP 3.1, SP 9.4 
+oblékat si – oblékám si, oblékáš si SP 9.4 
+obléknout se – obléknu se, oblékneš se SP 3.1, SP 9.4 
+obléknout si – obléknu si, oblékneš si SP 9.4 
+obraz SP 4.6 
+obrázek SP 4.3.1 
+obsazeno OP 5.1.12.3, SP 11.2 
+obsazený SP 5.11 
+obuv SP 9.2 
+obvaz SP 7.4 
+obvykle OP 3.14.5 
+obyčejně SP 6.3, SP 11.1 
+obyčejný OP 5.2.6 
+obývací pokoj SP 2.2 
+ocet SP 10.1.3 
+oči SP 1.15, SP 7.1 
+očkování SP 5.10, SP 5.15 
+oční lékař/lékařka SP 7.5 
+od kolika hodin OP 3.7.2 
+od/ode OP 2.5.2, OP 2.5.9, OP 3.7.2, OP 3.8 
+odejít – odejdu, odejdeš OP 2.4.1, OP 2.5.2 
+oděvy SP 9.2 
+odjet – odjedu, odjedeš OP 2.4.1, OP 2.5.2 
+odjezd OP 2.4.3.1, SP 5.1.3 
+odjíždět – odjíždím, odjíždíš SP 5.1.3 
+odkdy OP 3.7.2, OP 8.3 
+odkud  JF 1.4.2, OP 2.5.9, OP 2.5.10, OP 8.3 
+odlet OP 2.4.3.1, SP 5.2 
+odletět – odletím, odletíš OP 2.4.1, SP 5.3 
+odložen SP 5.2 
+odložit si – odložím si, odložíš si JF 4.12 
+odnést – odnesu, odneseš OP 2.6.2 
+odpadkový koš SP 2.6 
+odpočívat – odpočívám, odpočíváš SP 3.1, SP 4.1, SP 7.2 
+odpoledne JF 4.2.1, OP 3.2.5 
+odpověď OP 6.2 
+odtáhnout (auto) – odtáhnu, odtáhneš SP 5.7 
+odvést – odvedu, odvedeš OP 2.6.2 
+odvézt – odvezu, odvezeš OP 2.6.2 
+ohlásit – ohlásím, ohlásíš SP 11.5 
+oholit (vousy) – oholím, oholíš SP 11.10 
+ohřát – ohřeju, ohřeješ SP 10.1.9 
+okamžik OP 3.2.1 
+okno SP 2.2 
+oko SP 7.1 
+okolí SP 2.7 
+olej SP 10.1.3, SP 11.9 
+291
+omáčka SP 10.1.4.1 
+omeleta SP 10.1.4.1 
+omyl JF 5.10.11 
+on  JF 1.1, OP 8.1.2 
+ona  JF 1.1, OP 8.1.2 
+oni  JF 1.1, OP 8.1.2, OP 8.5 
+ono  JF 1.1, OP 8.1.2 
+ony OP 8.1.2 
+opakovat – opakuju, opakuješ JF 5.8, JF 6.2, JF 6.3, SP 13.1 
+opatrně JF 3.7 
+opékané brambory SP 10.1.4.2 
+opera SP 4.5 
+operace SP 7.4 
+operátor SP 1.3 
+opereta SP 4.5 
+operovat – operuju, operuješ SP 7.4 
+opilý SP 6.6 
+opravdu JF 2.6.5, JF 2.6.6, JF 2.12.8 
+opravit – opravím, opravíš OP 5.1.12.2, SP 11.8, SP 11.10 
+opravna obuvi SP 11.10 
+opravovat – opravuju, opravuješ SP 1.10.4, SP 11.8 
+optimista SP 1.14 
+optimistka SP 1.14 
+oranžový OP 5.1.9 
+ordinace SP 7.5 
+ordinační hodiny OP 3.2.6, SP 3.2 
+orchestr SP 4.5 
+ořech SP 10.1.2 
+osobák SP 5.3 
+osobní vlak SP 5.3 
+ostříhat (vlasy) – ostříhám, ostříháš SP 11.10 
+ošetření SP 7.5 
+ošklivo SP 14.1 
+ošklivý OP 5.2.2.2, SP 1.15 
+otázka OP 6.2 
+otec SP 1.11 
+otevřeno OP 5.1.12.3, SP 4.6 
+otevřený SP 1.14 
+otevřít – otevřu, otevřeš SP 4.3.4 
+otevřít účet SP 11.4 
+otvírací doba SP 4.6 
+otvírák SP 9.5 
+otvírat – otvírám, otvíráš OP 5.1.12.3 
+ovoce a zelenina SP 9.2 
+ovoce SP 10.1.2 
+ovocný SP 10.1.8 
+P.O.Box SP 11.1 
+pacient SP 7.5 
+pacientka SP 7.5 
+padat – padám, padáš OP 2.4.1 
+292
+pak JF 5.6, OP 3.4, OP 3.11, OP 3.12 
+palačinka SP 10.1.6 
+pamatovat si – pamatuju si, pamatuješ si JF 2.5, OP 6.1.1 
+pan JF 4.5.3, JF 5.1.1, JF 5.11.1, SP 1.1 
+pánev SP 9.5 
+paní JF 4.5, JF 5.1.1, JF 5.11.1, SP 1.1 
+papír OP 5.1.12.5, SP 6.3 
+papírový OP 5.1.12.5 
+paprika SP 10.1.2 
+pár OP 4.1.1 
+pardon JF 2.13.1, JF 4.1, JF 5.1.2, JF 6.1 
+párek SP 10.1.7 
+parkety SP 2.3 
+parkování zakázáno JF 2.10.1 
+parkovat – parkuju, parkuješ SP 5.7 
+parkoviště SP 5.7 
+parlament SP 6.5 
+partner SP 1.11, SP 6.1 
+partnerka SP 1.11, SP 6.1 
+party SP 6.2 
+pas SP 5.10, SP 5.13, SP 5.15 
+pasivní SP 1.14 
+pasová kontrola SP 5.13 
+pasta (na zuby) SP 7.3 
+paštika SP 10.1.7 
+pátek OP 3.2.4 
+patro SP 2.2 
+péct – peču, pečeš SP 10.1.9 
+pečivo SP 10.1.5 
+pekařství SP 9.2 
+pěkně SP 14.1 
+pěna na holení SP 7.3 
+peněženka SP 5.12, SP 9.4 
+peníze SP 3.3, SP 9.7 
+penzion SP 5.11 
+pepř SP 10.1.3 
+perlivý SP 10.1.8 
+pero SP 6.3 
+peřina SP 2.3 
+pes SP 2.8 
+pesimista SP 1.14 
+pesimistka SP 1.14 
+pěstovat – pěstuju, pěstuješ SP 4.2 
+pěší zóna SP 5.7 
+pěšky OP 2.4.2, SP 5.6 
+pět OP 4.1.6 
+petržel SP 10.1.2 
+pevná linka SP 1.3 
+pevný OP 5.1.8 
+PF JF 5.11.5 
+293
+píseň SP 4.4 
+písnička SP 4.4 
+pít – piju, piješ JF 4.12, SP 10.1.1 
+pití JF 4.12, SP 10.1.1, SP 10.2 
+pivo SP 10.1.8 
+pizza SP 10.1.4.1 
+pláč OP 6.1.2 
+plakat – pláču, pláčeš OP 6.1.2 
+plán JF 2.9.2, SP 12.1 
+plast OP 5.1.12.5 
+plastový OP 5.1.12.5 
+plat SP 3.3 
+(platební) karta SP 9.7, SP 11.4 
+platit – platím, platíš SP 2.4, SP 5.9, SP 9.7, SP 10.2 
+platný SP 5.15 
+plavání SP 4.8 
+plavat – plavu, plaveš OP 2.4.1, SP 4.8 
+plavba OP 2.4.3.1, SP 5.4 
+plavec OP 2.4.3.2 
+plavky SP 4.8, SP 9.4 
+plavkyně OP 2.4.3.2 
+plech OP 5.1.12.5 
+plechový OP 5.1.12.5 
+ples SP 4.5 
+pleš SP 1.15 
+pleťové mléko SP 7.3 
+plíce SP 7.1 
+plná penze SP 5.11 
+plnoštíhlý OP 5.1.2.1.4, SP 1.15 
+plný OP 5.1.12.7, SP 11.9 
+plný úvazek SP 3.2 
+plus OP 4.1.7, OP 5.1.2.7 
+plyn OP 5.1.12.5, SP 2.5, SP 5.7 
+plynový SP 2.5 
+pneumatika SP 11.8 
+po OP 2.5.11 
+počasí SP 14.1 
+počítač SP 2.3, SP 4.3.4 
+počítačový SP 4.3.4 
+počítat – počítám, počítáš OP 4.1.7 
+pod + I OP 2.2 
+pod nulou OP 5.1.2.7 
+podepsat se – podepíšu se, podepíšeš se SP 1.1 
+podchod OP 2.4.3.1 
+podjezd OP 2.4.3.1 
+podlaha SP 2.2 
+podnájem SP 2.1 
+podnebí SP 14.1 
+podnikatel SP 1.10.2 
+podnikatelka SP 1.10.2 
+294
+podobně OP 7.4 
+podobný OP 7.4 
+podpis SP 1.1 
+podpora v nezaměstnanosti SP 3.3 
+podzim OP 3.2.2 
+poezie SP 4.7 
+pohádka SP 4.3.3 
+pohlaví SP 1.6 
+pohled JF 5.11.2, SP 6.3 
+pohlednice SP 6.3 
+pohotovost SP 7.5 
+pohyb OP 2.4.3.1 
+pohybovat – pohybuju, pohybuješ OP 2.6.1 
+pochybovat – pochybuju, pochybuješ JF 2.6.2 
+pojď/pojďme/pojďte JF 3.1.1 
+pojištění SP 3.3, SP 5.10, SP 5.15 
+pojištěný SP 7.6 
+pokladna SP 4.5, SP 5.1.3 
+pokoj SP 2.1, SP 2.2, SP 5.11 
+pokračovat – pokračuju, pokračuješ OP 3.13.2 
+pokuta SP 5.9 
+pole SP 2.7 
+poledne JF 4.2.1, OP 3.2.5 
+polévka SP 10.1.4.1 
+policejní stanice SP 11.5 
+policie SP 6.6, SP 11.5 
+policista SP 1.10.2, SP 5.9, SP 6.6, SP 11.5 
+policistka SP 1.10.2, SP 5.9, SP 6.6, SP 11.5 
+poliklinika SP 7.5 
+politický SP 6.5 
+politička SP 1.10.2, SP 6.5 
+politik SP 1.10.2, SP 6.5 
+politika SP 6.5 
+polojasno SP 14.1 
+polopenze SP 5.11 
+poloprázdný OP 5.1.12.7 
+poloviční úvazek SP 3.2 
+polštář SP 2.3 
+pomalu JF 5.8, JF 6.12, OP 2.4.4, OP 3.6 
+pomalý OP 3.6 
+pomeranč SP 10.1.2 
+pomoc! JF 3.12 
+pomoct – pomůžu, pomůžeš JF 3.12, JF 3.13.1 
+pondělí OP 3.2.4 
+ponožky SP 9.4 
+pop SP 4.4 
+popový SP 4.4 
+popelník SP 9.6 
+poplatek SP 11.4 
+porcelán OP 5.1.12.5 
+295
+porcelánový OP 5.1.12.5 
+portugalština SP 13.1 
+porucha OP 5.1.12.2, SP 11.8 
+pořád OP 3.13.2, OP 3.14.2 
+pořad SP 4.3.2, SP 4.3.3 
+pořádek OP 5.1.12.4 
+pořadí JF 5.10.10 
+posadit se – posadím se, posadíš se JF 4.12 
+poschodí SP 2.2 
+posílat – posílám, posíláš JF 5.11.2 
+poslanec SP 1.10.2 
+poslankyně SP 1.10.2 
+poslat – pošlu, pošleš OP 2.6.2, SP 4.3.4, SP 6.3, SP 11.1 
+poslední OP 4.1.2 
+poslouchat – poslouchám, posloucháš SP 4.3.2, SP 4.4, SP 4.5 
+postel SP 2.3 
+pošta SP 1.10.3, SP 6.3, SP 11.1 
+pošťačka SP 11.1 
+pošťák SP 11.1 
+poštovní poukázka SP 11.1 
+poštovní přihrádka SP 1.2, SP 11.1 
+poštovní schránka SP 11.1 
+poštovní směrovací číslo SP 1.2 
+poštovní SP 11.1 
+potichu OP 5.1.5 
+potkat se – potkám se, potkáš se 
+potok SP 2.7 
+potom JF 5.6, OP 3.4, OP 3.8, OP 3.12, OP 8.3 
+potraviny SP 9.2 
+potřebovat – potřebuju, potřebuješ SP 9.2 
+povlečení SP 2.3 
+povolání SP 1.10.1 
+pozdě OP 3.5, OP 3.7.4 
+později JF 3.15.2.2, JF 5.10.7, JF 5.10.8, OP 3.4 
+pozdrav JF 5.11.2 
+pozdravovat – pozdravuju, pozdravuješ JF 5.11.3 
+pozítří OP 3.4 
+pozor! JF 3.7 
+pozvat – pozvu, pozveš SP 6.2 
+práce SP 1.10.1 
+pracovat – pracuju, pracuješ SP 1.10.1, SP 3.1, SP 3.2 
+pracovat jako SP 1.10.1, SP 1.10.4 
+pracovat kde SP 1.10.4 
+pracovitý SP 1.14 
+pracovní den OP 3.2.6 
+pracovní doba OP 3.2.6, SP 3.2 
+pračka OP 5.1.12.4, SP 2.3 
+prádelna OP 5.1.12.4, SP 11.10 
+prádlo SP 11.10 
+prarodiče SP 1.11 
+296
+prase SP 2.8 
+prášek SP 7.5 
+prát – peru, pereš OP 5.1.12.4 
+pravda JF 2.1.1, OP 5.2.3 
+právě OP 4.3.4 
+pravičák SP 6.5 
+pravidelně OP 3.14.3 
+právnička SP 1.10.2, SP 6.6 
+právník SP 1.10.2, SP 6.6 
+pravoslavná SP 1.12 
+pravoslavný SP 1.12 
+pravý OP 5.1.12.6 
+prázdniny OP 3.2.6, SP 3.2, SP 4.1 
+prázdný OP 5.1.12.7, SP 11.9 
+premiér SP 6.5 
+premiérka SP 6.5 
+prezident SP 6.5 
+prezidentka SP 6.5 
+prima JF 2.12.1, JF 3.1.2.1, JF 4.4.2, OP 5.2.2.1 
+pro (být pro) JF 3.16 
+problém OP 5.2.7, OP 8.5 
+procento OP 4.1.7 
+proclít – proclím, proclíš SP 5.13 
+proč  JF 1.4.2, OP 7.8.1, OP 7.8.2 
+proč ne JF 3.1.2.1 
+prodat – prodám prodáš OP 5.2.1 
+prodavač SP 1.10.2, SP 9.2 
+prodavačka SP 1.10.2, SP 9.2 
+prodávat – prodávám, prodáváš OP 5.2.1, SP 1.10.4 
+profesor SP 8.1 
+profesorka SP 8.1 
+program SP 4.3.1, SP 4.3.3, SP 4.5 
+programátor SP 1.10.2 
+programátorka SP 1.10.2 
+prohlídka SP 7.5 
+prohrát – prohraju, prohraješ OP 5.2.4, SP 4.8 
+procházka SP 4.1 
+promiň/promiňte JF 2.13.1, JF 3.3.2, JF 4.1, JF 5.1.2, JF 5.3, JF 5.9 
+pronajmout si – pronajmu si, pronajmeš si SP 2.1 
+prosím + A JF 3.15.1, JF 5.10.5 
+prosím JF 2.13.6, JF 5.10.1.1 
+prosím tě/vás OP 6.2 
+Prosím? JF 5.8, JF 5.10.1.2, JF 6.1, JF 6.3, SP 9.2 
+prosinec OP 3.2.3 
+prosit – prosím, prosíš + A JF 2.11.2, JF 3.2, JF 5.1.2 
+prostěradlo SP 2.3 
+prostitut SP 6.8 
+prostitutka SP 6.8 
+prošlý OP 5.1.12.2 
+protestant SP 1.12 
+297
+protestantka SP 1.12 
+protože OP 7.8.1 
+proud SP 2.5 
+próza SP 4.7 
+prsa SP 7.1 
+prst SP 7.1 
+pršet – prší impers. SP 14.1 
+pruhovaný OP 5.1.10 
+průmysl SP 2.7 
+průvodce (kniha) SP 5.10 
+průvodce SP 1.10.2, SP 5.10 
+průvodčí SP 1.10.2 
+průvodkyně SP 1.10.2, SP 5.10 
+prý JF 2.6.7 
+pryč JF 3.7, OP 1.3.2, OP 2.1.1, OP 2.5.2, OP 5.1.12.3 
+přát – přeju, přeješ JF 2.11.1, JF 4.8.1, JF 5.11.4 
+přát si – přeju si, přeješ si JF 2.11.2, JF 2.11.2.1, SP 9.2, SP 10.2 
+před + I OP 2.2, OP 3.4 
+před + A OP 2.5.5 
+předat – předám, předáš JF 5.10.6 
+předevčírem OP 3.4 
+předmět SP 8.2 
+předpověď počasí SP 14.1 
+předprodej SP 4.5 
+představení SP 4.5 
+představit – představím, představíš JF 4.6.1 
+předtím OP 3.4, OP 8.3 
+předvolba SP 1.3 
+přeháňka SP 14.1 
+přechod OP 2.4.3.1 
+přechodné bydliště SP 1.2 
+přejezd OP 2.4.3.1 
+překladatel SP 1.10.2 
+překladatelka SP 1.10.2 
+překvapení JF 2.12.7 
+přeložit – přeložím, přeložíš SP 13.1 
+přepážka SP 11.1 
+přepojit – přepojím, přepojíš JF 5.10.6 
+přes OP 2.5.11 
+přesně OP 3.5, OP 4.3.4 
+přestat – přestanu, přestaneš JF 2.10.4, OP 3.13.3 
+přestávka SP 3.2, SP 4.5 
+přestupovat – přestupuju, přestupuješ OP 2.4.1, SP 5.1.1 
+převlékat se – převlékám se, převlékáš se SP 9.4 
+převléknout se – převléknu se, převlékneš se SP 9.4 
+příbor SP 9.5 
+příbuzný SP 1.11 
+příchod k vlakům SP 5.1.3 
+příjem SP 3.3 
+přijet – přijedu, přijedeš OP 2.4.1, OP 2.5.2, SP 6.2 
+298
+příjezd OP 2.4.3.1, SP 5.1.3 
+přijímací zkouška SP 8.3 
+přijít – přijdu, přijdeš OP 2.4.1, OP 2.5.2, SP 3.1, SP 6.2 
+příjmení SP 1.1 
+přílet OP 2.4.3.1, SP 5.2 
+přiletět – přiletím, přiletíš OP 2.4.1, SP 5.3 
+příliš OP 5.2.8 
+příliš málo OP 4.3.6 
+příliš mnoho OP 4.3.6 
+přinést – přinesu, přineseš OP 2.6.2 
+příplatek SP 5.1.3 
+připojení SP 4.3.4 
+příroda SP 2.7 
+přírodní OP 5.1.12.6 
+příspěvek SP 3.3 
+přistýlka SP 5.11 
+příští OP 3.4, SP 5.1.3 
+přítel SP 1.11, SP 6.1 
+přítelkyně SP 6.1 
+přivézt – přivezu, přivezeš OP 2.6.2 
+přízemí SP 2.2, SP 4.5 
+psát – píšu, píšeš JF 6.6, JF 6.8, OP 6.2, SP 4.7, SP 6.3 
+psát jak SP 13.1 
+psát se – píše se (to) impers. SP 1.1 
+psát si (s) – píšu si, píšeš si SP 6.3 
+PSČ SP 1.2 
+pst OP 5.1.5 
+psychiatr SP 7.5 
+psycholog SP 7.5 
+psychologický SP 4.7 
+pták SP 2.8 
+ptát se – ptám se, ptáš se OP 6.2 
+půda SP 2.2 
+půjčit si – půjčím si, půjčíš si SP 4.3.3, SP 4.7, SP 11.4 
+půjčovna automobilů SP 5.6 
+půl OP 3.2.1, OP 3.3.1, OP 4.1.5, OP 5.1.2.4 
+půlka OP 4.1.5 
+půlnoc OP 3.2.5 
+puntíkovaný OP 5.1.10 
+pustit – pustím, pustíš SP 2.5 
+pustit si – pustím si, pustíš si SP 4.4 
+rád/ráda JF 2.12.1, JF 3.13.2.1, OP 6.1.2, SP 4.2 
+raději JF 3.11, JF 3.13.2.2 
+rádio SP 2.3, SP 4.3.2 
+radost JF 2.12.1, OP 6.1.2 
+radši JF 3.11, JF 3.13.2.2 
+rajče SP 10.1.2 
+raketa SP 4.8 
+rameno SP 7.1 
+rána SP 7.4 
+299
+ráno JF 4.2.1, OP 3.2.5 
+realista SP 1.14 
+realistka SP 1.14 
+recepce SP 5.11 
+recept (na léky) SP 7.5 
+redaktor SP 1.10.2 
+redaktorka SP 1.10.2 
+reklama SP 4.3.1 
+relaxovat – relaxuju, relaxuješ SP 3.1, SP 4.1 
+remíza SP 4.8 
+rentgen SP 7.5 
+restaurace SP 1.10.3, SP 10.2 
+rezervace SP 5.1.3, SP 5.11 
+rezervovat (si) – rezervuju, rezervuješ SP 4.5, SP 5.11 
+rock SP 4.4 
+rockový SP 4.4 
+rodiče SP 1.11 
+rodina SP 1.11 
+rodinný stav SP 1.6 
+rodné číslo SP 1.4 
+rodné příjmení SP 1.1 
+roh OP 2.2 
+rohlík SP 10.1.5 
+rok JF 4.8.3, OP 3.2.1 
+rok/roky/let OP 5.1.11.1 
+román SP 4.7 
+romantický SP 4.7 
+rovina SP 2.7 
+rovně OP 2.5.5, SP 12.1 
+rozbít – rozbiju, rozbiješ OP 5.1.12.2 
+rozbít se –  rozbiju, rozbiješ OP 5.1.12.2 
+rozbitý OP 5.1.12.2, SP 11.8 
+rozená SP 1.1 
+rozhlas SP 4.3.2 
+rozumět – rozumím, rozumíš JF 5.7, JF 5.8, JF 6.1, JF 6.14, OP 6.1.1 
+rozumět jak SP 13.1 
+rozvedený SP 1.6 
+ručník SP 7.3 
+ruka SP 7.1 
+rukavice SP 9.4 
+Rusko SP 5.10 
+rusky SP 13.1 
+ruština SP 13.1 
+růže SP 2.9 
+růžový OP 5.1.9 
+ryba SP 2.8, SP 10.1.7 
+rybník SP 2.7 
+rychle OP 2.4.4, OP 3.6, SP 12.1 
+rychlík SP 5.3 
+rychlíkem OP 2.4.2 
+300
+rychloobvaz SP 7.4 
+rychlý OP 3.6 
+rýma SP 7.4 
+rýže SP 10.1.4.2 
+řada SP 4.5 
+ředitel SP 1.10.2 
+ředitelka SP 1.10.2 
+řeka SP 2.7 
+říct – řeknu, řekneš  JF 1.2.2, JF 5.2, OP 6.2 
+řidič OP 2.4.3.2, SP 1.10.2, SP 5.8 
+řidičák SP 5.9 
+řidička OP 2.4.3.2, SP 1.10.2, SP 5.8 
+řidičský průkaz SP 5.9 
+řídit – řídím, řídíš SP 5.6 
+říjen OP 3.2.3 
+říkat – říkám, říkáš  JF 1.2.2, JF 5.5, OP 6.2 
+řízek SP 10.1.4.1 
+řízení SP 11.8 
+S (velikost) OP 5.1.2.1 
+s titulky SP 4.3.3 
+sáček OP 5.1.2.5 
+sádra SP 7.4 
+salám SP 10.1.7 
+salát SP 10.1.2, SP 10.1.5 
+sám OP 7.6 
+samoobsluha SP 9.1, SP 10.2 
+samozřejmě JF 2.10.3.1 
+sanitka SP 7.5 
+sbírat – sbírám, sbíráš SP 4.2 
+sci-fi SP 4.7 
+se OP 7.3, OP 8.1.3 
+se snídaní SP 5.11 
+sedadlo SP 4.5 
+sedět – sedím sedíš OP 2.1.2 
+sedmička (vína) OP 5.1.2.4 
+sejít se – sejdu se, sejdeš se SP 6.2 
+sekretářka SP 1.10.2 
+sekunda OP 3.2.1, OP 3.3.1 
+sem OP 2.5.2, OP 8.3 
+sem tam OP 3.14.7 
+semafor SP 5.7 
+semestr OP 3.2.6 
+senát SP 6.5 
+senátor SP 6.5 
+senátorka SP 6.5 
+seriál SP 4.3.3 
+servírka SP 10.2 
+servis SP 5.7 
+sestra SP 1.11 
+sestra (zdravotní) SP 1.10.2, SP 7.5 
+301
+sestřenice SP 1.11 
+sever OP 2.1.3 
+severní OP 2.1.3 
+schody SP 2.2 
+signál JF 5.10.10 
+silnice SP 5.7 
+silný OP 5.1.2.1.4, SP 1.15 
+Silvestr OP 3.2.7 
+síť SP 4.8 
+skanzen SP 5.10 
+skleněný OP 5.1.12.5 
+sklenice OP 5.1.2.5, SP 9.5 
+sklep SP 2.2 
+sklo OP 5.1.12.5 
+skopové SP 10.1.7 
+skoro OP 3.14.8, OP 4.3.4 
+skříň SP 2.3 
+skříňka SP 2.3 
+skupina SP 4.5 
+sladký OP 5.1.6 
+slaný OP 5.1.6 
+slečna JF 4.5, JF 5.1.1, JF 5.11.1, SP 1.1 
+slepice SP 2.8 
+sleva OP 5.2.1, SP 9.2 
+slovník SP 13.1 
+slovo SP 11.1, SP 13.1 
+složenka SP 11.1 
+složka SP 4.3.4 
+slunce SP 14.1 
+slyšet – slyším, slyšíš JF 5.10.4.1, OP 5.1.5 
+smát se – směju se, směješ se OP 6.1.2 
+smazat – smažu, smažeš SP 4.3.3 
+smažený sýr SP 10.1.4.1 
+smažit – smažím, smažíš SP 10.1.9 
+směnárna SP 11.4 
+smět – smím, smíš JF 2.10 
+smeták SP 2.6 
+smetana SP 10.1.3 
+smích OP 6.1.2 
+smrdět – smrdím, smrdíš OP 5.1.7 
+sms OP 6.2, SP 6.3 
+smůla OP 5.2.4 
+smutek OP 6.1.2 
+smutný OP 6.1.2, SP 1.14 
+sněžit – sněží impers. SP 14.1 
+snídaně SP 10.1.1 
+snídat – snídám, snídáš SP 10.1.1 
+sníh SP 14.1 
+sobota OP 3.2.4 
+sociální dávka SP 3.3 
+302
+sociální demokracie SP 6.4 
+sociální pojištění SP 3.3 
+socha SP 4.6 
+sochař SP 1.10.2, SP 4.6 
+sochařka SP 1.10.2, SP 4.6 
+sólista SP 4.5 
+sólistka SP 4.5 
+sotva JF 2.6.2 
+soubor SP 4.3.4 
+souhlasit – souhlasím, souhlasíš JF 2.1, JF 2.3, JF 3.16, JF 5.5, OP 5.2.3 
+soused SP 6.1 
+sousedka SP 6.1 
+spát – spím, spíš SP 3.1, SP 5.11, SP 7.2 
+speciál SP 5.7 
+specializace SP 8.3 
+speciální OP 5.2.6 
+spěchat – spěchám, spěcháš OP 2.4.1 
+spěšňák SP 5.3 
+spěšný vlak SP 5.3 
+spisovatel SP 1.10.2, SP 4.7 
+spisovatelka SP 1.10.2, SP 4.7 
+spočítat – spočítám, spočítáš OP 4.1.7 
+spodní prádlo SP 9.4 
+Spojené státy (americké) SP 1.8, SP 5.10 
+spojení SP 5.1.3 
+spojit – spojím, spojíš JF 5.10.6 
+spokojený JF 2.12.4 
+spolu OP 7.6 
+spolužačka SP 6.1 
+spolužák SP 6.1 
+sporák SP 2.3 
+sport SP 4.8 
+sportovat – sportuju, sportuješ SP 4.2, SP 4.8 
+sportovní boty SP 4.8 
+spousta OP 4.2.1 
+správce SP 2.1 
+správně OP 5.2.3, SP 13.1 
+správný OP 5.2.3, SP 13.1 
+sprcha SP 2.3 
+sprchovat se – sprchuju se, sprchuješ se OP 5.1.12.4, SP 3.1 
+sprchový gel SP 7.3 
+sprchový kout SP 2.3 
+spropitné SP 9.7, SP 10.2 
+SPZ SP 5.9 
+srdce SP 7.1 
+srpen OP 3.2.3 
+SŠ SP 8.1 
+stadion SP 4.8 
+stan SP 5.11 
+stánek SP 9.1 
+303
+stanice LPG SP 5.7 
+stanice SP 4.3.2, SP 4.3.3, SP 5.1.3 
+starší (než) OP 5.1.11.1 
+starý OP 5.1.11.1, OP 5.1.11.2, SP 1.15, SP 4.6 
+stát kolik – stojí (to) impers. OP 5.2.1, SP 2.4, SP 9.7 
+stát – stojím, stojíš OP 2.1.2 
+stát se – stane se impers.  JF 1.4.2, JF 2.13.2, OP 1.2 
+stát SP 1.2, SP 6.5, SP 5.10 
+státní poznávací značka SP 5.9 
+státní příslušnost SP 1.6 
+(státní) svátek OP 3.2.6, SP 3.2 
+státní zkouška SP 8.3 
+stav SP 1.6 
+stávka SP 3.2 
+stěhovat se – stěhuju se, stěhuješ se SP 2.1 
+stejně OP 7.4 
+stejný OP 7.4 
+stěna SP 2.2 
+stihnout – stihnu, stihneš SP 5.1.1 
+stipendium SP 3.3 
+sto OP 4.1.1 
+stoupat – stoupám, stoupáš OP 2.5.6 
+strach JF 2.12.11, OP 6.1.2 
+strana SP 4.3.1, SP 6.5 
+strom SP 2.9 
+strop SP 2.2 
+strýc SP 1.11 
+středa OP 3.2.4 
+střední škola SP 8.1 
+středoškolské SP 8.1 
+stříbrný OP 5.1.9, OP 5.1.12.5 
+stříbro OP 5.1.12.5 
+student SP 1.10.2, SP 8.1 
+studentka SP 1.10.2, SP 8.1 
+studený OP 5.1.2.7, SP 2.5 
+studovat – studuju, studuješ SP 1.10.4, SP 8.1 
+Stůj/Stůjte! SP 5.6 
+stůl SP 2.3 
+stupeň (Celsia) OP 5.1.2.7 
+sucho OP 5.1.3, SP 14.1 
+suchý OP 5.1.3 
+sukně SP 9.4 
+sůl SP 10.1.3 
+sundat si – sundám si, sundáš si SP 9.4 
+sundávat si – sundávám si, sundáváš si SP 9.4 
+super JF 2.12.1, SP 5.7 
+supermarket SP 9.1 
+sušenka SP 10.1.6 
+suterén SP 2.2 
+svačina SP 10.1.1 
+304
+svátek JF 4.8.1, JF 5.11.4, SP 3.2 
+světle- OP 5.1.9 
+světlé pivo SP 10.1.8 
+světlo OP 5.1.4, SP 2.3, SP 11.8 
+světlý OP 5.1.9, SP 1.15 
+svetr SP 9.4 
+svítit – svítí impers. SP 14.1 
+svlékat se – svlékám se, svlékáš se SP 3.1, SP 9.4 
+svléknout se – svléknu se, svlékneš se SP 3.1, SP 9.4 
+svobodný SP 1.6 
+svůj/svoje OP 7.5,OP 8.1.6 
+sympatický SP 1.14, SP 6.1 
+syn SP 1.11 
+sýr SP 10.1.5 
+šála SP 9.4 
+šálek OP 5.1.2.5, SP 9.5 
+šampon SP 7.3 
+šatna SP 4.5 
+šaty SP 9.4 
+šedivý OP 5.1.9, SP 1.15 
+šedý OP 5.1.9 
+šek SP 9.7, SP 11.4 
+šekem SP 9.7 
+široký OP 5.1.2.1.2 
+škoda JF 2.12.6, JF 2.12.9, JF 2.13.3 
+škola SP 1.10.3, SP 8.1 
+školní rok OP 3.2.6 
+šlehačka SP 10.1.3 
+špagety SP 10.1.4.1 
+španělština SP 13.1 
+špatně – JF 4.4.4, JF 5.10.4.2, OP 5.1.12.1, OP 5.2.2.1, OP 5.2.3, SP 13.1 
+špatný na OP 5.2.3 
+špatný JF 5.10.11, OP 5.2.2.1, OP 5.2.3, SP 13.1 
+špenát SP 10.1.2 
+špetka OP 5.1.2.5 
+špinavý OP 5.1.12.4, SP 2.6, SP 2.7, SP 7.3 
+šťastný OP 6.1.2 
+Štědrý den OP 3.2.7 
+štěstí JF 4.8.1, OP 5.2.4 
+štíhlý OP 5.1.2.1.4, SP 1.15 
+šunka SP 10.1.7 
+švestka SP 10.1.2 
+ta OP 8.1.4 
+tabák SP 9.2, SP 9.6 
+tableta SP 7.5 
+tady JF 5.10.2, JF 5.10.4.2, OP 1.3.1, OP 2.1.1, OP 5.1.12.3, OP 8.3 SP 12.1, SP 12.1 
+tahle OP 8.1.4 
+tachometr SP 11.8 
+tak JF 2.1.1, JF 2.3 
+tak jo JF 3.1.2.1 
+305
+taky JF 4.7.2, JF 4.11.2, OP 7.6 
+talíř SP 9.5 
+tam JF 5.10.4.1, JF 5.10.4.2, OP 2.1.1, OP 2.5.2, OP 8.3, SP 12.1 
+tamta OP 8.1.4 
+tamten OP 8.1.4 
+tamto OP 8.1.4 
+tancovat – tancuju, tancuješ OP 2.4.1, SP 4.2, SP 4.5 
+tankovat – tankuju, tankuješ SP 11.9 
+taška SP 5.12, SP 9.4 
+táta SP 1.11 
+tatarka SP 10.1.3 
+tatarská omáčka SP 10.1.3 
+tatínek SP 1.11 
+tato JF 4.6.1, OP 3.4, OP 8.1.4 
+taxa SP 5.5 
+taxi SP 5.5 
+taxík SP 5.5 
+taxikář SP 5.5 
+taxikářka SP 5.5 
+téct – teče (voda) impers. SP 2.5 
+tečka (.) SP 1.2, SP 4.3.4 
+teď OP 1.5, OP 3.4, OP 8.3 
+technický průkaz SP 5.9 
+techničák SP 5.9 
+telefon SP 1.3, SP 2.3, SP 11.2 
+telefonní budka SP 11.2 
+telefonní číslo JF 5.10.11, SP 1.3, SP 11.2 
+telefonní seznam SP 1.3, SP 11.2 
+telefonovat – telefonuju, telefonuješ OP 6.2, SP 11.2 
+telegram SP 11.1 
+televize SP 2.3, SP 4.3.3 
+televizní SP 4.3.3 
+tělo SP 7.1 
+ten JF 1.1, JF 4.6.1, OP 3.4, OP 8.1.4 
+tenhle OP 8.1.4 
+tenis SP 4.8 
+tenký OP 5.1.2.1.4 
+tento JF 4.6.1, OP 3.4, OP 8.1.4 
+teplo OP 5.1.2.7, SP 14.1 
+teploměr OP 5.1.2.7 
+teplota OP 5.1.2.7, SP 7.4, SP 14.1 
+teplý OP 5.1.2.7, SP 2.5 
+teprve OP 3.15.2 
+terorista SP 6.7 
+teroristický útok SP 6.7 
+teroristka SP 6.7 
+test SP 8.3 
+těstoviny SP 10.1.4.2 
+těší mě JF 4.7 
+těšit se – těším se, těšíš se JF 5.11.3 
+306
+teta SP 1.11 
+těžko JF 2.6.2 
+těžký OP 5.1.2.3, OP 5.2.7 
+thriller SP 4.3.3, SP 4.7 
+ticho OP 5.1.5, SP 2.7 
+tichý OP 5.1.5, SP 2.7 
+tisíc OP 4.1.1 
+titul SP 1.1 
+tlačit (auto) – tlačím, tlačíš SP 5.7 
+tlumočnice SP 1.10.2 
+tlumočník SP 1.10.2 
+tlustý OP 5.1.2.1.4, SP 1.15 
+tma OP 5.1.4 
+tmavé pivo SP 10.1.8 
+tmavo- OP 5.1.9 
+tmavý OP 5.1.9, SP 1.15 
+to  JF 1.1, JF 4.6.1, OP 8.1.4 
+to dělá OP 4.1.7 
+toaleta SP 2.2, SP 4.5 
+toaletní papír 
+tohle JF 1.1, JF 4.6.1, OP 8.1.4 
+toto  JF 1.1, JF 4.6.1, OP 3.4, OP 8.1.4 
+továrna SP 1.10.3 
+tragédie SP 4.5 
+trajekt SP 5.1.2 
+tramvaj SP 5.1.2 
+tramvají OP 2.4.2 
+trasa (metro) SP 5.1.3 
+tráva SP 2.7, SP 2.9 
+trenér SP 4.8 
+trénink SP 4.8 
+trénovat – trénuju, trénuješ SP 4.8 
+trh SP 9.1 
+tričko SP 9.4 
+trocha OP 4.2.1 
+trochu OP 4.3.2, OP 5.1.2.5 
+trolejbus SP 5.1.2 
+trolejbusem OP 2.4.2 
+trvalé bydliště SP 1.2 
+trvat – trvá impers. OP 3.13.2, SP 4.5 
+tržnice SP 9.1 
+třeba OP 7.7.4 
+třešeň SP 10.1.2 
+tři čtvrtě OP 3.2.1, OP 3.3.1, OP 4.1.5 
+tři OP 4.1.6 
+třída SP 1.2 
+tudy OP 2.5.11 
+tulipán SP 2.9 
+tuna OP 5.1.2.3 
+turista OP 2.4.3.2, SP 5.10 
+307
+turistika SP 4.8 
+turistka OP 2.4.3.2, SP 5.10 
+tužka SP 6.3 
+tvrdý OP 5.1.8 
+tvůj/tvoje JF 5.11.8, OP 7.5, OP 8.1.6 
+ty  JF 1.1, OP 8.1.1 
+týden OP 3.2.1 
+týdenní SP 5.1.3 
+typický OP 5.2.6 
+u koho SP 1.2 
+u OP 2.1.1 
+ubytování SP 5.11 
+ubytovna SP 2.1 
+účastník JF 5.10.10 
+učebnice SP 4.7, 8.3 
+učesat (vlasy) – učešu, učešeš SP 11.10 
+učesat se – učešu se, učešeš se SP 7.3 
+účet SP 5.11, SP 10.2 
+učit – učím, učíš SP 1.10.4, SP 8.1 
+učit se – učím se, učíš se SP 8.1 
+učitel SP 1.10.2, SP 8.1 
+učitelka SP 1.10.2, SP 8.1 
+udělat – udělám, uděláš OP 5.2.4, OP 8.6, SP 3.1, SP 10.1.9 
+udělat (fotografie) SP 11.10 
+ucho SP 7.1 
+ujet – ujede impers. SP 5.1.1 
+ujít – ujde (to) impers. JF 2.12.2, JF 4.4.3 
+ukázat – ukážu, ukážeš SP 9.2 
+uklidit – uklidím, uklidíš OP 5.1.12.4, SP 2.6 
+uklizený OP 5.1.12.4 
+uklízet – uklízím, uklízíš OP 5.1.12.4, SP 2.6 
+ukrást – ukradnu, ukradneš SP 6.6 
+ulice SP 1.2, SP 5.7 
+uložit – uložím, uložíš SP 4.3.4, SP 11.4 
+umělec SP 1.10.2 
+umělkyně SP 1.10.2 
+umělý OP 5.1.12.6 
+umět – umím, umíš JF 2.7.2, JF 2.7.3 
+umýt – umyju, umyješ SP 2.6, SP 11.10 
+umýt nádobí SP 2.6 
+umýt se – umyju se, umyješ se SP 3.1, SP 7.3 
+umýt si SP 7.3 
+umývadlo SP 2.3 
+unavený SP 7.2 
+unést – unesu, uneseš SP 6.6 
+univerzita SP 1.10.3, SP 8.1 
+únor OP 3.2.3 
+úplně OP 5.2.8 
+uprchlice SP 5.14 
+uprchlický tábor SP 5.14 
+308
+uprchlík SP 5.14 
+uprostřed OP 2.2 
+upřímnou soustrast JF 4.9, JF 5.11.7 
+určitě JF 1.5.1.1, JF 2.1.2, JF 2.6.1, JF 2.6.5, JF 2.10.3.1 
+úrok SP 11.4 
+úřad SP 1.10.3 
+úřední hodiny OP 3.2.6, SP 3.2 
+úřednice SP 11.1 
+úředník SP 11.1 
+USA SP 5.10 
+úspěch OP 5.2.4 
+ustlat (postel) – ustelu, usteleš SP 2.6 
+ustlat si – ustelu si, usteleš si SP 2.6 
+(ústřední) topení SP 2.3, SP 2.5 
+uši SP 7.1 
+Uteč!/Utečte! JF 3.7, OP 2.5.2 
+úterý OP 3.2.4 
+uzavřený SP 1.14 
+uzdravit se – uzdravím se, uzdravíš se JF 2.11.1, JF 4.8.2 
+uzeniny SP 10.1.7 
+úzký OP 5.1.2.1.2 
+už OP 3.9, OP 3.15.1 
+v/ve OP 2.1.1, OP 3.4 
+v domácnosti SP 1.10.1 
+v důchodu viz být v důchodu 
+v kolik hodin  JF 1.4.2, OP 3.4 
+v létě OP 3.4 
+v pořádku OP 5.1.12.1, OP 5.1.12.2, SP 10.2 
+v rekonvalescenci viz být v rekonvalescenci 
+v soukromí SP 5.11 
+v zimě OP 3.4 
+vagón SP 5.3 
+válka SP 6.7 
+vana SP 2.3 
+Vánoce JF 4.8.3, JF 5.11.5, OP 3.2.7 
+vařené brambory SP 10.1.4.2 
+vařit – vařím vaříš OP 5.1.2.7, SP 3.1, SP 10.1.9 
+váš/vaše JF 5.11.8, OP 7.5, OP 8.1.6 
+vážit – vážím, vážíš OP 5.1.2.3, SP 1.15 
+včas OP 3.5 
+včera OP 3.4 
+včetně SP 2.4 
+vdaná SP 1.6 
+vdova SP 1.6 
+vdovec SP 1.6 
+věc OP 8.5 
+večer JF 4.2.1, OP 3.2.5 
+večeře SP 10.1.1  
+večeřet – večeřím, večeříš SP 10.1.1 
+večírek SP 6.2 
+309
+vědět – vím, víš JF 2.4, OP 6.1.1 
+vedle OP 2.2 
+vedlejší SP 5.7 
+vegetarián/vegetariánka SP 10.1.1 
+vejce SP 10.1.3 
+vejít se – vejdu se, vejdeš se OP 5.1.2.4 
+věk OP 5.1.11.1 
+Velikonoce JF 4.8.3, JF 5.11.5, OP 3.2.7 
+velikost OP 5.1.2.1 
+Velká Británie SP 1.8, SP 5.10 
+velké pivo OP 5.1.2.5, SP 10.1.8 
+velký OP 5.1.2.1, OP 5.1.2.1.3 
+velký OP 5.1.2.4, OP 5.1.2.6 
+velmi málo OP 4.3.6 
+velmi mnoho OP 4.3.6 
+velmi OP 5.2.8 
+velvyslanec SP 6.5, SP 11.5 
+velvyslanectví SP 6.5, SP 11.5 
+velvyslankyně SP 6.5, SP 11.5 
+ven JF 3.7, OP 2.5.4, SP 4.1 
+venku OP 2.2, SP 14.1 
+vepřové SP 10.1.7 
+věřit – věřím, věříš OP 6.1.1 
+věřit (v Boha) – věřím, věříš SP 1.12 
+veselý JF 4.8.3, OP 6.1.2, SP 1.14 
+vesnice SP 1.2, SP 2.7 
+vést – vedu, vedeš OP 2.6.2 
+věta SP 13.1 
+větší OP 5.1.2.1 
+vevnitř OP 2.2 
+vézt – vezu, vezeš OP 2.6.2 
+věž (hi-fi) SP 2.3, SP 4.4 
+vhodný OP 5.2.3 
+vchod OP 2.4.3.1, OP 2.5.4 
+více/víc než OP  4.3.4 
+video SP 2.3, SP 4.3.3 
+(video)kamera SP 5.12 
+videokazeta SP 4.3.3 
+video(přehrávač) SP 4.3.3 
+videopůjčovna SP 4.3.3 
+videorekordér SP 4.3.3 
+vidět – vidím, vidíš OP 5.1.4 
+vidlička SP 9.5 
+víkend OP 3.2.1, JF 4.2.2, SP 3.2 
+vinný SP 6.6 
+víno SP 10.1.8 
+vitamín SP 7.5 
+vítat – vítám, vítáš JF 4.12 
+vítr SP 14.1 
+vízová povinnost SP 11.5 
+310
+vízum SP 5.15, SP 11.5 
+vjezd OP 2.4.3.1, SP 5.7 
+vjezd zakázán JF 2.10.1 
+VKV SP 4.3.2 
+vláda SP 6.5 
+vlak SP 5.1.2, SP 5.3 
+vlakem OP 2.4.2 
+vlakový SP 5.1.3 
+vlasy SP 1.15, 7.1 
+vlevo OP 2.2, OP 2.5.7, SP 12.1 
+vlhký OP 5.1.3 
+vlna OP 5.1.12.5 
+vlněný OP 5.1.12.5 
+voda OP 5.1.12.5, SP 10.1.8, SP 2.5, SP 2.7, SP 11.9 
+voda po holení SP 7.3 
+volaný JF 5.10.10 
+volat – volám, voláš OP 6.2, SP 11.2 
+volejbal SP 4.8 
+volno OP 3.2.6, OP 5.1.12.3, SP 3.2, SP 4.1 
+volný čas SP 4.1 
+volný SP 5.11 
+vonět – voním, voním OP 5.1.7 
+vousy SP 1.15 
+vpravo OP 2.2, OP 2.5.7, SP 12.1 
+vpředu OP 2.2 
+vracet se – vracím se, vracíš se OP 2.5.3 
+vrátit – vrátím, vrátíš SP 4.3.3, SP 4.7 
+vrátit + A + kam – vrátím, vrátíš OP 2.6.2 
+vrátit se – vrátím se, vrátíš se OP 2.5.3, SP 3.1, SP 4.7 
+vrchní SP 10.2 
+vstávat – vstávám, vstáváš OP 2.4.1, SP 3.1 
+vstup zakázán JF 2.10.1 
+vstupenka SP 4.5 
+vstupné OP 5.2.1, SP 4.5 
+VŠ SP 8.1 
+všechno SP 9.2 
+všechno nejlepší JF 4.8.1, JF 5.1.14 
+všichni OP 4.1.1 
+všude OP 2.1.1  
+vteřina OP 3.2.1, OP 3.3.1 
+vy  JF 1.1, OP 8.1.1 
+vybírat – vybírám, vybíráš SP 9.2 
+výborně JF 3.1.2.1, OP 5.2.3 
+výborný OP 5.2.2.1, OP 5.2.3 
+vybrat – vyberu, vybereš SP 9.2, SP 11.4 
+vyčistit – vyčistím, vyčistíš OP 5.1.12.4, SP 2.6, SP 11.10 
+vyčistit si – vyčistím si, vyčistíš si OP 5.1.12.4 
+vydělávat – vydělávám, vyděláváš SP 3.3 
+vydírat – vydírám, vydíráš SP 6.6 
+výfuk SP 11.8 
+311
+vyhlídková jízda SP 5.1.3 
+vyhlídková plavba SP 5.4 
+vyhrát – vyhraju, vyhraješ OP 5.2.4, SP 4.8 
+východ (světová strana) OP 2.1.3 
+východ (exit) OP 2.4.3.1, OP 2.5.4 
+východní OP 2.1.3 
+výlet SP 5.10 
+vypadat – vypadám, vypadáš SP 1.15, SP 7.2 
+vypálit – vypálím, vypálíš SP 4.3.4 
+vypnout – vypnu, vypneš SP 2.5 
+vypnutý SP 2.5 
+vyprat – vyperu, vypereš SP 11.10 
+vyprodáno OP 1.4, OP 5.1.12.3 
+vyřídit – vyřídím, vyřídíš JF 5.10.7 
+vysát – vysaju, vysaješ SP 2.6 
+vysavač SP 2.6 
+vysávat – vysávám, vysáváš SP 2.6 
+výsledek SP 4.8, SP 8.3 
+vysoká škola SP 8.1 
+vysokoškolské SP 8.1 
+vysoký OP 5.1.2.1.3, OP 5.1.2.7, SP 1.15, SP 3.3 
+výstava SP 4.6 
+vystupovat – vystupuju, vystupuješ OP 2.4.1, SP 5.1.1 
+vysvědčení SP 8.3 
+vysvětlit – vysvětlím, vysvětlíš SP 13.1 
+vyšší odborná škola SP 8.1 
+výtah SP 2.2 
+výtvarné umění SP 4.6 
+výtvarnice SP 4.6 
+výtvarník SP 4.6 
+vyučování SP 8.1 
+vyvolat (film) – vyvolám, vyvoláš SP 11.10 
+vyznání SP 1.12 
+vyzvednout si – vyzvednu si, vyzvedneš si SP 11.1 
+vzadu OP 2.2 
+vzdělání SP 8.1 
+vzduch OP 5.1.12.5, SP 2.7, SP 11.9 
+vzít si – vezmu si, vezmeš si JF 2.11.2, SP 9.2,  SP 9.4 
+vzkaz JF 5.10.7, SP 5.11, SP 6.3 
+vzor OP 5.1.10 
+vzorovaný OP 5.1.10 
+vždycky OP 3.14.2 
+WC SP 2.2, SP 2.3, SP 4.5 
+(www) stránka SP 1.2, SP 4.3.4 
+XL (velikost) OP 5.1.2.1 
+XXL (velikost) OP 5.1.2.1 
+z/ze OP 2.5.4, OP 2.5.9, OP 4.3.3, OP 5.1.2.1.5 
+za + A OP 2.5.5, OP 3.7.4, OP 3.11, OP 3.8 
+za + I OP 2.2 
+za jak dlouho OP 3.7.4 
+312
+zabalit – zabalím, zabalíš SP 9.2 
+zábavný SP 4.7 
+začátek OP 2.2, OP 3.13.1 
+začínat  – začínám, začínáš OP 3.13.1, SP 3.2 
+začínat – začíná impers. SP 4.5 
+začít – začnu, začneš OP 3.13.1 
+záda SP 7.1 
+zadarmo OP 5.2.1 
+zahnout – zahnu, zahneš OP 2.5.7 
+zahrada SP 2.2 
+zahrát si – zahraju si, zahraješ si 
+záchod SP 2.2, SP 2.3, SP 4.5 
+zajímat se (o) – zajímám se, zajímáš se SP 4.2 
+zajímavý OP 5.2.2.1 
+zákaz koupání JF 2.10.1 
+zákaz kouření JF 2.10.1, SP 9.6 
+zákaz parkování JF 2.10.1 
+zákaz vjezdu JF 2.10.1 
+zákaz vstupu JF 2.10.1 
+základní SP 8.1 
+základní škola SP 8.1 
+zákusek SP 10.1.6 
+zámek SP 5.10 
+zaměstnanec SP 1.10.1, SP 6.1 
+zaměstnání SP 1.10.1 
+zaměstnankyně SP 1.10.1, SP 6.1 
+zaměstnavatel SP 1.10.1 
+zaměstnavatelka SP 1.10.1 
+zamluvit si – zamluvím si, zamluvíš si SP 4.5 
+zanechat – zanechám, zanecháš JF 5.10.10 
+západ OP 2.1.3 
+západní OP 2.1.3  
+zapálit si – zapálím si, zapálíš si 
+zápalky SP 9.5, SP 9.6 
+zapalovač SP 9.6 
+zápas SP 4.8 
+zaplatit – zaplatím, zaplatíš SP 2.4, SP 9.7, SP 10.2 
+zaplavat si – zaplavu si, zaplaveš si 
+zapnout – zapnu, zapneš SP 2.5 
+zapnutý SP 2.5 
+zapomenout – zapomenu, zapomeneš JF 2.5.1, OP 6.1.1 
+září OP 3.2.3 
+zařízený SP 2.1 
+zásilka SP 11.1 
+zastavit – zastavím, zastavíš SP 5.6 
+zastávka SP 5.1.3 
+zastavovat – zastavuje impers. OP 2.4.1, SP 5.1.1 
+zásuvka SP 2.3 
+zataženo SP 14.1 
+313
+ zatelefonovat – zatelefonuju, zatelefonuješ OP 6.2, SP 11.2 
+zavazadlo SP 5.12 
+závěrečná zkouška SP 8.3 
+zavěšovat – zavěšuju, zavěšuješ JF 5.10.10 
+zavináč (@) SP 1.2, SP 4.3.4 
+zavírat – zavírám, zavíráš OP 5.1.12.3 
+závislý SP 6.8 
+závod SP 4.8 
+závodit – závodím, závodíš SP 4.8 
+zavolání JF 5.10.10 
+zavolat – zavolám, zavoláš JF 5.10.5, JF 5.10.6, OP 6.2, SP 11.2 
+zavřeno OP 5.1.12.3, SP 4.6 
+zavřít – zavřu, zavřeš SP 4.3.4 
+záznamník SP 1.3, SP 11.2 
+zaznění JF 5.10.10 
+zbytečný OP 5.2.5 
+zdarma OP 5.2.1 
+zdraví JF 4.8.1, SP 7.4 
+(zdravotní) pojištění SP 3.3, SP 7.6 
+zdravotní pojišťovna SP 7.6 
+zdravotní sestra SP 1.10.2 
+zdravý OP 5.1.12.1, SP 7.4 
+zeď SP 2.2 
+zedník SP 1.10.2 
+zelenina SP 10.1.2 
+zelený OP 5.1.9, SP 1.15, SP 10.1.8 
+zelí SP 10.1.2 
+země SP 1.2, SP 2.7, SP 6.5, SP 5.10 
+zemědělský SP 2.7 
+zemřít – zemřu, zemřeš OP 1.5, SP 1.4, SP 7.4 
+zepředu OP 2.5.9 
+zeptat se – zeptám se, zeptáš se OP 6.2 
+zezadu OP 2.5.9 
+zima OP 3.2.2, OP 5.1.2.7, SP 14.1 
+zimní stadion SP 4.8 
+zítra OP 3.4 
+zkažený OP 5.1.12.2 
+zkouška SP 8.3 
+zkrátit (vlasy) – zkrátím, zkrátíš SP 11.10 
+zlato OP 5.1.12.5 
+zlatý OP 5.1.12.5, OP 5.1.9 
+zleva OP 2.5.9 
+zlobit se – zlobím se, zlobíš se OP 6.1.2 
+zločin SP 6.6 
+zlomit si – zlomím si, zlomíš si SP 7.4 
+zlý SP 1.14 
+změna OP 1.5 
+změřit – změřit, změříš (teplotu)  OP 5.1.2.7 
+zmrzlina SP 10.1.6 
+znamenat – znamená impers JF 6.4 
+známka SP 6.3, SP 8.3 
+314
+znásilnit – znásilním, znásilníš SP 6.6 
+znát – znám, znáš JF 2.4, JF 4.3.1, OP 6.1.1, SP 6.1 
+zout se – zuju se, zuješ se SP 9.4 
+zpáteční SP 5.1.3 
+zpátky OP 2.5.3 
+zpět OP 2.5.3 
+zpěvačka SP 1.10.2, SP 4.5 
+zpěvák SP 1.10.2, SP 4.5 
+zpívat – zpívám, zpíváš SP 4.2, SP 4.5 
+zpoždění SP 5.1.3 
+zprava OP 2.5.9 
+zpráva OP 6.2, SP 4.3.2, SP 6.3 
+zprávy SP 4.3.2, SP 4.3.3 
+zranění SP 7.4 
+zraněný SP 7.4 
+zranit se – zraním se zraníš se SP 7.4 
+zrušen SP 5.2 
+zrušit účet SP 11.4 
+zrzavý OP 5.1.9, SP 1.15 
+ZŠ SP 8.1 
+ztišit – ztiším, ztišíš OP 5.1.5 
+ztratit – ztratím, ztratíš SP 11.5 
+zub SP 7.1 
+zubař SP 7.5 
+zubařka SP 7.5 
+zůstat – zůstanu, zůstaneš OP 2.1.2 
+zvát – zvu, zveš JF 3.14.1, SP 6.2 
+zvíře SP 2.8 
+zvlášť OP 7.6, SP 10.2 
+zvláštní OP 5.2.6 
+žádat (o) – žádám, žádáš SP 5.14, SP 11.5 
+žádný OP 4.1.1, OP 4.2.1 
+žaludek SP 7.1 
+že  JF 1.2.2, JF 3.6, JF 5.4, OP 6.1.2 
+žehlička SP 2.3 
+železný OP 5.1.12.5 
+železo OP 5.1.12.5 
+žena SP 1.6 
+ženatý SP 1.6 
+ženské SP 1.6 
+židle SP 2.3 
+žít – žiju, žiješ OP 1.5, OP 5.1.12.1, SP 1.4, SP 2.1, SP 7.4 
+živý OP 5.1.12.1, SP 7.4 
+žízeň SP 10.1.1 
+žlutý OP 5.1.9 
+!!!Level: A2
+a  OP 7.9.1. slučování, OP 7.9.6. exemplifikace a výčty 
+a ... a  JF 5.1.6. výčet 
+absolvovat + akuzativ SP 9.1. školství 
+a hlavně OP 7.9.2. stupňování  
+a proto OP 7.10.2. následek, důsledek 
+a, plus OP 4.1. vyjádření počtu 
+a taky / také OP 7.9.1. slučování 
+adresa  SP 1.2. adresa  
+ale OP 7.9.5. odporování 
+ale - ne  OP 7.9.5. odporování 
+ale ne  OP 7.9.6. exemplifikace a výčty 
+alkoholický nápoj SP 11.1. jídlo, pití 
+ambasáda SP 12.3. diplomatické služby 
+angína SP 8.4. zdravotní problémy 
+ani OP 7.9.1. slučování 
+ani - ani OP 7.9.1. slučování 
+ano JF 2.1.1. souhlas s kladným konstatováním skutečnosti 
+ano + negativní věta JF 2.1.2. souhlas s negativním konstatováním skutečnosti 
+architektura SP 4.4. výtvarné umění, výstavy, muzea 
+asi JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ..., OP 3.15. vyjádření   
+ p
+ řibližnosti časového určení 
+ateista SP 6.6. náboženství 
+auto SP 5.2. osobní doprava 
+autoservis SP 12.4. autoservis 
+autobus SP 5.1. veřejná doprava obecně 
+autobusové nádraží SP 5.1. veřejná doprava obecně 
+až + časové určení OP 3.19. vyjádření časového horizontu 
+až  + perfektivní sloveso ve futuru OP 3.6. vyjádření následnosti ...  
+B 
+balicí papír SP 10.7.  papírnictví 
+balíček OP 4.5. vyjádření množství (nepočitatelnost) 
+balík SP 12.1. pošta 
+balkon SP 2.2. prostor domu, bytu, okolí, SP 4.3. kulturní zařízení a akce 
+banka SP 12.2. banka  
+bankomat SP 12.2. banka 
+barva OP 5.1.15. barva 
+bát se + genitiv JF 2.10 vyjádření nebo zjišťování naděje či obavy, OP 6.1.4. emoce  
+bát se, že ... JF 2.10. vyjádření nebo zjišťování naděje či obavy 
+batoh SP 5.7. zavazadla,  SP 10.5. obuv a kožené zboží 
+bavit + akuzativ OP 6.1.4. emoce  
+235
+bavit se s +  instrumentál, o +  lokál OP 6.2. vyjadřování, řeč 
+bavit se, pobavit se  OP 6.1.4. emoce  
+běhat OP 2.4. slovesa pohybu, SP 4.6. sport  
+během + genitiv OP 3.7. vyjádření souběžnosti ... 
+benzin SP 12.5. čerpací stanice 
+bez, minus OP 4.1. vyjádření počtu 
+bezpečný SP 5.3. silniční doprava 
+běžet OP 2.4. slovesa pohybu, SP 4.6. sport 
+bílý OP 5.1.15. barva 
+blahopřát,  poblahopřát + dativ, k + dativ JF 4.6. gratulace,  SP 6.4. svátky, narozeniny 
+blízko OP 2.3. vzdálenost, OP 5.1.6. vzdálenost 
+blok SP 10.7. papírnictví 
+blůza SP 10.4. oděvy 
+bolet + akuzativ SP 8.2. fyzický stav 
+boty SP 10.5. obuv a kožené zboží 
+bouřka SP 13.1. počasí 
+bramborová polévka SP 11.1. jídlo, pití 
+bramborové knedlíky SP 11.1. jídlo, pití 
+brambory SP 10.3. potraviny, SP 11.1. jídlo, pití 
+brát + akuzativ SP 3.4. příjem 
+brát, vzít + akuzativ SP 12.5. čerpací stanice 
+brát, vzít +  akuzativ, + dativ OP 7.8. vyjadřování posesivních vztahů, SP 3.2. doma 
+brát, užívat léky SP 8.5. zdravotní péče 
+bratr SP 1.11. rodina 
+brzdit, zabrzdit SP 5.3. silniční doprava 
+brzo, brzy OP 3.4. vyjádření včasnosti či opoždění děje 
+březen OP 3.1. určení konkrétního času a času děje 
+břicho SP 8.1. části lidského těla 
+budík SP 3.2. doma 
+bufet SP 11.2. restaurace, kavárny 
+bunda SP 10.4. oděvy 
+bydlet kde (v + lokál, na + lokál); bydlet přechodně  SP 1.2. adresa 
+bydliště SP 1.2. adresa 
+byt SP 2.1. bydlení 
+být (bez subjektu) + adverbium OP 5.1.17. tělesná kondice, SP 8.2. fyzický stav 
+být (futurum) OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+být OP 1.1. bytí, existence, OP 1.2. událost, OP 1.3. přítomnost, nepřítomnost  
+OP 1.4. dostupnost, nedostupnost, OP 2.1. umístění (poloha) osob ...,  
+OP 2.2. relativní  umístění (poloha) osob ..., OP 2.7. původ, SP 1.1. jméno,  
+SP 1.9. původ  
+být +  identifikující doplnění OP 7.6. identifikace 
+být +  kvalifikující doplnění OP 7.5. kvalifikace 
+být +  nominativ SP 1.8. národnost, státní příslušnost,  SP 1.10. zaměstnání,   
+SP 1.12. povahové vlastnosti  
+být + dativ (bez subjektu) SP 1.5. věk 
+být dobré / špatné JF 2.11. vyjádření nebo zjišťování spokojenosti či nespokojenosti 
+být dobře / špatně JF 2.11. vyjádření nebo zjišťování spokojenosti či nespokojenosti 
+být drahý, levný / laciný  OP 5.2.1. hodnota, cena 
+být důležitý OP 5.2.8. důležitost 
+být fajn (prima, príma) JF 2.8. vyjádření nebo zjišťování míry potěšení ... 
+být líto + dativ (že ...)  JF 2.9. vyjádření nebo zjišťování radosti nebo lítosti,   
+JF 2.14 vyjádření omluvy a odpovědi na omluvu   
+být možné JF 2.12. vyjádření nebo zjišťování míry překvapení 
+236
+být mrtvý OP 1.5. začátek, konec, změna 
+být na dovolené SP 4.1. volný čas 
+být nutné JF 2.6. vyjádření nebo zjišťování různého stupně nutnosti    
+být podobný +  dativ OP 7.7. shoda, odlišnost, srovnání 
+být překvapení JF 2.12. vyjádření nebo zjiš'tování míry překvapení 
+být rád/a (že ...) JF 2.8. vyjádření nebo zjišťování míry potěšení ... 
+být si jistý / jistá, že ... JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+být smutný OP 6.1.4. emoce  
+být spokojený / nespokojený JF 2.11. vyjádření nebo zjišťování spokojenosti či  
+nespokojenosti OP 6.1.4. emoce  
+být správné JF 2.11. vyjádření nebo zjišťování spokojenosti či nespokojenosti  
+být starý jak SP 1.5. věk 
+být škoda (že ...) JF 2.9. vyjádření nebo zjišťování radosti nebo lítosti  
+být šťastný / nešťastný OP 6.1.4. emoce  
+být tak hodný / hodná (imperativ) a + imperativ, (kondicionál) + otázka   
+JF 3.2.2. prosba 
+být tak laskav/a (kondicionál) a + otázka, (imperativ) a + imperativ JF 3.2.1. žádost 
+být třeba JF 2.6. vyjádření nebo zjišťování různého stupně nutnosti    
+být v ceně  SP 2.5. náklady na byt 
+být v domácnosti SP 1.10. zaměstnání 
+být v pořádku JF 2.11. vyjádření nebo zjišťování spokojenosti či nespokojenosti, 
+OP 5.1.17. tělesná kondice, SP 8.2. fyzický stav 
+být věřící SP 6.6. náboženství 
+být veselý OP 6.1.4. emoce  
+být živý OP 1.5. začátek, konec, změna 
+OP 6.1.4. emoce  
+C  
+celní kontrola SP 5.8. vstup do jiného státu a jeho opuštění 
+cena OP 5.2.1. hodnota, cena, SP 10.2. nakupování 
+centimetr OP 5.1.7. délkové míry 
+cesta SP 5.1. veřejná doprava obecně, SP 5.5.  prázdniny, dovolená 
+cestovat kam, jak (+ instrumentál) SP 5.1. veřejná doprava obecně 
+cestovní doklady SP 5.8. vstup do jiného státu a jeho opuštění 
+cestovní kancelář SP 5.5.  prázdniny, dovolená 
+cítit se jak SP 8.2. fyzický stav 
+cizí (člověk) SP 6.2. druhy vztahů 
+cizinecká policie SP 6.8. veřejná správa, policie 
+clo SP 5.8. vstup do jiného státu a jeho opuštění 
+co JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 8. deixe 
+cukr SP 10.3. potraviny 
+cukrárna SP 11.2. restaurace, kavárny 
+cvičit SP 4.6. sport 
+Č 
+čaj SP 10.3. potraviny, SP 11.1. jídlo, pití 
+čas OP 3.2. vyjádření časového intervalu, SP 3.2. doma 
+časopis SP 7.1. tisk 
+často OP 3.14. vyjádření frekventovanosti děje 
+čekárna SP 5.1. veřejná doprava obecně 
+čepice SP 10.4. oděvy  
+černý OP 5.1.15. barva 
+237
+červen OP 3.1. určení konkrétního času a času děje 
+červená SP 5.3. silniční doprava  
+červenec OP 3.1. určení konkrétního času a času děje 
+červený OP 5.1.15. barva 
+česat, učesat + akuzativ SP 8.3. osobní hygiena 
+čí OP 7.8. vyjadřování posesivních vztahů, OP 8. deixe 
+číslo OP 4.1. vyjádření počtu, OP 5.1.1. velikost 
+číslo domu SP 1.2. adresa 
+číslo pasu SP 1.4. osobní doklady 
+číslo účtu SP 12.2. banka 
+číslovka násobná + adverbium, za + akuzativ  OP 3.14. vyjádření frekventovanosti děje 
+číst, přečíst + akuzativ SP 4.5. literatura 
+čisticí prostředky SP 2.7. úklid, SP 10.6. drogerie 
+čistírna SP 12.6. další druhy služeb 
+čistit, vyčistit (si) + akuzativ OP 5.1.19. čistota, SP 2.7. úklid, SP 8. 3. osobní hygiena 
+čistý OP 5.1.19. čistota, SP 2.7. úklid 
+číšník, číšnice SP 11.2. restaurace, kavárny 
+článek SP 7.1. tisk 
+člen, členka SP 6.5. členství v organizacích 
+člověk  SP 1.12. povahové vlastnosti  
+čočka SP 10.3. potraviny  
+čtvrtek OP 3.1. určení konkrétního času a času děje 
+čtvrtý OP 4.2. vyjádření pořadí 
+čtyři OP 4.1. vyjádření počtu 
+D 
+daleko OP 2.3. vzdálenost, OP 5.1.6. vzdálenost  
+daleko do + genitiv, od + genitiv,  z + genitiv, na + akuzativ  OP 2.3. vzdálenost 
+dálnice SP 5.3. silniční doprava 
+další OP 4.2. vyjádření pořadí 
+dámské oděvy SP 10.4. oděvy 
+dámské spodní prádlo SP 10.4. oděvy 
+dárek SP 6.4. svátky, narozeniny 
+dát si (kondicionál) + akuzativ JF 3.2.8. nabídka pohoštění 
+dát si pozor (imperativ) na + akuzativ, ať + věta JF 3.2.4. výstraha 
+dát, dávat + akuzativ, někam OP 2.8. změna polohy  
+datum narození SP 1.3. datum a místo narození  
+dávat si, dát si + akuzativ SP 11.2. restaurace, kavárny 
+dávat, dát +  akuzativ, + dativ OP 7.8. vyjadřování posesivních vztahů 
+dcera SP 1.11. rodina 
+dekagram, deko OP 5.1.8. váha (hmotnost) ... 
+děkovat (+ dativ) JF 2.13. vyjádření vděčnosti  
+děkovat, poděkovat + dativ za + akuzativ JF 2.13. vyjádření vděčnosti,   
+JF 5.3.2.2 úvodní fráze (úvod neformálního dopisu), OP 6.2. vyjadřování, řeč, 
+ SP 6.3. pozvání, návštěva 
+dělat kde SP 1.10. zaměstnání 
+dělat, udělat + akuzativ SP 3.2. doma, SP 4.4. výtvarné umění, výstavy, muzea; dělat /  
+ udělat zkoušku SP 9.1. školství 
+délka OP 5.1.2. délka 
+delší o + akuzativ OP 5.1.2. délka 
+demokracie SP 6.7. stát, vláda 
+den OP 3.1. určení konkrétního času a času děje, OP 3.2. vyjádření časového intervalu 
+238
+denně OP 3.14. vyjádření frekventovanosti děje 
+deset OP 4.1. vyjádření počtu  
+desetkrát OP 3.14. vyjádření frekventovanosti děje, OP 4.3. vyjádření násobnosti 
+déšť SP 13.1. počasí 
+devadesát OP 4.1. vyjádření počtu 
+dezert SP 11.1. jídlo, pití 
+dieta SP 8.4. zdravotní problémy 
+dík(y) za + akuzativ JF 2.13. vyjádření vděčnosti  
+dík(y), že ... JF 2.13. vyjádření vděčnosti  
+dílna SP 3.3. v práci 
+disketa SP 7.4. počítač, internet 
+diskotéka SP 4.3. kulturní zařízení a akce 
+diskutovat o +  lokál, s + instrumentál OP 6.2. vyjadřování, řeč 
+dít se OP 1.2. událost 
+dítě SP 1.11. rodina 
+divadlo SP 4.3. kulturní zařízení a akce 
+dívat se, podívat se na + akuzativ OP 5.1.12. viditelnost, SP 7.2. rozhlas, televize ad. 
+dívka  SP 1.6. pohlaví     
+divný OP 5.2.10. normálnost / abnormálnost 
+dlouho OP 3.3. vyjádření délky trvání děje 
+dlouhý OP 5.1.2. délka 
+dnes OP 3.1. určení konkrétního času a času děje, OP 3.10. vyjádření přítomnosti,  
+odkazy na přítomnost 
+dnes odpoledne OP 3.10. vyjádření přítomnosti, odkazy na přítomnost 
+dnes ráno OP 3.10. vyjádření přítomnosti, odkazy na přítomnost 
+dnes večer OP 3.10. vyjádření přítomnosti, odkazy na přítomnost 
+do + genitiv OP 3.3. vyjádření délky trvání děje,  OP 3.18. vyjádření přerušení či  
+ zakončení děje 
+do- OP 2.6. směr pohybu, OP 3.18. vyjádření přerušení či zakončení děje 
+doba OP 3.2. vyjádření časového intervalu 
+dobrou chuť  JF 4.9. přání dobré chuti  
+dobrý OP 5.2.4. vhodnost 
+dobrý na + akuzativ OP 5.2.3. užitečnost 
+dobrý pro + akuzativ OP 5.2.3. užitečnost 
+dobrý proti + dativ OP 5.2.3. užitečnost 
+dobrý (lepší, nejlepší) OP 5.2.2. kvalita v užším slova smyslu 
+dobře OP 5.1.12. viditelnost, OP 5.1.17. tělesná kondice, OP 5.2.4. vhodnost,  
+OP 5.2.6. správnost 
+dobře, lépe, nejlépe OP 5.2.2. kvalita v užším slova smyslu 
+docela + adjektivum OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+docela + adverbium OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+dočíst akuzativ OP 3.18. vyjádření přerušení či zakončení děje 
+dodělat + akuzativ OP 3.18. vyjádření přerušení či zakončení děje 
+dodržovat, dodržet + akuzativ SP 6.8. veřejná správa, policie 
+dohromady OP 4.1. vyjádření počtu 
+dokdy OP 3.3. vyjádření délky trvání děje 
+dokončit + akuzativ OP 3.18. vyjádření přerušení či zakončení děje 
+dole OP 2.2. relativní umístění (poloha) osob ... 
+doleva OP 2.6. směr pohybu, SP 5.4. hledání cesty 
+dolů OP 2.6. směr pohybu 
+doma OP 2.1. umístění (poloha) osob ..., SP 3.2. doma 
+domnívat se, že ... JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ...,  
+JF 5.1.5. vyjádření názoru 
+239
+domů SP 3.2. doma 
+dopis SP 6.1. komunikace, SP 12.1. pošta 
+dopisní papír SP 6.1. komunikace,  SP 10.7.  papírnictví 
+dopoledne OP 3.1. určení konkrétního času a času děje 
+doporučený dopis  SP 6.1. komunikace, SP 12.1. pošta 
+doprava OP 2.6. směr pohybu, SP 5.1. veřejná doprava obecně, SP 5.4. hledání cesty 
+doprostřed OP 2.6. směr pohybu 
+dopředu OP 2.6. směr pohybu 
+dopsat + akuzativ OP 3.18. vyjádření přerušení či zakončení děje 
+dort SP 11.1. jídlo, pití  
+dospělý OP 5.1.16. stáří, věk, trvání 
+dost + adjektivum OP 5.2.5. přiměřenost, OP 4.6. vyjádření stupně nebo míry vlastnosti  
+dost + adverbium OP 4.6. vyjádření stupně nebo míry vlastnosti 
+dost + sloveso OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+dost + slovesa mít, být OP 5.2.5. přiměřenost 
+dostat injekci SP 8.5. zdravotní péče 
+dostávat, dostat + akuzativ OP 7.8. vyjadřování posesivních vztahů, SP 3.4. příjem,  
+SP 6.1. komunikace 
+doufat, že ... JF 2.10. vyjádření nebo zjišťování naděje či obavy 
+dovnitř OP 2.6. směr pohybu  
+dovolená SP 3.3. v práci, SP 4.1. volný čas 
+dovolit  + dativ JF 5.1.2. uvedení tématu, + aby ... JF 4.5. představování 
+dozadu OP 2.6. směr pohybu  
+drahý SP 10.2. nakupování 
+drahý, drahá + oslovení  JF 5.3.2.1. oslovení (úvod neformálního dopisu) 
+drobné SP 10.2. nakupování 
+drobný SP 1.13. tělesné vlastnosti  
+drogerie SP 10.6. drogerie 
+drůbež SP 10.3. potraviny 
+druhý OP 4.2. vyjádření pořadí 
+držet dietu SP 8.4. zdravotní problémy 
+dřív(e) OP 3.9. vyjádření minulosti, odkazy na minulost 
+dřív(e) než OP 3.5. vyjádření předčasnosti ... 
+duben OP 3.1. určení konkrétního času a času děje 
+důchod SP 3.4. příjem 
+dům SP 2.1. bydlení 
+dva, dvě OP 4.1. vyjádření počtu 
+dvakrát  OP 3.14. vyjádření frekventovanosti děje, OP 4.3. vyjádření násobnosti 
+dvanáctý OP 4.2. vyjádření pořadí 
+dveře SP 2.2. prostor domu, bytu, okolí 
+dvoulůžkový pokoj SP 5.6. ubytování 
+džus SP 10.3. potraviny, SP 11.1. jídlo, pití 
+E 
+elektřina SP 2. 6. služby 
+e-mail, email SP 1.2. adresa,  SP 6.1. komunikace, SP 7.4. počítač, internet 
+e-mailová, emailová adresa SP 1.2. adresa 
+existovat OP 1.1. bytí, existence 
+F 
+fakt JF 2.1.1. souhlas s kladným konstatováním skutečnosti  
+240
+fakult SP 9.1. školství 
+fandit + dativ SP 4.6. sport 
+fazole SP 10.3. potraviny 
+fialový OP 5.1.15. barva 
+film SP 4.3. kulturní zařízení a akce 
+foto SP 12.6. další druhy služeb 
+fotografie  SP 4. 4. výtvarné umění, výstavy, muzea 
+G 
+galerie SP 4.4. výtvarné umění, výstavy, muzea 
+garáž SP 2.2. prostor domu, bytu, okolí 
+gauč SP 2.2. zařízení bytu 
+globalizace SP 6.9. problémy společnosti 
+gram OP 5.1.8. váha (hmotnost) ... 
+guláš SP 11.1. jídlo, pití   
+gulášová polévka SP 11.1. jídlo, pití  
+H 
+haló  JF 4.1. upoutávání pozornosti 
+hasiči SP 6.8. veřejná správa, policie  
+havárie SP 5.3. silniční doprava 
+herec, herečka SP 4.3. kulturní zařízení a akce 
+hezký (hezčí, nejhezčí) OP 5.2.2. kvalita v užším slova smyslu, SP 1.13. tělesné vlastnosti 
+historický SP 4.4. výtvarné umění, výstavy, muzea 
+hlad SP 11.1. jídlo, pití 
+hlasitě OP 5.1.13. slyšitelnost  
+hlasitý OP 5.1.13. slyšitelnost 
+hlava SP 8.1. části lidského těla 
+hlavně JF 5.1.8. prostředky používané při zdůrazňování složek celku 
+hlavní OP 5.2.8. důležitost 
+hlavní jídlo SP 11.1. jídlo, pití 
+hlavní město SP 1.2. adresa 
+hledat + akuzativ SP 3.5. hledání zaměstnání  
+hluk OP 5.1.13. slyšitelnost 
+hned OP 3.6. vyjádření následnosti ... 
+hned u + genitiv OP 2.3. vzdálenost 
+hnědý OP 5.1.15. barva 
+hodina OP 3.2. vyjádření časového intervalu  
+hodinářství SP 12. 6. další druhy služeb 
+hodiny OP 3.1. určení konkrétního času a času děje 
+hodně + genitiv OP 4.5. vyjádření množství (nepočitatelnost), OP 5.1.9.  konkrétní  
+ prostor + některé jednotky objemu 
+hodně  + sloveso OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+hodně adjektivum, + adverbium OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+hoch  SP 1.6. pohlaví 
+holicí strojek SP 8.3. osobní hygiena 
+holit, oholit + akuzativ SP 8.3. osobní hygiena 
+hora, hory SP 2.8. okolí 
+horečka SP 8.4. zdravotní problémy 
+horko OP 5.1.10. teplota, SP 13.1. počasí 
+horký OP 5.1.10. teplota 
+241
+hořký OP 5.1.14. chuť, SP 11.1. jídlo, pití 
+host SP 6.3. pozvání, návštěva 
+hotel SP 5.6. ubytování 
+houska SP 10.3. potraviny 
+hovězí maso SP 10.3. potraviny 
+hovor OP 6.2. vyjadřování, řeč 
+hra SP 4.6. sport 
+hrad SP 5.5.  prázdniny, dovolená 
+hradit + akuzativ SP 8.6. zdravotní pojištění 
+hrách SP 10.3. potraviny 
+hrachová polévka SP 11.1. jídlo, pití 
+hranice SP 5.8. vstup do jiného státu a jeho opuštění 
+hranolky SP 11.1. jídlo, pití 
+hrát, zahrát + akuzativ, na + akuzativ, s + instrumentál  SP 4.3. kulturní zařízení a akce, 
+ SP 4.6. sport 
+hrnec SP 10.8.  domácí potřeby 
+hrnek OP 5.1.9. konkrétní prostor + některé jednotky objemu 
+hrudník  SP 8.1. části lidského těla 
+hřeben SP 8.3. osobní hygiena 
+hřiště SP 4.6. sport 
+hudba SP 4.3. kulturní zařízení a akce 
+hůř(e) OP 5.1.17. tělesná kondice 
+CH 
+chápat, pochopit + akuzativ OP 6.1.2. myšlení 
+chladno OP 5.1.10. teplota, SP 13.1. počasí 
+chladný OP 5.1.10. teplota 
+chlapec  SP 1.6. pohlaví 
+chléb, chleba SP 10.3. potraviny 
+chodit OP 2.4. slovesa pohybu, kam (do + genitiv, na + akuzativ) SP 9.1. školství  
+chodit na injekce SP 8.5. zdravotní péče 
+chodit na procházku SP 4.1. volný čas 
+chřipka SP 8.4. zdravotní problémy 
+chtít (kondicionál)  + seznámit + akuzativ, s + instrumentál JF 5.1.2. uvedení tématu 
+chtít (kondicionál) + akuzativ JF 3.2.8. nabídka pohoštění 
+chtít + infinitiv JF 2.7.1. chtění (vůle), přání, JF 2.7.2. záměr,  JF 3.2.6. nabídka pomoci 
+chuť OP 5.1.14. chuť, SP 11.1. jídlo, pití 
+chutnat +  dativ JF 2.8. vyjádření nebo zjišťování míry potěšení, OP 5.1.14. chuť,  
+SP 11.1. jídlo, pití 
+chvíle OP 3.2. vyjádření časového intervalu 
+I 
+i OP 7.9.1. slučování 
+i když OP 7.10.5. přípustka 
+informační kancelář SP 5.1. veřejná doprava obecně 
+injekce SP 8.5. zdravotní péče 
+instrumentál OP 2.6. směr pohybu 
+internet SP 7.4. počítač, internet 
+inzerát SP 7.1. tisk 
+J 
+242
+já OP 8. deixe 
+já nechtěl/a JF 2.14 vyjádření omluvy a odpovědi na omluvu  
+já nerad/a JF 2.14 vyjádření omluvy a odpovědi na omluvu  
+jak  JF 1.4.2. otázky doplňovací a odpovědi na ně, JF 5.1.3. váhání, hledání slov,  
+ upřesňování,  JF 6.5. dotaz na správnou výslovnost či pravopis . 
+jak + vědět JF 5.1.3. váhání, hledání slov, upřesňování  
+jak často JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 3.14. vyjádření  
+ frekventovanosti děje 
+ěje 
+jak dlouho JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 3.3. vyjádření délky trvání 
+ d
+ jak je starý  OP 5.1.16. stáří, věk, trvání 
+jak je to ... JF 6.2. prosba o zopakování části věty ... 
+jak JF 6.5. dotaz na správnou výslovnost či pravopis ... 
+jak rychle OP 3.13. vyjádření informace o rychlosti děje 
+jako + substantivum OP 7.5. kvalifikace 
+říkladů  
+jako je ..., jako jsou ...JF 5.1.7. jazykové prostředky používané při uvádění konkrétních 
+ p
+ jako například (jako např.) JF 5.1.7. jazykové prostředky používané při uvádění 
+ konkrétních příkladů 
+jakou rychlostí OP 3.13. vyjádření informace o rychlosti děje 
+jaký  JF 1.4.2. otázky doplňovací a odpovědi na ně, SP 1.12. povahové vlastnosti 
+jaký OP 8. deixe 
+jarní SP 13.2. podnebí 
+jaro OP 3.1. určení konkrétního času a času děje, SP 13.2. podnebí 
+jazyk SP 6.1. komunikace 
+jeden, jedna, jedno OP 4.1. vyjádření počtu 
+je /není možné + infinitiv  JF 2.5.1. možnost, nemožnost 
+je zákaz JF 2.5.3. svolení, zákaz    
+je, jsou OP 4.1. vyjádření počtu 
+jedenáct OP 4.1. vyjádření počtu 
+jednak ... jednak JF 5.1.6. výčet 
+jednolůžkový pokoj SP 5.6. ubytování 
+jednou OP 3.14. vyjádření frekventovanosti děje, OP 4.3. vyjádření násobnosti 
+jeho OP 8. deixe 
+její OP 8. deixe 
+jejich OP 8. deixe 
+jen jednou OP 3.14. vyjádření frekventovanosti děje 
+jestli(že) OP 7.10.4. podmínka 
+jestliže to shrneme JF 5.1.9. shrnutí 
+jet OP 2.4. slovesa pohybu 
+jet kam, jak (+ instrumentál) SP 5.1. veřejná doprava obecně 
+jet na dovolenou SP 4.1. volný čas 
+jet na prázdniny SP 4.1. volný čas 
+jezdit OP 2.4. slovesa pohybu, SP 5.1. veřejná doprava obecně  
+jezero SP 2.8. okolí 
+jídelna SP 11.2. restaurace, kavárny 
+jídelní lístek SP 11.2. restaurace, kavárny 
+jídlo SP 3.2. doma, SP 11.1. jídlo, pití 
+jídlo pro vegetariány (vegetariánské jídlo) SP 11.1. jídlo, pití 
+jih OP 2. 6. směr pohybu 
+jinak než OP 7.7. shoda, odlišnost, srovnání  
+jinam OP 2.6. směr pohybu 
+jinde OP 2.1. umístění (poloha) osob ... 
+243
+jiný OP 7.6. identifikace 
+jiný než OP 7.7. shoda, odlišnost, srovnání 
+jíst, sníst + akuzativ  SP 3.2. doma,  SP 11.1. jídlo, pití 
+jistě JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+jistě (že ano) JF 2.1.1. souhlas s kladným konstatováním skutečnosti  
+jistě (že ne) JF 2.1.2. souhlas s negativním konstatováním skutečnosti 
+jít OP 2.4. slovesa pohybu, kam, SP 3.2. doma , SP 4.1. volný čas  
+jít  kudy, jak ( bez subjektu + se) SP 5.4. hledání cesty 
+jít na procházku SP 4.1. volný čas 
+jít na dovolenou SP 4.1. volný čas 
+jít na návštěvu ( k + dativ) SP 6.3. pozvání, návštěva 
+jít spíš(e) o + akuzativ než o + akuzativ JF 5.1.3. váhání, hledání slov, upřesňování 
+jízdenka SP 5.1. veřejná doprava obecně 
+jízdní řád SP 5.1. veřejná doprava obecně 
+jméno SP 1.1. jméno 
+jmenovat se  JF 5.1.3. váhání, hledání slov, upřesňování, OP 7.4.3.  způsob,  
+SP 1.1. jméno 
+jo JF 2.1.1. souhlas s kladným konstatováním skutečnosti 
+jogurt SP 10.3. potraviny 
+K 
+k, ke + dativ sdělovat, že ... JF 5.3.1.2. úvodní formulace (úvod oficiálního dopisu) 
+kabát SP 10.4. oděvy 
+kabelka SP 10.5. obuv a kožené zboží 
+kadeřnictví SP 12.6. další druhy služeb 
+kalhoty  SP 10.4. oděvy 
+kam JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 2.6. směr pohybu 
+kamarád, kamarádka SP 6.2. druhy vztahů 
+kancelář SP 3.3. v práci 
+kapky  SP 8.5. zdravotní péče 
+kartáček na zuby SP 8.3. osobní hygiena 
+kašel SP 8.4. zdravotní problémy 
+káva SP 10.3. potraviny, SP 11.1. jídlo, pití 
+kavárna SP 11.2. restaurace, kavárny 
+kazeta SP 7. 2. rozhlas, televize ad. 
+každý +  substantivum (akuzativ) OP 3.14. vyjádření frekventovanosti děje 
+kde JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 2.1. umístění (poloha) osob ... 
+kdo JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 8. deixe 
+kdy  JF 1.4.2. otázky doplňovací a odpovědi na ně,  OP 3.1. určení konkrétního času 
+ a času děje,OP 3.2. vyjádření časového intervalu 
+kdyby OP 7.10.4. podmínka 
+když OP 7.10.4. podmínka 
+když + perfektivní sloveso v préteritu OP 3.6. vyjádření následnosti ... 
+když + slovesa v prézentu či préteritu OP 3.7. vyjádření souběžnosti ... 
+kemp SP 5.6. ubytování 
+kilogram, kilo OP 5.1.8. váha (hmotnost) ... 
+kilometr OP 5.1.7. délkové míry 
+kino SP 4.3. kulturní zařízení a akce 
+klasická hudba SP 4.3. kulturní zařízení a akce 
+klesat, klesnout OP 2.4. slovesa pohybu,  OP 5.1.10. teplota, SP 6.9. problémy 
+ společnosti 
+klíč SP 5.6. ubytování 
+244
+klima SP 13.2. podnebí 
+klobása SP 10.3. potraviny 
+klobouk SP 10.4. oděvy 
+knedlíky SP 11.1. jídlo, pití 
+kniha SP 4.5. literatura 
+knihkupectví SP 4.5. literatura 
+knihovna SP 2.2. zařízení bytu, SP 4.5. literatura 
+koberec SP 2.4. další vybavení bytu 
+koláč SP 10.3. potraviny 
+kolej SP 2.1. bydlení 
+kolem + genitiv OP 2.2. relativní umístění (poloha) osob ..., OP 2.6. směr pohybu,   
+OP 3.15. vyjádření přibližnosti časového určení, SP 5.4. hledání cesty 
+kolik JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 3.3. vyjádření délky trvání děje,  
+OP 4.1. vyjádření počtu 
+kolik + genitiv OP 4.1. vyjádření počtu, OP 4.5. vyjádření množství (nepočitatelnost) 
+kolik je hodin OP 3.1. určení konkrétního času a času děje 
+kolik je ti / vám? OP 5.1.16. stáří, věk, trvání 
+kolikátý OP 4.2. vyjádření pořadí 
+kolikrát  OP 3.14. vyjádření frekventovanosti děje, OP 4.3. vyjádření násobnosti 
+kolo SP 5.2. osobní doprava 
+kompaktní disk (cédéčko) SP 7.2. rozhlas, televize ad. 
+konat se OP 1.2. událost 
+koncert SP 4.3. kulturní zařízení a akce 
+končit, skončit kdy SP 3.3. v práci 
+končit, skončit OP 1.5. začátek, konec, změna, OP 3.18. vyjádření přerušení či  
+ zakončení děje 
+konec OP 3.18. vyjádření přerušení či zakončení děje 
+konflikt SP 6.2. druhy vztahů  
+koníček (hobby) SP 4.2. zájmy 
+konkurs SP 3.5. hledání zaměstnání 
+konto SP 12.2. banka 
+kontrola SP 8.5. zdravotní péče 
+konzerva SP 10.3. potraviny 
+konzul, konzulka SP 12.3. diplomatické služby 
+konzulát SP 12.3. diplomatické služby 
+konzultace SP 9.1. školství 
+kopec SP 2.8. okolí 
+korespondence SP 6.1. komunikace 
+kosmetické prostředky SP 10.6. drogerie 
+kostým SP 10.4. oděvy 
+košile SP 10.4. oděvy 
+koupelna  SP 2.2. prostor domu, bytu, okolí  
+kousek + genitiv OP 4.5. vyjádření množství (nepočitatelnost) 
+krajina SP 2.8. okolí 
+krásný (krásnější, nejkrásnější) OP 5.2.2. kvalita v užším slova smyslu 
+krátce OP 3.3. vyjádření délky trvání děje 
+krátký OP 5.1.2. délka 
+kratší o + akuzativ OP 5.1.2. délka 
+kreditní karta SP 12.2. banka 
+krém SP 8.3. osobní hygiena,  SP 10.6. drogerie 
+krk SP 8.1. části lidského těla  
+kromě + genitiv OP 7.9.4. zahrnutí, vyloučení 
+křeslo SP 2.2. zařízení bytu 
+245
+který JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 8. deixe 
+OP 3.1. určení konkrétního času a času děje 
+kudy JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 2.6. směr pohybu 
+kufr SP 5.7. zavazadla, SP 10.5. obuv a kožené zboží 
+kuchyň SP 2.2. prostor domu, bytu, okolí 
+kupovat, koupit + akuzativ, za + akuzativ OP 5.2.1. hodnota, cena SP 2.1. bydlení,  
+SP 10.2. nakupování 
+kurs SP 12.2. banka 
+kurs SP 9.1. školství 
+kus + genitiv OP 4.5. vyjádření množství (nepočitatelnost) 
+kvalifikace SP 3.5. hledání zaměstnání 
+kvalita OP 5.2.2. kvalita v užším slova smyslu 
+kvalitní OP 5.2.2. kvalita v užším slova smyslu 
+květen OP 3.1. určení konkrétního času a času děje 
+květina SP 2.9. flóra, fauna 
+květiny SP 6.4. svátky, narozeniny 
+kyselý OP 5.1.14. chuť, SP 11.1. jídlo, pití 
+L 
+laboratoř SP 8.5. zdravotní péče 
+láhev OP 4.5. vyjádření množství (nepočitatelnost), OP 5.1.9. konkrétní prostor + 
+ n
+ ěkteré jednotky objemu 
+lampa SP 2.2. zařízení bytu 
+leden OP 3.1. určení konkrétního času a času děje 
+lednička SP 2.4. další vybavení bytu 
+legrace OP 6.1.4. emoce  
+lehký OP 5.1.8. váha (hmotnost) ..., OP 5.2.9. obtížnost 
+lék SP 8.5. zdravotní péče 
+lékárna SP 8.5. zdravotní péče 
+lékař, lékařka SP 8.5. zdravotní péče 
+lépe, líp OP 5.1.17. tělesná kondice 
+lépe řečeno JF 5.1.4. oprava vlastního sdělení 
+les SP 2.8. okolí 
+letadlo SP 5.1. veřejná doprava obecně 
+létat OP 2.4. slovesa pohybu 
+letenka SP 5.1. veřejná doprava obecně 
+letět OP 2.4. slovesa pohybu 
+letět kam (do + genitiv) SP 5.1. veřejná doprava obecně 
+letiště SP 5. 1. veřejná doprava obecně 
+letní SP 13.2. podnebí  
+léto OP 3.1. určení konkrétního času a času děje, SP 13.2. podnebí 
+letos OP 3.10. vyjádření přítomnosti, odkazy na přítomnost 
+levný, laciný SP 10.2. nakupování 
+ležet OP 2.1. umístění (poloha) osob ..., OP 2.2. relativní umístění (poloha) osob ... 
+líbit se + dativ OP 5.2.4. vhodnost, OP 6.1.4. emoce, SP 4.2. zájmy 
+lidová hudba SP 4.3. kulturní zařízení a akce 
+lístek SP 4.3. kulturní zařízení a akce  
+listopad OP 3.1. určení konkrétního času a času děje 
+literatura SP 4.5. literatura 
+litr OP 5.1.9. konkrétní prostor + některé jednotky objemu 
+litrový OP 5.1.9. konkrétní prostor + některé jednotky objemu 
+loni / vloni OP 3.9. vyjádření minulosti, odkazy na minulost  
+246
+loňský rok OP 3.9. vyjádření minulosti, odkazy na minulost  
+ložnice SP 2.2. prostor domu, bytu, okolí 
+luštěniny SP 10.3. potraviny  
+lůžkový vagón SP 5.1. veřejná doprava obecně 
+lžíce SP 10.8.  domácí potřeby  
+M 
+majitel (bytu, domu) SP 2.1. bydlení  
+málo + adjektivum OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+málo + sloveso OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+málo + genitiv OP 4.5. vyjádření množství (nepočitatelnost), OP 5.1.9. konkrétní  
+prostor + některé jednotky objemu 
+málokdy OP 3.14. vyjádření frekventovanosti děje 
+malý OP5. 1.1. velikost, OP 5.1.16. stáří, věk, trvání, SP 1.13 tělesné vlastnosti 
+manžel, manželka  SP 1.7. stav, SP 1.11. rodina 
+manželé SP 1.11. rodina 
+mapa SP 5.5.  prázdniny, dovolená 
+máslo SP 10.3. potraviny  
+maso SP 10.3. potraviny 
+matka SP 1.11. rodina 
+maturita SP 9.1. školství 
+maximálně OP 4.6. vyjádření stupně nebo míry vlastnosti  
+méně než OP 4.6. vyjádření stupně nebo míry vlastnosti  
+měnit, vyměnit + akuzativ SP 12.2. banka  
+menší o + akuzativ OP 5.1.1. velikost 
+měřit, změřit (teplotu) OP 5.1.10. teplota 
+měsíc OP 3.2. vyjádření časového intervalu, OP 5.1.16. stáří, věk, trvání 
+měsíčně OP 3.14. vyjádření frekventovanosti děje 
+město SP 1.2. adresa 
+metr OP 5.1.7. délkové míry 
+metro SP 5.1. veřejná doprava obecně 
+mezi + instrumentál OP 2.2. relativní umístění (poloha) osob  
+mikrovlnná trouba ( mikrovlnka) SP 2.4. další vybavení bytu 
+miliarda OP 4.1. vyjádření počtu 
+milion OP 4.1. vyjádření počtu 
+milovat + akuzativ OP 6.1.4. emoce  
+milý, milá + oslovení (vokativ) JF 4.4. způsoby oslovování,  JF 5.3.2.1. oslovení (úvod  
+neformálního dopisu) 
+minerální voda, minerálka SP 10.3. potraviny, SP 11.1. jídlo, pití 
+minimálně OP 4.6. vyjádření stupně nebo míry vlastnosti ...  
+minule OP 3.9. vyjádření minulosti, odkazy na minulost 
+minulý OP 3.9. vyjádření minulosti, odkazy na minulost 
+minus OP 5.1.10. teplota 
+minuta OP 3.2. vyjádření časového intervalu  
+místenka SP 5.1. veřejná doprava obecně 
+místnost SP 2.2. prostor domu, bytu, okolí 
+místo narození SP 1.3. datum a místo narození 
+místo OP 5.1.9. konkrétní prostor + některé jednotky objemu, SP 2.8. okolí 
+místo SP 1.10. zaměstnání 
+místo SP 4.3. kulturní zařízení a akce, SP 5.1. veřejná doprava obecně 
+mít  OP 1.4. dostupnost, nedostupnost, OP 7.8. vyjadřování posesivních vztahů, SP 1.8.  
+národnost, státní příslušnost, SP 1.13 tělesné vlastnosti, SP 8.4. zdravotní problémy 
+247
+mít + infinitiv  JF 2. 6. vyjádření nebo zjišťování různého stupně nutnosti    
+mít čas na + akuzativ SP 3.2. doma 
+mít dietu  SP 8.4. zdravotní problémy 
+mít hlad SP 11.1. jídlo, pití 
+mít chuť na + akuzativ JF 3.2.8. nabídka pohoštění 
+mít rád + akuzativ OP 6.1.4. emoce,  SP 4.2. zájmy, SP 6.2. druhy vztahů 
+mít radost, že ... JF 2.8. vyjádření nebo zjišťování míry potěšení ... 
+mít štěstí OP 5.2.6. správnost 
+mít zájem + infinitiv JF 2.7.3. zájem, nezájem 
+mít zájem o + akuzativ JF 2.7.3. zájem, nezájem 
+mít na účtu SP 12.2. banka 
+mít nejraději / nejradši + akuzativ, ze všech + genitiv JF 2.7.4. preference  
+mít nejraději, nejradši + sloveso JF 2.7.4. preference  
+mít otevřeno OP 5.1.18. dostupnost 
+mít pravdu OP 5.2.6. správnost 
+mít (velký) význam OP 5.2.8. důležitost 
+mít raději / radši + akuzativ, než ... JF 2.7.4. preference  
+mít radost JF 2.9. vyjádření nebo zjišťování radosti nebo lítosti  
+mít radost z + genitiv JF 2.9. vyjádření nebo zjišťování radosti nebo lítosti,  
+OP 6.1.4. emoce  
+mít radost, že ... JF 2. 9. vyjádření nebo zjišťování radosti nebo lítosti  
+mít se  nějak OP 7.4.3.  způsob 
+mít strach z + genitiv JF 2.10 vyjádření nebo zjišťování naděje či obavy 
+mít strach, že ... JF 2.10 vyjádření nebo zjišťování naděje či obavy  
+mít zájem + infinitiv JF 2.7.3. zájem, nezájem, o + akuzativ SP 3.5. hledání zaměstnání,  
+SP 4.2. zájmy 
+mít zavřeno OP 5.1.18. dostupnost 
+mít žízeň SP 11.1. jídlo, pití 
+mladý OP 5.1.16. stáří, věk, trvání, SP 1.5. věk 
+mléko SP 10.3. potraviny 
+mlha SP 13.1. počasí 
+mluvit nějak OP 7.4.3.  způsob 
+mluvit SP 6.1. komunikace 
+mluvit o + lokál, s + instrumentál OP 6.2. vyjadřování, řeč  
+mnoho + genitiv OP 4.1. vyjádření počtu, OP 4.5. vyjádření množství (nepočitatelnost) 
+ mobilní telefon SP 7.3. telefon 
+moc + adjektivum OP 5.2.5. přiměřenost, OP 4.6. vyjádření stupně nebo míry vlastnosti  
+moc + adverbium OP 4.6. vyjádření stupně nebo míry vlastnosti 
+moc + genitiv OP 4.1. vyjádření počtu, OP 4.5. vyjádření množství (nepočitatelnost) 
+moc  + sloveso OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+moci / moct + infinitiv JF 2.5.1. možnost, nemožnost, JF 2.5.2.  schopnost, neschopnost, 
+JF 2.5.3. svolení, zákaz, JF 3.2.6. nabídka pomoci, JF 3.1. výzva ( návrh)  
+k realizaci (nerealizaci) činnosti ... 
+moct (kondicionál) + akuzativ + přepojit na + akuzativ  JF 5.5.2. stručné sdělení přání 
+moct (kondicionál) + mluvit s + instrumentál  JF 5.5.2. stručné sdělení přání 
+moct (kondicionál) JF 6.1. chceme-li dát najevo ... 
+moderní SP 4.4. výtvarné umění, výstavy, muzea 
+modrý OP 5.1.15. barva 
+mokro OP 5.1.11. vlhkost 
+mokrý OP 5.1.11. vlhkost, SP 13.1. počasí 
+moment JF 5.1.3. váhání, hledání slov, upřesňování  
+most SP 5.3. silniční doprava 
+motocykl, motorka SP 5.2. osobní doprava 
+248
+mouka SP 10.3. potraviny 
+možná JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+mráz SP 13.1. počasí 
+mrtvý OP 5.1.17. tělesná kondice 
+mrznout (bez subjektu) SP 13.1. počasí 
+můj, má, mé OP 8. deixe 
+muset, nemuset + infinitiv JF 2.6. vyjádření nebo zjišťování různého stupně nutnosti    
+muzeum SP 4.4. výtvarné umění, výstavy, muzea 
+muž  SP 1. 6. pohlaví,  SP 1.11. rodina 
+muži, páni (nápisy na toaletách)  SP 1.6. pohlaví 
+my OP 8. deixe 
+mýdlo SP 8.3. osobní hygiena 
+myslet na + akuzativ OP 6.1.2. myšlení 
+myslet (si), že ... JF 5.1.5. vyjádření názoru  
+myslet si + na + akuzativ, o + lokál OP 6.1.2. myšlení 
+myslet si, že ... OP 6.1.2. myšlení 
+myslet, že ... JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+myšlenka OP 6.1.2. myšlení 
+mýt, umýt + akuzativ OP 5. 1.19. čistota 
+mýt se, umýt se OP 5.1.19. čistota, SP 3.2. doma, SP 8.3. osobní hygiena 
+mýt si, umýt si + akuzativ OP 5.1.19. čistota 
+mzda  SP 3.4. příjem 
+N 
+na +  akuzativ JF 4.8. přípitky,  OP 2.6. směr pohybu OP 3.1. určení konkrétního času  
+ a času děje,  OP 7.10.3. účel 
+na +  lokál  OP 2.1. umístění (poloha) osob ..., OP 3.1. určení konkrétního času a času  
+ d
+ ěje, OP 7.4.4. prostředek, nástroj 
+na konci + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+na konec JF 5.1.10. závěr 
+na začátku + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+na západ OP 2.6. směr pohybu 
+na závěr JF 5.1.10. závěr 
+na zdraví + genitiv JF 4.8. přípitky 
+nábytek SP 2.2. zařízení bytu  
+nad + instrumentál OP 2.2. relativní umístění (poloha) osob ... 
+nad-, nade- OP 2.6. směr pohybu 
+nad nulou OP 5.1.10. teplota  
+nádobí SP 10.8.  domácí potřeby 
+nádraží SP 5.1. veřejná doprava obecně 
+nafta SP 12.5. čerpací stanice 
+nahoru OP 2.6. směr pohybu 
+nahoře OP 2.2. relativní umístění (poloha) osob ... 
+nájem, nájemné SP 2.5. náklady na byt 
+najíst se SP 3.2. doma, SP 11.1. jídlo, pití 
+najít +  akuzativ OP 7.8. vyjadřování posesivních vztahů 
+nakonec OP 3.8. vyjádření pořadí osob, věcí, dějů 
+nálada OP 6.1.4. emoce  
+náměstí  SP 1.2. adresa 
+nanejvýš OP 4. 6. vyjádření stupně nebo míry vlastnosti ... 
+nápad OP 6.1.2. myšlení 
+napít se SP 11.1. jídlo, pití 
+249
+nápoj SP 11.1. jídlo, pití 
+naproti + dativ OP 2.2. relativní umístění (poloha) osob ... 
+naproti OP 2.2. relativní umístění (poloha) osob ... 
+například, např. JF 5.1.7.  jazykové prostředky používané při uvádění konkrétních 
+ p
+ říkladů, OP 7.9.6. exemplifikace a výčty 
+narodit se OP 1.5. začátek, konec, změna, kde (v + lokál, na + lokál), kdy (genitiv)  
+SP 1.3. datum a místo narození, SP 1.9. původ 
+národnost SP 1.8. národnost, státní příslušnost 
+narození OP 1.5. začátek, konec, změna 
+narozeniny SP 6.4. svátky, narozeniny 
+násobná číslovka  OP 4.3. vyjádření násobnosti  
+nástupiště SP 5.1. veřejná doprava obecně 
+nastupovat, nastoupit kam (do + genitiv) SP 5.1. veřejná doprava obecně  
+náš, naše OP 8. deixe 
+navštěvovat, navštívit + akuzativ SP 6.3. pozvání, návštěva 
+názor JF 5.1.5. vyjádření názoru 
+ne + negativní věta JF 2.1.3. nesouhlas s danou skutečností 
+ne JF 5.1.4. oprava vlastního sdělení 
+nealkoholický nápoj SP 11.1. jídlo, pití 
+nebo OP 7.9.3. disjunkce 
+nebýt / nemoct být pravda JF 2.12. vyjádření nebo zjišťování míry překvapení 
+něco OP 8. deixe 
+něčí OP 7.8. vyjadřování posesivních vztahů, OP 8. deixe 
+nedaleko OP 2.3. vzdálenost 
+neděle OP 3.1. určení konkrétního času a času děje  
+nechtít + infinitiv JF 3.2.7. nabídka pozvání 
+nějaký OP 8. deixe 
+nejdřív(e) OP 3.8. vyjádření pořadí osob, věcí, dějů 
+nejdříve / nejdřív ... potom / pak ... (a) nakonec JF 5.1.6. výčet 
+nejen, ale i OP 7.9.2. stupňování 
+nejméně OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+někam OP 2.6. směr pohybu, OP 8. deixe 
+někde OP 2.1. umístění (poloha) osob ..., OP 8. deixe 
+někdo OP 8. deixe 
+někdy OP 3.14. vyjádření frekventovanosti děje, OP 8. deixe 
+několik + genitiv OP 4.1. vyjádření počtu 
+několikrát  OP 4.3. vyjádření násobnosti 
+některý OP 8. deixe 
+nemít pravdu JF 2.1.3. nesouhlas s danou skutečností 
+nemít (žádný) význam OP 5.2.8. důležitost  
+nemít zájem + infinitiv JF 3.2.7. nabídka pozvání 
+nemoc SP 8.4. zdravotní problémy 
+nemocnice SP 8.5. zdravotní péče 
+nemocný OP 5.1.17. tělesná kondice, SP 8.4. zdravotní problémy 
+není to pravda JF 2.1.3. nesouhlas s danou skutečností 
+nepřestávat, nepřestat OP 3.17. vyjádření pokračování (trvání) děje 
+nepřímá řeč JF 1.2.1. sdělení informace, podání zprávy 
+nesnadný OP 5.2.9. obtížnost 
+nesouhlasit s + instrumentál JF 2.1.3. nesouhlas s danou skutečností 
+nést OP 2.4. slovesa pohybu 
+nevědět, jak ... JF 6.2. prosba o zopakování části věty ... 
+nezaměstnanost SP 6.9. problémy společnosti 
+neznámý (člověk)  SP 6.2. druhy vztahů 
+250
+než OP 3.5.vyjádření předčasnosti ...  
+nic OP 4.1. vyjádření počtu, OP 4.5. vyjádření množství (nepočitatelnost), OP 8. deixe 
+nikam OP 2.6. směr pohybu, OP 8. deixe 
+nikde OP 2.1. umístění (poloha) osob ..., OP 8. deixe 
+nikdo OP 8. deixe 
+nikdy OP 8. deixe  
+nízký OP 5.1.3. výška, OP 5.1.10. teplota,OP 5.2.1. hodnota, cena  
+nižší o + akuzativ OP 5.1.3. výška 
+noc OP 3.1. určení konkrétního času a času děje 
+noha SP 8.1. části lidského těla, SP 1.13 tělesné vlastnosti 
+normální OP 5.2.10. normálnost / abnormálnost 
+nos SP 8.1. části lidského těla  
+nosit OP 2.4. slovesa pohybu  
+novinář, novinářka SP 7.1. tisk 
+noviny SP 7.1. tisk 
+nový OP 5.1.16. stáří, věk, trvání 
+nudit se OP 6.1.4. emoce  
+nudný OP 6.1.4. emoce  
+nula OP 4.1. vyjádření počtu, OP 5.1.10. teplota 
+nůž SP 10.8.  domácí potřeby  
+nůžky SP 8.3. osobní hygiena  
+O 
+ob-, obe- OP 2.6. směr pohybu 
+oba, obě OP 4.1. vyjádření počtu 
+občan, občanka SP 6.7. stát, vláda 
+občanský průkaz SP 1.4. osobní doklady 
+občas OP 3.14. vyjádření frekventovanosti děje 
+oběd SP 3.2. doma 
+obědvat + akuzativ, naobědvat se SP 3.2. doma 
+obchod SP 10.1. obchody 
+obchodní dům SP 10.1. obchody 
+objednávat si, objednat si + akuzativ SP 10.2. nakupování, SP 11.2. restaurace, 
+ kavárny 
+oblek SP 10.4. oděvy 
+oblékat se, obléknout se jak  SP 3.2. doma 
+oblékat si, obléknout si + akuzativ SP 3.2. doma 
+obličej SP 8.1. části lidského těla 
+obracet se na + akuzativ s + instrumentál JF 5.3.1.2. úvodní formulace (oficiálního  
+dopisu)  
+obraz SP 4.4. výtvarné umění, výstavy, muzea 
+obyvatel SP 6.7. stát, vláda 
+oči + charakterizující adjektivum SP 1.13 tělesné vlastnosti 
+od + genitiv OP 3.3. vyjádření délky trvání děje,  OP 3.6. vyjádření začátku děje,  
+OP 7.3.4. proživatel, konatel 
+od - do + genitiv OP 3.3. vyjádření délky trvání děje  
+od- OP 2.6. směr pohybu 
+odborné vyšetření SP 8.5. zdravotní péče 
+odborný lékař SP 8.5. zdravotní péče 
+odemykat, odemknout + akuzativ SP 2.2. prostor domu, bytu, okolí  
+odeslat X přijmout (zprávu) SP 7.3. telefon  
+odjezd SP 5.1. veřejná doprava obecně 
+251
+odjíždět, odjet odkud, kam SP 5.1. veřejná doprava obecně  
+odkdy - dokdy OP 3.3. vyjádření délky trvání děje  
+odkud JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 2.6. směr pohybu 
+odlet SP 5.1. veřejná doprava obecně  
+odnášet, odnést + akuzativ SP 5.7. zavazadla 
+odpočívat, odpočinout si SP 4.1. volný čas 
+odpoledne OP 3.1. určení konkrétního času a času děje 
+odpověď OP 6.2. vyjadřování, řeč, SP 6.1. komunikace 
+odpovídat, odpovědět + dativ OP 6.2. vyjadřování, řeč 
+odpovídat, odpovědět na + akuzativ SP 6.1. komunikace 
+odpustit (imperativ) JF 2.14. vyjádření omluvy a odpovědi na omluvu  
+odsud OP 2.3. vzdálenost, OP 2.6. směr pohybu 
+odtud OP 2.3. vzdálenost, OP 2.6. směr pohybu 
+ochutnávat, ochutnat + akuzativ OP 5.1.14. chuť 
+okamžik OP 3.2. vyjádření časového intervalu 
+okno SP 2.2. prostor domu, bytu, okolí 
+oko SP 8.1. části lidského těla  
+okolo + genitiv OP 2.2. relativní umístění (poloha) osob ..., OP 2.6. směr pohybu 
+olej SP 10.3. potraviny, SP 12.5. čerpací stanice 
+omeleta SP 11.1. jídlo, pití  
+omlouvat se, (že ...) JF 2.14 vyjádření omluvy a odpovědi na omluvu  
+omlouvat se, omluvit se +  dativ,  za +  akuzativ OP 6.2. vyjadřování, řeč 
+on, ona, ono, oni, ony, ona OP 8. deixe 
+operace SP 8.5. zdravotní péče 
+opozice SP 6.7. stát, vláda 
+opravna obuvi SP 12.6. další druhy služeb 
+opravovat, opravit + akuzativ SP 12.4. autoservis 
+oranžová SP 5.3. silniční doprava  
+oranžový OP 5.1.15. barva 
+ordinace SP 8.5. zdravotní péče 
+orchestr SP 4.3. kulturní zařízení a akce 
+oslava SP 6.4. svátky, narozeniny 
+osobní dopis SP 6.1. komunikace 
+ošklivý, ošklivější, nejošklivější OP 5.2.2. kvalita v užším slova smyslu 
+otázka OP 6.2. vyjadřování, řeč, SP 6.1. komunikace 
+otec SP 1.11. rodina 
+otevírat, otevřít + akuzativ OP 5.1.18. dostupnost,  SP 2.2. prostor domu, bytu, okolí 
+otevírat, otevřít kdy SP 4.4. výtvarné umění, výstavy, muzea 
+ověřovat, ověřit + akuzativ SP 6.8. veřejná správa, policie 
+ovoce SP 10.3. potraviny  
+ovocný pohár SP 11.1. jídlo, pití  
+ovšem (že ano) JF 2.1.1. souhlas s kladným konstatováním skutečnosti  
+ovšem (že ne) JF 2.1.2. souhlas s negativním konstatováním skutečnosti 
+oznamovat + dativ, že ... JF 5.3.1.2. úvodní formulace (úvod oficiálního dopisu)  
+oznamovat, oznámit + akuzativ SP 6.8. veřejná správa, policie  
+P 
+pak OP 3.6. vyjádření následnosti ... 
+památka, památky SP 4.4. výtvarné umění, výstavy, muzea, SP 5. 5.  prázdniny, dovolená 
+pamatovat se na + akuzativ  OP 6.1.3. paměť  
+pamatovat si, zapamatovat si + akuzativ OP 6.1.3. paměť  
+pan SP 1.1. jméno 
+252
+pán SP 1.11. rodina 
+paní SP 1.1. jméno, SP 1.11. rodina 
+pánské oděvy SP 10.4. oděvy 
+pánské spodní prádlo SP 10.4. oděvy 
+pantofle SP 10.5. obuv a kožené zboží 
+papír SP 10.7.  papírnictví 
+párek SP 10.3. potraviny  
+park SP 2.8. okolí 
+parkoviště SP 5.3. silniční doprava 
+parlament SP 6.7. stát, vláda  
+pas  SP 1.4. osobní doklady. SP 5.8. vstup do jiného státu a jeho opuštění 
+pásek SP 10.5. obuv a kožené zboží 
+pasová kontrola SP 5.8. vstup do jiného státu a jeho opuštění 
+pasta na zuby SP 8.3. osobní hygiena 
+pátek OP 3.1. určení konkrétního času a času děje 
+pátý OP 4.2. vyjádření pořadí  
+peníze SP 3.4. příjem, SP 10.2. nakupování 
+penzion SP 5.6. ubytování 
+pero SP 10.7.  papírnictví 
+pět OP 4.1. vyjádření počtu 
+píseň SP 4.3. kulturní zařízení a akce  
+pít, vypít + akuzativ, napít se  SP 3.2. doma, SP 11.1. jídlo, pití 
+pivo SP 10.3. potraviny, SP 11.1. jídlo, pití 
+plakat OP 6.1.4. emoce 
+plat SP 3.4. příjem 
+platební (kreditní) karta SP 10.2. nakupování 
+platit dohromady SP 11.2. restaurace, kavárny 
+platit zvlášť SP 11.2. restaurace, kavárny 
+platit, zaplatit + akuzativ SP 2.5. náklady na byt,  SP 10.2. nakupování,  
+SP 11.2. restaurace, kavárny 
+platnost do  ... datum  (genitiv) SP 1.4. osobní doklady 
+platný SP 5.8. vstup do jiného státu a jeho opuštění  
+plavat SP 4.6. sport 
+plíce SP 8.1. části lidského těla 
+plný OP 5.1.20. naplněnost 
+plyn SP 2.6. služby 
+po + lokál OP 2.6. směr pohybu, OP 3.6. vyjádření následnosti ... 
+počasí SP 13.1. počasí 
+počet OP 4.1. vyjádření počtu 
+počítač SP 7.4. počítač, internet 
+počítat, spočítat OP 4.1. vyjádření počtu 
+pod + instrumentál OP 2.2. relativní umístění (poloha) osob ... 
+pod nulou OP 5.1.10. teplota  
+pod- pode- OP 2.6. směr pohybu 
+podepisovat se, podepsat se SP 1.1. jméno  
+podlaha SP 2.2. prostor domu, bytu, okolí 
+podle + genitiv JF 5.1.5. vyjádření názoru  
+podnebí SP 13.2. podnebí 
+podpis SP 1.1. jméno. 
+podpisový vzor SP 1.1. jméno, SP 12.2. banka 
+podzim OP 3.1. určení konkrétního času a času děje, SP 13.2. podnebí 
+podzimní SP 13.2. podnebí 
+pohlaví mužské SP 1.6. pohlaví 
+253
+pohlaví ženské SP 1.6. pohlaví  
+pohlednice, pohled SP 6.1. komunikace 
+pokladna SP 4.3. kulturní zařízení a akce,  SP 5.1. veřejná doprava obecně,  
+SP 10.2. nakupování 
+pokoj (obývací pokoj / obývák) SP 2.2. prostor domu, bytu, okolí  
+pokračovat OP 3.17. vyjádření pokračování (trvání) děje 
+pokuta 
+SP 5.3. silniční doprava 
+poledne OP 3.1. určení konkrétního času a času děje 
+polední přestávka SP 3.3. v práci 
+polévka SP 11.1. jídlo, pití 
+policie SP 6.8. veřejná správa, policie 
+policista, policistka SP 6.8. veřejná správa, policie  
+politická strana SP 6.7. stát, vláda 
+politika SP 6.7. stát, vláda 
+polobotky SP 10.5. obuv a kožené zboží  
+pomalu OP 3.13. vyjádření informace o rychlosti děje 
+pomalý SP 5.3. silniční doprava 
+pomocí +  genitiv OP 7. 4. 4. prostředek, nástroj 
+pomoct (imperativ) + dativ (+ infinitiv) JF 3.2.5. žádost o pomoc 
+pondělí OP 3.1. určení konkrétního času a času děje  
+ponožky SP 10.4. oděvy 
+popisovat, popsat + akuzativ   SP 1.13 tělesné vlastnosti   
+populární hudba SP 4.3. kulturní zařízení a akce  
+porucha SP 12.4. autoservis 
+pořád OP 3.14. vyjádření frekventovanosti děje 
+pořádek OP 5.1.19. čistota 
+poschodí (patro) SP 2.2. prostor domu, bytu, okolí  
+posílat + dativ (pozdrav) JF 5.3.2.2 úvodní fráze (úvod neformálního dopisu) 
+posílat, poslat + akuzativ SP 6.1. komunikace 
+poslat e-mail SP 7.4. počítač, internet 
+poslední OP 4.2. vyjádření pořadí 
+poslouchat + akuzativ  OP 5.1.13. slyšitelnost, SP 7.2. rozhlas, televize ad. 
+pospíchat OP 2.4. slovesa pohybu 
+postel SP 2.2. zařízení bytu 
+pošta SP 12.  pošta 
+poštovné SP 12.1. pošta 
+poštovní směrovací číslo SP 1.2. adresa 
+potom OP 3.6. vyjádření následnosti ..., OP 3.8. vyjádření pořadí osob, věcí, dějů 
+pak OP 3.8. vyjádření pořadí osob, věcí, dějů 
+potřebovat + infinitiv JF 2.6. vyjádření nebo zjišťování různého stupně  nutnosti,  
+JF 3.2.6. nabídka pomoci 
+potvrzení SP 6.8. veřejná správa, policie 
+potvrzovat, potvrdit + akuzativ SP 6.8. veřejná správa, policie 
+pouštět, pustit + akuzativ  SP 2.6. služby, SP 7.2. rozhlas, televize ad. 
+povídat si, popovídat si SP 6.3. pozvání, návštěva  
+povídat, povědět +  akuzativ, + dativ OP 6.2. vyjadřování, řeč 
+povolání SP 1.10. zaměstnání  
+povolení k pobytu SP 1.4. osobní doklady 
+pozdě OP 3.4. vyjádření včasnosti či opoždění děje 
+později OP 3.4. vyjádření včasnosti či opoždění děje, OP 3.6. vyjádření následnosti... 
+poznat + akuzativ JF 5.1.10. závěr, SP 6.2. druhy vztahů 
+pozor na + akuzativ JF 3.2.4. výstraha 
+pozor, ať + věta JF 3.2.4. výstraha 
+254
+práce SP 1. 10. zaměstnání, SP 3. 3. v práci 
+prací prostředky  SP 2.7. úklid, SP 10.6. drogerie 
+pracovat jako,  kde, kdy, jak  SP 1.10. zaměstnání, SP 3.3. v práci 
+pracovat přes čas SP 3.3. v práci 
+pracovní den SP 3.3. v práci  
+pračka SP 2.4. další vybavení bytu 
+prádelna SP 12.6. další druhy služeb  
+praktický OP 5.2.3. užitečnost 
+praktický lékař SP 8.5. zdravotní péče  
+prát, vyprat + akuzativ OP 5.1.19. čistota, SP 2.7. úklid 
+pravda JF 2.1.1. souhlas s kladným konstatováním skutečnosti, OP 5.2.6. správnost 
+pravděpodobně JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ...  
+pravidelně OP 3.14. vyjádření frekventovanosti děje 
+prázdniny SP 4.1. volný čas 
+prázdný OP 5.1.20. naplněnost 
+premiér SP 6.7. stát, vláda 
+prezident SP 6. stát, vláda 
+pro +  akuzativ OP 7.3.11. nositel prospěchu, OP 7.10.3. účel 
+pro- OP 2.6. směr pohybu 
+problém OP 5.2.9. obtížnost 
+probouzet se, probudit se kdy SP 3.2. doma 
+procento OP 4.1. vyjádření počtu 
+proclení SP 5.8. vstup do jiného státu a jeho opuštění 
+proč JF 1.4.2. otázky doplňovací a odpovědi na ně, OP 7.10.1. příčina, důvod,  
+OP 7.10.3. účel 
+prodávat, prodat + akuzativ, + dativ, za + akuzativ OP 5.2.1. hodnota, cena,  
+ + akuzativ  SP 2.1. bydlení 
+prodlužovat, prodloužit + akuzativ  OP 5.1.2. délka 
+profesor, profesorka SP 9.1. školství 
+profese SP 1.10. zaměstnání 
+program SP 4.3. kulturní zařízení a akce 
+prohlídka SP 8.5. zdravotní péče 
+prohlížet, prohlédnout + akuzativ SP 8.5. zdravotní péče 
+prohrávat, prohrát SP 4.6. sport 
+procházet se, projít se SP 4.1. volný čas 
+procházka SP 4.1. volný čas 
+prominout (imperativ) JF 2.14 vyjádření omluvy a odpovědi na omluvu,  
+JF 4.1.  upoutávání pozornosti, JF 5.1.4. oprava vlastního sdělení  
+prominout (imperativ) + že (part.) JF 6.2. prosba o zopakování části věty ... 
+pronajímat (si), pronajmout (si) + akuzativ SP 2.1. bydlení 
+propisovací tužka (propiska) SP 10.7. papírnictví 
+prosba  o + akuzativ JF 5.3.1.2. úvodní formulace (oficiálního dopisu) 
+prosím tě / vás + vokativ JF 4.1. upoutávání pozornosti 
+prosinec OP 3.1. určení konkrétního času a času děje 
+prosit + akuzativ (jméno osoby) JF 5.5.2. stručné sdělení přání 
+prosit + akuzativ, + imperativ JF 3.2.2. prosba 
+prosit + sloveso (imperativ) JF 6.4. prosba o hláskování ... 
+prosit, poprosit + akuzativ, o +  akuzativ OP 6.2. vyjadřování, řeč  
+proti + dativ OP 2.2. relativní umístění (poloha) osob ... 
+proto, aby OP 7.10.3. účel 
+protože OP 7.10.1. příčina, důvod 
+prsa SP 8.1. části lidského těla 
+pršet (bez subjektu) SP 13.1. počasí 
+255
+průmysl SP 2.8. okolí  
+průvodce, průvodkyně SP 5.5. prázdniny, dovolená 
+průvodčí SP 5.1. veřejná doprava obecně 
+první OP 4.2. vyjádření pořadí 
+pryč OP 2.1. umístění (poloha) osob ... 
+přát + dativ (všechno nejlepší)  k + dativ JF 4.6. gratulace 
+přát + dativ + akuzativ JF 4.9. přání dobré chuti 
+přát si + infinitiv (kondicionál) JF 2.7.1. chtění (vůle), přání 
+pře- OP 2.6. směr pohybu 
+přece JF 1.3.3. rektifikace, upřesňování 
+před + instrumentál OP 2.2. relativní umístění (poloha) osob ..., OP 3.5. vyjádření 
+předčasnosti 
+před-, přede- OP 2.6. směr pohybu 
+předepisovat, předepsat + akuzativ SP 8.5. zdravotní péče 
+především JF 5.1.8. prostředky používané při zdůrazňování složek celku 
+předjíždět, předjet + akuzativ SP 5.3. silniční doprava 
+předkrm SP 11.1. jídlo, pití 
+přednášet + akuzativ SP 9.1. školství 
+přednáška SP 9.1. školství 
+předpis SP 8.5. zdravotní péče 
+předpověď počasí SP 13.1. počasí 
+předseda vlády  SP 6.7. stát, vláda 
+předseda, předsedkyně SP 6.5. členství v organizacích 
+představit + dativ, + akuzativ JF 4.5. představování 
+předtím OP 3.5.vyjádření předčasnosti ... 
+přechod pro chodce SP 5.3. silniční doprava 
+přechodné bydliště SP 1.2. adresa 
+překládat, přeložit + akuzativ, z/ze + genitiv SP 6.1. komunikace 
+přemýšlet o + lokál OP 6.1.2. myšlení 
+přes + akuzativ OP 2.6. směr pohybu  
+přesněji řečeno JF 5.1.4. oprava vlastního sdělení 
+přestávat, přestat OP 1.5. začátek, konec, změna, + infinitiv impf. slovesa  
+OP 3. 18.vyjádření přerušení či zakončení děje 
+přestávka SP 3.3. v práci 
+přesto(že) OP 7.10.5. přípustka 
+přestupovat, přestoupit kde, kam SP 5.1. veřejná doprava obecně 
+při- OP 2.6. směr pohybu 
+příběh OP 1.2. událost 
+příbor SP 10.8. domácí potřeby 
+příhoda OP 1.2. událost 
+příjmení SP 1.1. jméno 
+přijmout (imperativ) + akuzativ JF 4.7. vyjádření soustrasti 
+přijmout e-mail SP 7.4. počítač, internet 
+příkaz SP 12.2. banka  
+příliš + adjektivum, + adverbium  OP 4. 6. vyjádření stupně nebo míry vlastnosti ...   
+příloha SP 11.1. jídlo, pití 
+přímá řeč JF 1.2.3. prvky vypravování  
+připlácet, připlatit SP 8.6. zdravotní pojištění 
+připravovat, připravit + akuzativ SP 3.2. doma 
+příroda SP 2.8. okolí 
+příště OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+příští (akuzativ) OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+přítel, přítelkyně SP 6.2. druhy vztahů 
+256
+přízemí SP 2.2. prostor domu, bytu, okolí, SP 4. 3. kulturní zařízení a akce 
+psát (píše se) JF 6.5. dotaz na správnou výslovnost či pravopis ... 
+psát, napsat +  akuzativ, + dativ OP 6. 2. vyjadřování, řeč, SP 4. 5. literatura,  
+SP 6. 1. komunikace 
+psát, napsat, že JF 1.2.1. sdělení informace, podání zprávy 
+psát, psáno jak SP 1.1. jméno 
+pták SP. 2. 9. flóra, fauna 
+ptát se, zeptat se + genitiv, na + akuzativ OP 6.2. vyjadřování, řeč, SP 5.4. hledání cesty,
+ SP 6.1. komunikace  
+půjčovat, půjčit + akuzativ SP 4.5. literatura 
+půjčovat si, půjčit si + akuzativ SP 4.5. literatura 
+punčochové kalhoty ( punčocháče) SP 10.4. oděvy 
+pustit, pouštět OP 2.5. fáze pohybu 
+pyžamo SP 10.4. oděvy 
+R 
+rád/a, nerad/a + sloveso JF 2.8. vyjádření nebo zjišťování míry potěšení ..., 
+JF 2.7.1. chtění (vůle), přání, OP 6.1.4. emoce, SP 4.2. zájmy 
+rád/a + akuzativ + sloveso JF 5.1.10. závěr 
+rád/a + poblahopřát (kondicionál) + dativ, k + dativ JF 4.6. gratulace 
+rád/a + říct (kondicionál) + dativ ... o + lokál JF 5.1.2. uvedení tématu 
+raději, radši + sloveso, než ... JF 2.7.4. preference  
+rádio SP 2.4. další vybavení bytu 
+ráno OP 3.1. určení konkrétního času a času děje 
+rasismus SP 6.9. problémy společnosti 
+recepce SP 5.6. ubytování 
+recepční SP 5.6. ubytování 
+recept SP 8.5. zdravotní péče 
+reklama SP 7.2. rozhlas, televize ad.  
+reklamovat + akuzativ  SP 10.2. nakupování 
+rentgen SP 8.5. zdravotní péče 
+restaurace SP 11.2. restaurace, kavárny 
+rezervovat + akuzativ 
+ SP 5.6. ubytování 
+ročně OP 3.14. vyjádření frekventovanosti děje 
+roční období SP 13.2. podnebí 
+rodiče SP 1.11. rodina 
+rodina SP 1.11. rodina 
+rodinný stav SP 1.7. stav 
+rodné příjmení  SP 1.1. jméno 
+rohlík SP 10.3. potraviny 
+rok OP 3.2. vyjádření časového intervalu, OP 5.1.16. stáří, věk, trvání 
+rok, léta  SP 1.5. věk 
+rovně OP 2.6. směr pohybu, SP 5.4. hledání cesty 
+roz-, roze- OP 2.6. směr pohybu 
+rozhlas, rádio SP 7.2. rozhlas, televize ad. 
+rozhlasový program SP 7.2. rozhlas, televize ad. 
+rozhodně JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+rozsvěcovat, rozsvítit + akuzativ SP 2.6. služby 
+rozšiřovat, rozšířit + akuzativ OP 5.1.4. šířka 
+rozumět, porozumět + dativ OP 6.1.2. myšlení, SP 6.1. komunikace 
+rozvedený, rozvedená SP 1.7. stav 
+ručník SP 8.3. osobní hygiena 
+257
+ruka SP 8.1. části lidského těla, SP 1.13 tělesné vlastnosti 
+rukavice SP 10.4. oděvy 
+různý OP 7.6. identifikace 
+ryba SP 10.3. potraviny, SP 2.9. flóra, fauna  
+rybník SP 2.8. okolí 
+rychlé občerstvení SP 11.2. restaurace, kavárny 
+rychle OP 3.13. vyjádření informace o rychlosti děje  
+rychlost OP 3.13. vyjádření informace o rychlosti děje, SP 5.3. silniční doprava 
+rychlý SP 5.3. silniční doprava 
+rýma SP 8.4. zdravotní problémy 
+rýže SP 10.3. potraviny, SP 11.1. jídlo, pití 
+Ř 
+řada SP 4.3. kulturní zařízení a akce 
+řadová číslovka OP 3.8. vyjádření pořadí osob, věcí, dějů, OP 4.2. vyjádření pořadí,  
+OP 4.4. vyjádření výčtu  
+řeka SP 2.8. okolí 
+říct (kondicionál, reflexivní pasivum) JF 5.1.3. váhání, hledání slov, upřesňování  
+říct, říkat, že ... JF 1.2.1. sdělení informace, podání zprávy 
+řidič, řidička SP 5.1. veřejná doprava obecně, SP 5.2. osobní doprava 
+řidičský průkaz SP 1.4. osobní doklady 
+řídit + akuzativ SP 5.2. osobní doprava 
+říjen OP 3.1. určení konkrétního času a času děje 
+říkat, říct + akuzativ + dativ OP 6.2. vyjadřování, řeč, SP 6.1. komunikace 
+řízek SP 11.1. jídlo, pití 
+S 
+s-, se- OP 2.6. směr pohybu 
+sako SP 10.4. oděvy 
+salám SP 10.3. potraviny  
+samoobsluha SP 10.1. obchody 
+samozřejmě (že ano) JF 2.1.1. souhlas s kladným konstatováním skutečnosti 
+samozřejmě (že ne) JF 2.1.2. souhlas s negativním konstatováním skutečnosti 
+sandály SP 10.5. obuv a kožené zboží 
+sanitka SP 8.5. zdravotní péče 
+sebe / se, sobě / si, sebou OP 8. deixe 
+sedadlo SP 4.3. kulturní zařízení a akce 
+sedět OP 2.1. umístění (poloha) osob ... 
+sedmnáct OP 4.1. vyjádření počtu 
+sem OP 2.3. vzdálenost, OP 2.6. směr pohybu 
+semafor, světla SP 5.3. silniční doprava 
+servis  SP 12.4. autoservis 
+sestra SP 1.11. rodina  
+sešit SP 10.7. papírnictví 
+sever OP 2.6. směr pohybu 
+seznámit + akuzativ + s + instrumentál JF 4.5. představování 
+seznamovat, seznámit + akuzativ, s + instrumentál SP 6.2. druhy vztahů 
+shora, seshora OP 2.6. směr pohybu  
+scházet se, sejít se  kde, s + instrumentál SP 6.3. pozvání, návštěva,  SP 6.5. členství  
+v organizacích  
+schody SP 2.2. prostor domu, bytu, okolí 
+258
+schůze SP 6.5. členství v organizacích 
+schůzka SP 6.3. pozvání, návštěva 
+silnice SP 5.3. silniční doprava 
+silný (= atletický) OP 5.1.17. tělesná kondice, SP 1.13. tělesné vlastnosti 
+silný (= tlustý) OP 5.1.5. tloušťka, SP 1.13. tělesné vlastnosti 
+skákat, skočit SP 4.6. sport 
+skládat, složit + akuzativ (zkoušku) SP 9.1. školství 
+sklenice OP 4.5. vyjádření množství (nepočitatelnost), OP 5.1.9. konkrétní prostor 
+ + některé jednotky objemu, SP 10.8. domácí potřeby 
+skoro ne OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+skříň SP 2.2. zařízení bytu 
+slabý OP 5.1.17. tělesná kondice 
+slabý OP 5.1.5. tloušťka 
+sladký OP 5.1.14. chuť, SP 11.1. jídlo, pití 
+slaný OP 5.1.14. chuť, SP 11.1. jídlo, pití 
+slavit, oslavit + akuzativ SP 6.4. svátky, narozeniny 
+slovník SP 6.1. komunikace 
+slovo JF 6.5. dotaz na správnou výslovnost či pravopis ..., SP 6.1. komunikace 
+složenka SP 12.1. pošta 
+slunce SP 13.1. počasí 
+slyšet, uslyšet + akuzativ OP 5.1.13. slyšitelnost 
+smát se OP 6.1.4. emoce 
+smazat zprávu SP 7.3. telefon 
+smažený sýr SP 11.1. jídlo, pití 
+směnárna SP 12.2. banka 
+smět, nesmět + infinitiv JF 2.5.3. svolení, zákaz    
+SMS zpráva (esemeska) SP 7.3. telefon 
+snad JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+snadný OP 5.2.9. obtížnost 
+sněžit (bez subjektu) SP 13.1. počasí  
+snídaně SP 3.2. doma  
+snídat + akuzativ, nasnídat se SP 3.2. doma  
+sníh SP 13.1. počasí 
+snižovat, snížit + akuzativ OP 5.1.3. výška 
+sobota OP 3.1. určení konkrétního času a času děje 
+socha SP 4.4. výtvarné umění, výstavy, muzea 
+současně OP 3.7. vyjádření souběžnosti ... 
+souhlasit  s + instrumentál  JF 2.1.1. souhlas s kladným konstatováním skutečnosti,  
+OP 5.2.4. vhodnost 
+soused, sousedka SP 6.2. druhy vztahů 
+spát SP 3.2. doma 
+spěchat OP 2.4. slovesa pohybu 
+spíš, spíše JF 1.3.3. rektifikace, upřesňování, + adverbium OP 4.6. vyjádření stupně nebo 
+   míry vlastnosti ... 
+spodní prádlo SP 10.4. oděvy 
+společnost SP 6.8. veřejná správa, policie, SP 6.9. problémy společnosti 
+sporák SP 2.4. další vybavení bytu 
+sport SP 4.6. sport 
+sportovat SP 4.6. sport 
+správně JF 6.5. dotaz na správnou výslovnost či pravopis ..., OP 5.2.6. správnost 
+správný OP 5.2.6. správnost 
+sprcha SP 2.4. další vybavení bytu 
+sprchovat se, osprchovat se SP 3.2. doma 
+259
+sprchový kout SP 2.2. prostor domu, bytu, okolí 
+srdce SP 8.1. části lidského těla  
+srpen OP 3.1. určení konkrétního času a času děje 
+stadion SP 4.6. sport 
+stále OP 3.14. vyjádření frekventovanosti děje 
+stálé bydliště  SP 1.2. adresa 
+stánek SP 10.1. obchody 
+stanice  SP 5.1. veřejná doprava obecně 
+stanoviště SP 5.1. veřejná doprava obecně 
+starý OP 5.1.16. stáří, věk, trvání, SP 1.5. věk 
+stát kolik  OP 5.2.1. hodnota, cena, SP 2.1. bydlení 
+stát SP 1.2. adresa 
+stát OP 2.1. umístění (poloha) osob ..., OP 2.2. relativní umístění (poloha) osob ... 
+stát se OP 1.2. událost 
+stát se + instrumentál OP 1.5. začátek, konec, změna 
+státní příslušnost SP 1.8. národnost, státní příslušnost 
+stěhovat se, nastěhovat se kam, kdy SP 2.1. bydlení 
+stejně jako OP 7.7. shoda, odlišnost, srovnání 
+stejný OP 7.6. identifikace 
+stejný jako OP 7.7. shoda, odlišnost, srovnání 
+stěna SP 2.2. prostor domu, bytu, okolí 
+stipendium  SP 3.4. příjem 
+sto OP 4.1. vyjádření počtu 
+stokrát  OP 4.3. vyjádření násobnosti  
+století OP 3.2. vyjádření časového intervalu 
+stoupat, stoupnout OP 2.4. slovesa pohybu, OP 5.1.10. teplota,  
+SP 6.9. problémy společnosti 
+strom SP 2.9. flóra, fauna 
+strop SP 2.2. prostor domu, bytu, okolí 
+strukturovaný životopis SP 3.5. hledání zaměstnání 
+středa OP 3.1. určení konkrétního času a času děje 
+střední vzdělání SP 9.1. školství 
+střední škola SP 9.1. školství  
+stříhat, ostříhat SP 12.6. další druhy služeb 
+studené jídlo SP 3.2. doma 
+student, studentka SP 9.1. školství 
+studený OP 5.1.10. teplota, SP 11.1. jídlo, pití 
+studijní obor SP 9.1. školství 
+studovat kde,+ akuzativ SP 9.1. školství 
+stůl  SP 2.2. zařízení bytu 
+stupeň Celsia OP 5.1.10. teplota 
+sucho OP 5.1.11. vlhkost 
+suchý OP 5.1.11. vlhkost, SP 13.1. počasí 
+sukně SP 10.4. oděvy  
+sůl SP 10.3. potraviny  
+supermarket SP 10.1. obchody 
+suterén SP 2.2. prostor domu, bytu, okolí 
+svátek SP 3.3. v práci, SP 6.4. svátky, narozeniny 
+světlo OP 5.1.12. viditelnost 
+světlý OP 5.1.12. viditelnost, OP 5.1.15. barva 
+světové strany OP 2.1. umístění (poloha) osob ... 
+svetr SP 10.4. oděvy 
+svíčková SP 11.1. jídlo, pití  
+260
+svítit SP 13.1. počasí  
+svlékat se, svléknout se SP 3.2. doma 
+svlékat si, svléknout si + akuzativ SP 3.2. doma 
+svobodný, svobodná SP 1.7. stav 
+svůj, svá, své OP 8. deixe 
+syn SP 1.11. rodina 
+sýr SP 10.3. potraviny  
+Š 
+šála SP 10.4. oděvy 
+šálek OP 4.5. vyjádření množství (nepočitatelnost), OP 5.1.9. konkrétní prostor  
+ + některé jednotky objemu, SP 10.8. domácí potřeby 
+šampon SP 10.6. drogerie, SP 8.3. osobní hygiena 
+šatna SP 4.3. kulturní zařízení a akce  
+šaty SP 10.4. oděvy  
+šedý OP 5.1.15. barva  
+široký OP 5.1.4. šířka  
+šířka OP 5.1.4. šířka 
+škola SP 9.1. školství 
+špatně OP 5.1.12. viditelnost, OP 5.1.17. tělesná kondice, OP 5.2.6. správnost 
+špatně, hůře, nejhůře OP 5.2.2. kvalita v užším slova smyslu 
+špatný, horší, nejhorší OP 5.2.2. kvalita v užším slova smyslu 
+špatný pro + akuzativ OP 5.2.3. užitečnost 
+špinavý  OP 5.1.19. čistota, SP 2. 7. úklid 
+štíhlý OP 5.1.5.  tloušťka, SP 1.13. tělesné vlastnosti 
+T 
+tableta SP 8.5. zdravotní péče 
+tady OP 2.1. umístění (poloha) osob ... 
+talíř OP 5.1.9. konkrétní prostor + některé jednotky objemu, SP 10.8. domácí 
+ potřeby 
+tam OP 2.1. umístění (poloha) osob ..., OP 2.3. vzdálenost, OP 2.6. směr pohybu  
+tamhle OP 2.1. umístění (poloha) osob ... 
+tamten, tamta, tamto JF 1.1. prezentace osoby, zvířete, věci, vlastnosti či děje 
+tancovat, zatancovat (si)  SP 4.3. kulturní zařízení a akce 
+taška SP 5.7. zavazadla, SP 10.5. obuv a kožené zboží 
+taxametr SP 5.1. veřejná doprava obecně 
+taxi, taxík SP 5.1. veřejná doprava obecně 
+téct SP 2.6. služby 
+teď OP 3.10. vyjádření přítomnosti, odkazy na přítomnost 
+telefon SP 1.2. adresa,  SP 2.4. další vybavení bytu, SP 7.3. telefon 
+telefonní číslo  SP 7.3. telefon  
+telefonní seznam SP 7.3. telefon 
+telefonovat, zatelefonovat (si) + dativ, kam SP 7.3. telefon  
+telegram SP 12.1. pošta 
+televize SP 7.2. rozhlas, televize ad. 
+televizní program SP 7.2. rozhlas, televize ad. 
+televizor SP 2.4. další vybavení bytu 
+tělo SP 8.1. části lidského těla 
+tělocvična SP 4.6. sport 
+tělové mléko SP 8.3. osobní hygiena, SP 10.6. drogerie 
+261
+ten, ta, to JF 1.1. prezentace osoby, zvířete, věci, vlastnosti či děje, OP 8. deixe 
+tenhle, tahle, tohle JF 1.1. prezentace osoby, zvířete, věci, vlastnosti či děje, 
+OP 8. deixe 
+tenký OP 5.1.5. tloušťka 
+tento, tato, toto JF 1.1. prezentace osoby, zvířete, věci, vlastnosti či děje, 
+OP 8. deixe 
+teplá X studená voda SP 2.6. služby  
+teplé jídlo SP 3.2. doma 
+teplo OP 5.1.10. teplota, SP 13.1. počasí 
+teplota OP 5.1.10. teplota 
+teplý OP 5.1. 10. teplota, SP 11.1. jídlo, pití 
+teprve + časové určení OP 3.19. vyjádření časového horizontu 
+těšit se + akuzativ, (že) JF 2.9. vyjádření nebo zjišťování radosti nebo lítosti 
+těžký OP 5.1.8. váha (hmotnost) ... 
+těžký OP 5.2.9. obtížnost 
+ticho OP 5.1.13. slyšitelnost 
+tichý OP 5.1.13. slyšitelnost 
+tisíc OP 4.1. vyjádření počtu 
+tiše OP 5.1.13. slyšitelnost 
+tlustý OP 5.1.5. tloušťka, SP 1.13 tělesné vlastnosti 
+tma OP 5.1.12. viditelnost 
+tmavý OP 5.1.12. viditelnost, OP 5.1.15. barva 
+to + sloveso být + nominativ JF 1.1. prezentace osoby, zvířete, věci, vlastnosti či děje 
+to je / není ono JF 2.11. vyjádření nebo zjišťování spokojenosti či nespokojenosti 
+topení SP 2.6. služby 
+továrna SP 2.8. okolí 
+tramvaj SP 5.1. veřejná doprava obecně 
+trénovat SP 4.6. sport 
+trezor SP 5.6. ubytování 
+trh SP 10.1. obchody 
+tričko SP 10.4. oděvy 
+trochu + genitiv OP 4.5. vyjádření množství (nepočitatelnost) 
+trochu + adjektivum, adverbium, sloveso  OP 4.6. vyjádření stupně nebo míry vlastnosti 
+trvat + akuzativ OP 3.3. vyjádření délky trvání děje 
+trvat OP 3.17. vyjádření pokračování (trvání) děje 
+třeba JF 2.4. vyjádření nebo zjišťování různého stupně jistoty ... 
+třetí OP 4.2. vyjádření pořadí  
+tři OP 4.1. vyjádření počtu 
+třicet OP 4.1. vyjádření počtu 
+třikrát  OP 3.14. vyjádření frekventovanosti děje, OP 4.3. vyjádření násobnosti 
+tudy OP 2.6. směr pohybu 
+turista, turistka SP 5.5. prázdniny, dovolená 
+tužka SP 10.7. papírnictví 
+tvaroh SP 10.3. potraviny 
+tvůj, tvá, tvé  OP 8. deixe 
+ty OP 8. deixe  
+týden OP 3.2. vyjádření časového intervalu 
+týdně OP 3.14. vyjádření frekventovanosti děje 
+tým SP 4.6. sport 
+U 
+u + genitiv OP 2.1. umístění (poloha) osob ...,OP 2. 3. vzdálenost 
+262
+účastnit se, zúčastnit se + genitiv  SP 3.5. hledání zaměstnání,  SP 4.6. sport 
+účet SP 5.6. ubytování, SP 12.2. banka 
+učit kde, + akuzativ SP 9.1. školství 
+učit se, naučit se + akuzativ (+ dativ) SP 9.1. školství 
+učitel, učitelka SP 9.1. školství 
+událost OP 1.2. událost 
+udělat, neudělat + akuzativ OP 5.2.6. správnost 
+ucho SP 8.1. části lidského těla 
+ukazovat, ukázat + akuzativ,  + dativ OP 6.2. vyjadřování, řeč, SP 10.2. nakupování 
+uklízet, uklidit + akuzativ  OP 5.1.19. čistota, SP 2.7. úklid 
+ukončit + akuzativ OP 3.18. vyjádření přerušení či zakončení děje 
+ulice SP 1.2. adresa, SP 5.3. silniční doprava 
+umět + infinitiv JF 2.5.2. schopnost, neschopnost, OP 6.1.1. vědění 
+umírat, umřít OP 1.5. začátek, konec, změna 
+úmrtí OP 1.5. začátek, konec, změna  
+umývadlo SP 2.4. další vybavení bytu 
+umývat, umýt + akuzativ SP 2.7. úklid 
+únor OP 3.1. určení konkrétního času a času děje 
+upadnout SP 8.4. zdravotní problémy 
+uprostřed OP 2.2. relativní umístění (poloha) osob ... 
+určitě JF 2.1.1. souhlas s kladným konstatováním skutečnosti, JF 2.4. vyjádření nebo  
+ zjišťování různého stupně jistoty... 
+určitě ne JF 2.1.2. souhlas s negativním konstatováním skutečnosti 
+úřad SP 6.8. veřejná správa, policie 
+úřední dopis SP 6.1. komunikace 
+úředník, úřednice SP 6.8. veřejná správa, policie 
+úschovna zavazadel SP 5.1. veřejná doprava obecně, SP 5.7. zavazadla 
+úspěch, neúspěch OP 5.2.7. úspěšnost 
+ústa SP 8.1. části lidského těla 
+úterý OP 3.1. určení konkrétního času a času děje 
+uvnitř/vevnitř OP 2.2. relativní umístění (poloha) osob ... 
+uvnitř + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+uzeniny SP 10.3. potraviny 
+úzký OP 5.1.4. šířka 
+už  (+ sloveso v préteritu v kladné větě) OP 3.5.vyjádření předčasnosti ... 
+už + časové určení OP 3.19. vyjádření časového horizontu 
+už , ještě ne- + sloveso začínat, přestávat + infinitiv OP 1.5. začátek, konec, změna 
+už / už ne-, ještě / ještě ne- + sloveso OP 1.3. přítomnost, nepřítomnost 
+už / už ne-, ještě / ještě ne- + sloveso OP 1.4. dostupnost, nedostupnost 
+užitečný OP 5.2.3. užitečnost  
+V 
+v, ve + akuzativ OP 3.1. určení konkrétního času a času děje 
+v, ve + lokál OP 2.1. umístění (poloha) osob ..., OP 3.1. určení konkrétního času  
+ a času děje 
+v-, ve- OP 2.6. směr pohybu 
+vagón, vůz SP 5.1. veřejná doprava obecně 
+váha OP 5.1.8. váha (hmotnost) ... 
+vana SP 2.4. další vybavení bytu 
+Vánoce SP 6.4. svátky, narozeniny 
+vařič SP 2.4. další vybavení bytu 
+vařit, uvařit + akuzativ SP 3.2. doma 
+263
+váš, vaše OP 8. deixe  
+vážený, vážená + vokativ JF 4.4. způsoby oslovování, JF 5.1.1. zahájení mluveného 
+ projevu 
+vážit kolik OP 5.1.8. váha (hmotnost) ... 
+vážit, zvážit + akuzativ OP 5.1.8. váha (hmotnost) ... 
+včas OP 3.4. vyjádření včasnosti či opoždění děje 
+včera OP 3.9. vyjádření minulosti, odkazy na minulost 
+včera odpoledne OP 3.9. vyjádření minulosti, odkazy na minulost 
+včera ráno OP 3.9. vyjádření minulosti, odkazy na minulost 
+včera večer OP 3.9. vyjádření minulosti, odkazy na minulost 
+včetně +  genitiv  OP 7.9.4. zahrnutí, vyloučení 
+vdaná SP 1.7. stav 
+večer OP 3.1. určení konkrétního času a času děje 
+večeře SP 3.2. doma 
+večeřet + akuzativ, navečeřet se SP 3.2. doma 
+vědět + akuzativ JF 2.3. konstatování, že někdo někoho zná ..., OP 6.1.1. vědění 
+vědět o + lokál JF 2.3. konstatování, že někdo někoho zná ... 
+vědět, že ... JF 2.3. konstatování, že někdo někoho zná ..., JF 2.4. vyjádření  
+ nebo zjišťování různého stupně jistoty ..., OP 6.1.1. vědění 
+vedle + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+vedle OP 2.2. relativní umístění (poloha) osob ..., OP 5.1.6. vzdálenost 
+vejce SP 10.3. potraviny 
+Velikonoce SP 6.4. svátky, narozeniny 
+velikost OP 5.1.1. velikost, SP 10.4. oděvy 
+velký OP 5.1.1. velikost, OP 5.1.9. konkrétní prostor + některé jednotky objemu,  
+SP 1.13 tělesné vlastnosti 
+velmi + adjektivum OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+velmi + adverbium OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+velvyslanec, velvyslankyně SP 12.3. diplomatické služby 
+velvyslanectví  SP 12.3. diplomatické služby  
+ven OP 2.6. směr pohybu 
+venku OP 2.1. umístění (poloha) osob ... 
+vepřová pečeně SP 11.1. jídlo, pití 
+vepřové maso SP 10.3. potraviny 
+věřit v + akuzativ SP 6.6. náboženství 
+věřit, že ... JF 2.10. vyjádření nebo zjišťování naděje či obavy 
+věta JF 5.1.10. závěr,  SP 6.1. komunikace 
+větší o + akuzativ OP 5.1.1. velikost 
+vézt OP 2.4. slovesa pohybu 
+vchod SP 4.3. kulturní zařízení a akce 
+více než OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+viď(te) JF 2.2. vybízení k souhlasu s předchozí výpovědí   
+video  SP 7.2. rozhlas, televize ad. 
+vidět, uvidět + akuzativ OP 5.1.12. viditelnost 
+vidlička SP 10. 8.  domácí potřeby 
+víkend SP 3.3. v práci, SP 4.1. volný čas 
+víno SP 10.3. potraviny, SP 11.1. jídlo, pití 
+viset OP 2.1. umístění (poloha) osob ..., OP 2.2. relativní umístění (poloha) osob ... 
+vítr SP 13.1. počasí. 
+vizitka SP 6.3. pozvání, návštěva 
+vízum SP 5.8. vstup do jiného státu a jeho opuštění 
+vláda SP 6.7. stát, vláda 
+vládnout SP 6.7. stát, vláda 
+264
+vlak SP 5.1. veřejná doprava obecně 
+vlastně JF 5.1.3. váhání, hledání slov, upřesňování 
+vlasy SP 1.13 tělesné vlastnosti, SP 8.1. části lidského těla 
+vlevo / nalevo od + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+vlevo / nalevo OP 2.2. relativní umístění (poloha) osob ... 
+vlhko OP 5.1.11. vlhkost 
+vlhký OP 5.1.11. vlhkost, SP 13.1. počasí 
+voda SP 2.6. služby 
+volat, zavolat (si) + dativ, kam SP 7.3. telefon 
+volby SP 6.7. stát, vláda 
+volit, zvolit + akuzativ SP 6.7. stát, vláda 
+volno SP 3.3. v práci, SP 4.1. volný čas 
+volný čas SP 3.2. doma, SP 4.1. volný čas 
+vozit OP 2.4. slovesa pohybu 
+vpravo / napravo od + genitiv OP 2.2. relativní umístění (poloha) osob ... 
+vpravo / napravo OP 2.2. relativní umístění (poloha) osob ... 
+vpředu / vepředu OP 2.2. relativní umístění (poloha) osob ... 
+vracet, vrátit +  akuzativ, + dativ OP 7.8. vyjadřování posesivních vztahů 
+vrátit se, vracet se OP 2.4. slovesa pohybu 
+vrchní číšník (vrchní) SP 11.2. restaurace, kavárny 
+vstávat, vstát kdy, jak  SP 3.2. doma 
+vstupenka SP 4.3. kulturní zařízení a akce 
+všechen, všechna, všechno OP 4.5. vyjádření množství (nepočitatelnost) 
+všude OP 2.1. umístění (poloha) osob ... 
+vteřina OP 3. 2. vyjádření časového intervalu 
+vůbec ne OP 4.6. vyjádření stupně nebo míry vlastnosti ... 
+vy- OP 2.6. směr pohybu 
+vy OP 8. deixe 
+vybírat, vybrat + akuzativ SP 10.2. nakupování 
+vydělávat (si), vydělat (si) kolik  SP 3.4. příjem 
+vyhazovat, vyhodit + akuzativ  SP 2.7. úklid 
+vyhrávat, vyhrát SP 4.6. sport 
+východ SP 4.3. kulturní zařízení a akce 
+východ ( světová strana) OP 2.6. směr pohybu 
+výlet SP 5.5.  prázdniny, dovolená 
+vypadat (jak?) SP 1.13 tělesné vlastnosti 
+vypínat, vypnout + akuzativ  SP 2.6. služby, SP 7.2. rozhlas, televize ad. 
+vypravovat, vyprávět o +  lokál OP 6.2. vyjadřování, řeč 
+vyřizovat, vyřídit + akuzativ SP 6.8. veřejná správa, policie 
+vyslovovat (vyslovuje se) JF 6.5. dotaz na správnou výslovnost či pravopis ... 
+vyslovovat, vyslovit + akuzativ SP 6.1. komunikace 
+vysoká škola SP 9.1. školství 
+vysoké boty SP 10.5. obuv a kožené zboží 
+vysokoškolské vzdělání SP 9.1. školství 
+vysoký OP 5.1.3. výška,  OP 5.1.10. teplota, OP 5.2.1. hodnota, cena,  
+SP 1.13 tělesné vlastnosti 
+výstava SP 4.4. výtvarné umění, výstavy, muzea 
+vystudovat + akuzativ SP 9.1. školství 
+vystupovat, vystoupit kde, odkud  (z + genitiv) SP 5.1. veřejná doprava obecně 
+vysvětlovat, vysvětlit + akuzativ, + dativ OP 6.2. vyjadřování, řeč, SP 6.1. komunikace 
+vyšetřovat, vyšetřit + akuzativ SP 8.5. zdravotní péče 
+výška OP 5.1.3. výška 
+vyšší o + akuzativ OP 5.1.3. výška 
+265
+výtah SP 2.2. prostor domu, bytu, okolí 
+vyzkoušet, zkusit + akuzativ SP 10.2. nakupování 
+vzadu OP 2.2. relativní umístění (poloha) osob ... 
+vzdělání SP 9.1. školství 
+vzduch SP 2. 8. okolí 
+vzpomínat si, vzpomenout si na + akuzativ  OP 6.1.3. paměť 
+vždy / vždycky OP 3.14. vyjádření frekventovanosti děje 
+Z 
+z, ze + genitiv OP 2.6. směr pohybu 
+za- OP 2. 6. směr pohybu 
+za + akuzativ (+ řadová číslovka) JF 5.1.6. výčet, OP 4.4. vyjádření výčtu  
+za + akuzativ OP 3.2. vyjádření časového intervalu, OP 3.6. vyjádření následnosti ...,  
+OP 3.13. vyjádření informace o rychlosti děje 
+za + instrumentál OP 2.2. relativní umístění (poloha) osob ... 
+za jak dlouho  OP 3.2. vyjádření časového intervalu 
+začátek OP 3.16. vyjádření začátku děje 
+začínat, začít + infinitiv impf. slovesa OP 3.16. vyjádření začátku děje 
+začínat, začít OP 1.5. začátek, konec, změna, OP 3.16. vyjádření začátku děje,   
+ kdy SP 3.3. v práci 
+záda SP 8.1. části lidského těla 
+zadarmo OP 5.2.1. hodnota, cena 
+zahrada SP 2.2. prostor domu, bytu, okolí 
+zahraničí SP 5.5.  prázdniny, dovolená 
+zahrát si + akuzativ SP 4.6. sport 
+záchod (WC) SP 2.2. prostor domu, bytu, okolí 
+zajímat + akuzativ JF 2.7.3. zájem, nezájem 
+zajímat se o  + akuzativ JF 2.7.3. zájem, nezájem, SP 4.2. zájmy, SP 3.5. hledání 
+ zaměstnání 
+základní vzdělání SP 9.1. školství 
+základní škola SP 9.1. školství 
+zákon SP 6.8. veřejná správa, policie  
+zákusek  SP 11.1. jídlo, pití 
+zámek SP 5.5. prázdniny, dovolená 
+zaměstnání SP 1.10. zaměstnání 
+zamykat, zamknout + akuzativ  SP 2.2. prostor domu, bytu, okolí 
+západ OP 2.6. směr pohybu 
+zapínat, zapnout + akuzativ  SP 2.6. služby, SP 7.2. rozhlas, televize ad. 
+zapomínat, zapomenout + akuzativ, na + akuzativ, + infinitiv  OP 6.1.3. paměť 
+září OP 3.1. určení konkrétního času a času děje 
+zastavit + akuzativ  SP 2.6. služby 
+zastávka SP 5.1. veřejná doprava obecně 
+zastavovat, zastavit OP 2.5. fáze pohybu, SP 5.1. veřejná doprava obecně 
+zatím OP 3.7. vyjádření souběžnosti ... 
+zatímco OP 3.7. vyjádření souběžnosti ... 
+zatočit, zahnout SP 5.4. hledání cesty 
+zavazadlo SP 5.7. zavazadla 
+závěrem JF 5.1.10. závěr 
+zavírat, zavřít kdy OP 5.1.18. dostupnost, SP 4.4. výtvarné umění, výstavy , muzea  
+zavírat, zavřít + akuzativ  SP 2.2. prostor domu, bytu, okolí 
+závod, závody v + lokál SP 4.6. sport 
+zboží SP 10.2. nakupování 
+266
+zbytečný OP 5.2.3. užitečnost 
+zdát se (+ dativ), že ... JF 5.1.5. vyjádření názoru 
+zde OP 2.1. umístění (poloha) osob ... 
+zdola, zezdola OP 2.6. směr pohybu 
+zdravé jídlo SP 11.1. jídlo, pití 
+zdravé životní prostředí SP 2.8. okolí 
+zdraví SP 8.4. zdravotní problémy 
+zdravotní pojištění SP 8.6. zdravotní pojištění 
+zdravotní pojišťovna SP 8.6. zdravotní pojištění 
+zdravotní sestra SP 8.5. zdravotní péče 
+zdravý OP 5.1.17. tělesná kondice, SP 8.4. zdravotní problémy 
+zdražovat, zdražit + akuzativ OP 5.2.1. hodnota, cena 
+zejména JF 5.1.8. prostředky používané při zdůrazňování složek celku 
+zelená SP 5.3. silniční doprava 
+zelenina SP 10.3. potraviny 
+zeleninová polévka SP 11.1. jídlo, pití 
+zelený OP 5.1.15. barva 
+země SP 1.2. adresa 
+zemědělství SP 2.8. okolí 
+zepředu OP 2.6. směr pohybu 
+zezadu OP 2.6. směr pohybu 
+zhasínat, zhasnout + akuzativ  SP 2.6. služby 
+zima adv. SP 13.1. počasí 
+zima OP 3.1. určení konkrétního času a času děje, SP 13.2. podnebí 
+zimní SP 13.2. podnebí 
+zítra OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+zítra odpoledne OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+zítra ráno OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+zítra večer OP 3.11. vyjádření budoucnosti, odkazy na budoucnost 
+zkoušet si, vyzkoušet si, zkusit si + akuzativ SP 10.4. oděvy 
+zkouška SP 9.1. školství 
+zkracovat, zkrátit + akuzativ OP 5.1.2. délka 
+zkrátka a dobře JF 5.1.9. shrnutí 
+zleva OP 2.6. směr pohybu 
+zlevňovat, zlevnit + akuzativ OP 5.2.1. hodnota, cena 
+zlobit se, rozzlobit se na + akuzativ OP 6.1.4. emoce 
+zlomit si + akuzativ SP 8.4. zdravotní problémy 
+zmenšovat, zmenšit + akuzativ OP 5.1.1. velikost 
+zmrzlina SP 11.1. jídlo, pití  
+znamenat SP 6.1. komunikace 
+známka SP 6.1. komunikace, SP 12.1. pošta 
+známý, známá SP 6.2. druhy vztahů 
+znát, neznat se JF 4.5. představování 
+znát + akuzativ JF 2.3. konstatování, že někdo někoho zná ..., OP 6.1.1. vědění,  
+SP 6.2. druhy vztahů 
+znát se s + instrumentál JF 2.3. konstatování, že někdo někoho zná ... 
+zpěvák, zpěvačka SP 4.3. kulturní zařízení a akce 
+zpívat, zazpívat + akuzativ SP 4.3. kulturní zařízení a akce 
+zpoždění SP 5.1. veřejná doprava obecně 
+zprava OP 2.6. směr pohybu 
+zpráva OP 6.2. vyjadřování, řeč 
+zpráva, zprávy SP 7.1. tisk 
+zranit se SP 8.4. zdravotní problémy 
+267
+ztrácet, ztratit +  akuzativ OP 7.8. vyjadřování posesivních vztahů 
+zub SP 8.1. části lidského těla 
+zubní lékař (zubař) SP 8.5. zdravotní péče 
+zůstat stát OP 2.5. fáze pohybu 
+zůstávat, zůstat OP 2.1. umístění (poloha) osob ..., OP 2.2. relativní umístění (poloha)  
+osob ..., OP 3.17. vyjádření pokračování (trvání) děje 
+zužovat, zúžit + akuzativ OP 5.1.4. šířka 
+zvát, pozvat + akuzativ SP 6.3. pozvání, návštěva 
+zvětšovat, zvětšit + akuzativ OP 5.1.1. velikost 
+zvíře SP 2.9. flóra, fauna 
+zvláštní OP 5.2.10. normálnost / abnormálnost 
+zvyšovat, zvýšit + akuzativ OP 5.1.3. výška 
+Ž 
+žádat o + akuzativ JF 3.2.1. žádost, JF 5.3.1.2. úvodní formulace (oficiálního dopisu) 
+žádat, požádat +  akuzativ, o + dativ OP 6.2. vyjadřování, řeč 
+žádný OP 4.5. vyjádření množství (nepočitatelnost), OP 8. deixe 
+žádost o + akuzativ JF 5.3.1.2. úvodní formulace (oficiálního dopisu) 
+žaludek SP 8.1. části lidského těla 
+že (ano) JF 2.2. vybízení k souhlasu s předchozí výpovědí 
+že + otázka JF 2.2. vybízení k souhlasu s předchozí výpovědí 
+že ne JF 2.2. vybízení k souhlasu s předchozí výpovědí 
+žena SP 1.6. pohlaví, SP 1.11. rodina 
+ženatý SP 1.7. stav 
+ženy, dámy (nápisy na toaletách)  SP 1.6. pohlaví 
+židle SP 2.2. zařízení bytu 
+žít kde (v + lokál, na + lokál)  SP 1.2. adresa 
+žít OP 1. 5. začátek, konec, změna 
+život OP 1.5. začátek, konec, změna 
+životní prostředí SP 2.8. okolí 
+životní úroveň SP 6.9. problémy společnosti 
+životopis SP 3.5. hledání zaměstnání 
+živý OP 5.1.17. tělesná kondice 
+žízeň SP 11.1. jídlo, pití 
+žlutý OP 5.1.15. barva 
+268
+DODATEK D 
+Věcný rejstřík 
+abnormálnost OP 5.2.10. 
+adresa SP 1.2.  
+adresát OP 7.3.9. 
+akce  
+  - kulturní akce SP 4.3. 
+autoservis SP 12.4. 
+B 
+banka SP 12.2. 
+barva OP 5.1.15. 
+bezradnost  
+  - vyjádření bezradnosti JF 6.2. 
+budoucnost  
+  - odkazy na budoucnost OP 3.11. 
+bydlení SP 2.1. 
+byt SP 2.2. 
+  - náklady na byt SP 2.5. 
+  - služby v bytě SP 2.6. 
+  - vybavení bytu SP 2.4. 
+  - zařízení bytu SP 2.3. 
+bytí OP 1.1. 
+C 
+celek  
+  - zdůrazňování složek celku JF 5.1.8. 
+cena OP 5.2.1. 
+cesta  
+  - hledání cesty SP 5.4 
+cestování SP 5. 
+Č 
+čas OP 7.4.2. 
+  - 
+časové určení OP 3.15. 
+  - 
+  - 
+  - 
+časové vztahy OP 7.2. 
+časový horizont OP 3.19. 
+časový interval OP 3.2. 
+  - existence v čase OP 3. 
+  - určení času děje OP 3.1. 
+  - určení času OP 3.1., SP 3.1. 
+časové určení  
+  - přibližnost časového určení OP 3.15. 
+časové vztahy OP 7.2. 
+časový horizont OP 3.19. 
+269
+časový interval OP 3.2. 
+část  
+  - 
+  - 
+část lidského těla SP 8.1.  
+část věty JF 6.2. 
+čerpací stanice SP 12.5. 
+činnost OP 2.1., OP 2.2. 
+  - doporučení  činnosti JF 3.2. 
+  - doporučení realizace činnosti, mluvčí se zařazuje mezi konatele JF 3.1. 
+  - návrh k realizaci činnosti, mluvčí se zařazuje mezi konatele JF 3.1. 
+čistota OP 5.1.19. 
+členství  
+  - 
+členství v organizacích SP 6.5. 
+D 
+datum  
+  - datum narození SP 1.3. 
+deixe OP 8. 
+děj  
+  - děj mimo časové určení OP 3.12. 
+  - délka trvání děje OP 3.2. 
+  - frekventovanost děje OP 3.14. 
+  - následnost pozdějšího děje OP 3.6. 
+  - opoždění děje OP 3.4. 
+  - pokračování děje OP 3.17. 
+  - pořadí dějů OP 3.8. 
+  - předčasnost dřívějšího děje OP 3.5. 
+  - přerušení děje OP 3.18. 
+  - rychlost děje OP 3.13. 
+  - souběžnost děje OP 3.7. 
+  - včasnost děje OP 3.4. 
+  - vztahy týkající se děje OP 7.3. 
+  - začátek děje OP 3.16. 
+  - zakončení děje OP 3.18. 
+délka OP 5.1.2. 
+  - délka trvání děje OP 3.2. 
+délkové míry OP 5.1.7. 
+diplomatické služby SP 12.3. 
+disjunkce OP 7.9.3. 
+doklady  
+  - osobní doklady SP 1.4. 
+doma SP 3.2. 
+domácí potřeby SP 10.8. 
+domácnost SP 2. 
+dopis  
+  - úvod dopisu JF 5.3. 
+  - úvod neformálního dopisu JF 5.3.2. 
+  - úvod oficiálního dopisu JF 5.3.1. 
+  - závěr dopisu JF 5.3. 
+  - závěr neformálního dopisu JF 5.3.4. 
+270
+  - závěr oficiálního dopisu JF 5.3.3. 
+doporučení   
+  - doporučení  činnosti JF 3.2. 
+  - doporučení realizace činnosti, mluvčí se zařazuje mezi konatele JF 3.1. 
+doprava  
+  - osobní doprava SP 5.2. 
+  - silniční doprava SP 5.3. 
+  - veřejná doprava SP 5.1. 
+dostupnost OP 1.4., OP 5.1.18. 
+dotaz  
+  - dotaz na pravopis určitého slova JF 6.5. 
+  - dotaz na správnou výslovnost JF 6.5. 
+dovolená SP 5.5. 
+drogerie SP 10.6. 
+důležitost OP 5.2.8. 
+dům SP 2., SP 2.2. 
+důraz  
+  - důraz na příslušné slovo JF 1.3.1. 
+důsledek OP 7.10.2. 
+duševní pochody OP 6. 
+důvod OP 7.10.1. 
+E 
+emoce OP 6.1.4. 
+exemplifikace OP 7.9.6. 
+existence OP 1., OP 1.1.  
+  - existence v čase OP 3. 
+  - existence v prostoru OP 2. 
+F 
+fauna SP 2.9. 
+fáze pohybu OP 2.5. 
+flóra SP 2.9. 
+frazeologismy JF 1.3.2. 
+frekventovanost děje OP 3.14. 
+fyzický stav SP 8.2. 
+G 
+gratulace JF 4.6. 
+H 
+hláskování  
+  - prosba o hláskování slova JF 6.4. 
+hledání  
+  - hledání cesty SP 5.4. 
+  - hledání slov JF 5.1.3. 
+271
+  - hledání vhodného výrazu JF 6.2. 
+  - hledání zaměstnání  SP 3.5. 
+hmotnost OP 5.1.8. 
+hodnocení OP 5.2. 
+hodnota OP 5.2.1. 
+hygiena  
+  - osobní hygiena SP 8.3. 
+CH 
+chtění JF 2.7., JF 2.7.1. 
+chuť OP 5.1.14. 
+  - míra chuti JF 2.8. 
+  - přání dobré chuti JF 4.9. 
+I 
+identifikace OP 7.6.  
+informace OP 7.3.8. 
+  - sdělení informace JF 1.2., JF 1.2.1. 
+  - sdělování konkrétních informací JF 1. 
+  - zjišťování informací JF 1.4. 
+  - zjišťování konkrétních informací JF 1. 
+interakční model  
+  - realizace interakčního modelu JF 4. 
+internet SP 7.4. 
+J 
+jazykový projev  
+  - výstavba jazykového projevu JF 5.1. 
+jednotka  
+  - jednotka hmotnosti OP 5.1.8. 
+  - jednotka objemu OP  5.1.9. 
+jídlo SP 11.1. 
+jistota  JF 2.4. 
+  - stupeň jistoty JF 2.4. 
+jméno SP 1.1. 
+K 
+kam? OP 2.6. 
+kavárna SP 11.2. 
+komunikace SP 6.1. 
+  - korekce při komunikaci JF 6. 
+komunikační šum  
+  - reakce na komunikační šum JF 6. 
+konatel OP 7.3.6. 
+  - patiens totožný s konatelem  OP 7.3.6. 
+272
+ kondice  
+   - tělesná kondice OP 5.1.17. 
+konec OP 1.5. 
+kontakt  
+  - navázání kontaktu JF 5.1.1. 
+konverzace  
+  - zdvořilostní konverzace při setkání JF 4.3. 
+korekce  
+  - korekce při komunikaci JF 6. 
+kožené zboží SP 10.5. 
+kudy? OP 2.6. 
+kultura  
+  - kulturní akce SP 4.3. 
+  - kulturní zařízení SP 4.3. 
+kvalifikace OP 7.5. 
+kvalita OP 5. 
+  - kvalita v užším slova smyslu OP 5.2.2. 
+  - kvalita fyzická OP 5.1. 
+kvantita OP 4. 
+L 
+lidé  
+  - vztahy s lidmi SP 6. 
+literatura SP 4.5. 
+lítost JF 2.9. 
+logické vztahy OP 7.9. 
+loučení  
+  - pozdravy při loučení - familiárně JF 4.2. 
+  - pozdravy při loučení - oficiálně JF 4.2. 
+M 
+minulost  
+  - odkazy na minulost OP 3.9. 
+míra OP 5.1. 
+  - míra chuti JF 2.8. 
+  - míra nechuti JF 2.8. 
+  - míra nelibosti JF 2.8. 
+  - míra obliby JF 2.8. 
+  - míra potěšení JF 2.8. 
+  - míra překvapení JF 2.12. 
+míry  
+  - délkové míry OP 5.1.7. 
+místo OP 7.4.1. 
+  - místo narození SP 1.3. 
+mluvený projev JF 5.1. 
+  - zahájení mluveného projevu JF 5.1.1. 
+množství OP 4.5. 
+možnost JF 2.5., JF 2.5.1. 
+muzea SP 4.4.  
+273
+myšlení OP 6.1.2. 
+N 
+nabídka  
+  - nabídka pohoštění JF 3.2 8. 
+  - nabídka pomoci JF 3.2.6. 
+  - nabídka pozvání JF 3.2.7. 
+naděje JF 2.10. 
+nakupování SP 10.2. 
+nákupy SP 10. 
+naplněnost OP 5.1.20. 
+napsání slova  
+  - prosba o napsání slova JF 6.4. 
+národnost SP 1.8. 
+narození  
+  - datum narození SP 1.3. 
+  - místo narození SP 1.3. 
+narozeniny SP 6.4. 
+následek OP 7.10.2. 
+následnost  
+  - následnost pozdějšího děje OP 3.6. 
+násobnost OP 4.3. 
+nástroj OP 7.4.4. 
+návrh  
+  - návrh k realizaci činnosti, mluvčí se zařazuje mezi konatele JF 3.1. 
+návštěva SP 6.3. 
+názor  
+  - vyjádření názoru JF 5.1.5.  
+nedostupnost OP 1.4. 
+nechuť  
+  - míra nechuti JF 2.8. 
+nejistota  
+  - stupeň nejistoty JF 2.4. 
+nelibost  
+  - míra nelibosti JF 2.8. 
+nemoc SP 8. 
+nemožnost JF 2.5., JF 2.5.1. 
+nepočitatelnost OP 4.5. 
+neporozumění  
+  - chceme-li dát najevo, že nerozumíme JF 6.1. 
+nepřítomnost OP 1.3.neschopnost JF 2.5. , JF 2.5.2. 
+nesouhlas JF 2.1.3. 
+nespokojenost JF 2.11. 
+nezájem JF 2.7., JF 2.7.3. 
+normálnost OP 5.2.10. 
+nositel prospěchu OP 7.3.11. 
+nutnost  
+  - stupeň nutnosti JF 2.6. 
+274
+O 
+obava JF 2.10. 
+obchody SP 10.1. 
+objekt  
+  - vlastnost objektu OP 4.6. 
+obliba  
+  - míra obliby JF 2.8. 
+obtížnost OP 5.2.9. 
+obuv SP 10.5.  
+oděvy SP 10.4. 
+odkud? OP 2.6. 
+odlišnost OP 7.7. 
+odporování OP 7.9.5. 
+odpověď  
+  - odpovědi na dotaz volajícího JF 5.2.3. 
+okolí SP 2., SP 2.2., SP 2.8. 
+okolnost OP 7.4. 
+  - vlastnost průvodní okolnosti OP 4.6. 
+omluva  
+  - odpověď na vyjádření omluvy JF 2.14. 
+  - vyjádření omluvy JF 2.14. 
+opoždění děje OP 3.4. 
+oprava  
+  - oprava negativního sdělení JF 1.3.2. 
+  - oprava pozitivního sdělení JF 1.3.2. 
+  - oprava vlastního sdělení JF 5.1.4 
+opuštění státu SP 5.8. 
+organizace  
+  - 
+členství v organizacích SP 6.5. 
+oslovování  
+  - způsoby oslovování - familiárně JF 4.4. 
+  - způsoby oslovování - oficiálně JF 4.4. 
+  - způsoby oslovování - písemný styk familiárně JF 4.4. 
+  - způsoby oslovování - písemný styk oficiálně JF 4.4. 
+osobní doklady SP 1.4. 
+osobní doprava SP 5.2. 
+osobní hygiena SP 8.3. 
+osobní údaje SP 1. 
+otázka  
+  - otázka doplňovací JF 1.4., JF 1.4.2. 
+  - otázka vylučovací JF 1.4., JF 1.4.3. 
+  - otázka zjišťovací JF 1.4., JF 1.4.1. 
+  - otázka zjišťující souhlas či nesouhlas JF 2.1.4. 
+otázky a odpovědi JF 1.4.1., JF 1.4.2., JF 1.4.3. 
+  - otázky a odpovědi na cíl JF 1.4.2. 
+  - otázky a odpovědi na čas JF 1.4.2. 
+  - otázky a odpovědi na jednoho z mnoha JF 1.4.2. 
+  - otázky a odpovědi na kvantitu JF 1.4.2. 
+275
+  - otázky a odpovědi na místo JF 1.4.2. 
+  - otázky a odpovědi na příčinu JF 1.4.2. 
+  - otázky a odpovědi na směr JF 1.4.2. 
+  - otázky a odpovědi na subjekt JF 1.4.2. 
+  - otázky a odpovědi na vlastnost JF 1.4.2. 
+  - otázky a odpovědi na výchozí bod JF 1.4.2. 
+  - otázky a odpovědi na způsob JF 1.4.2. 
+P 
+paměť OP 6.1.3. 
+papírnictví SP 10.7. 
+paralelní děj OP 3.7. 
+patiens OP 7.3.5. 
+   - patiens totožný s konatelem OP 7.3.6. 
+péče  
+  - zdravotní péče SP 8.5 
+pití SP 11.1. 
+počasí SP 13., SP 13.1. 
+počet OP 4.1. 
+počítač SP 7.4. 
+počitatelnost OP 4.1 
+podání  
+  - podání zprávy JF 1.2., JF 1.2.1. 
+podmínka OP 7.10.4.  
+podnebí SP 13., SP 13.2. 
+pohlaví SP 1.6. 
+pohoštění  
+  - nabídka pohoštění JF 3.2.8. 
+pohyb  
+  -  fáze pohybu OP 2.5. 
+  - slovesa pohybu OP 2.4. 
+  - směr pohybu OP 2.6. 
+pojištění  
+  - zdravotní pojištění SP 8.6. 
+pokračování děje OP 3.17. 
+policie SP 6. 8. 
+poloha OP 2.1. 
+  - relativní poloha OP 2.2. 
+  - změna polohy OP 2.7. 
+pomoc  
+  - nabídka pomoci JF 3.2.6. 
+  - žádost o pomoc JF 3.2.5. 
+popis  
+  - jednoduchý popis JF 5.4. 
+  - prvky popisu JF 1.2. JF 1.2.2. 
+popření skutečnosti JF 1.3. 
+porozumění  
+  - ujišťujeme se, že jsme rozuměli JF 6.3. 
+pořadí OP 4.2. 
+276
+  - pořadí osob, věcí, dějů OP 3.8. 
+posesivní vztahy OP 7.8. 
+postoj ke skutečnosti  
+  - vyjadřování postojů JF 2. 
+  - zjišťování postojů JF 2. 
+pošta SP 12.1. 
+potěšení 
+  - míra potěšení JF 2.8. 
+potraviny SP 10.3. 
+povahové vlastnosti SP 1.12. 
+pozdravy JF 4.2. 
+  - pozdravy při loučení  - familiárně JF 4.2. 
+  - pozdravy při loučení - oficiálně JF 4.2. 
+  - pozdravy při setkání  - oficiálně JF 4.2. 
+  - pozdravy při setkání - familiárně JF 4.2. 
+pozornost  
+  - upoutávání pozornosti JF 4.1. 
+  - upoutání pozornosti směrem k mluvčímu JF 5.1.1. 
+pozvání SP 6.3. 
+  - nabídka pozvání JF 3.2.7. 
+požadování  
+  - aby někdo něco udělal JF 3., JF 3.2. 
+práce SP 3.3. 
+pravopis  
+  - dotaz na pravopis určitého slova JF 6.5. 
+prázdniny SP 5.5. 
+preference JF 2.7. , JF 2.7.4. 
+prezentace  
+  - prezentace osoby, zvířete, věci, vlastnosti či děje JF 1.1. 
+problémy  
+  - problémy společnosti SP 6.9. 
+  - zdravotní problémy SP 8.4. 
+proces OP 7.4. 
+  - proces bez participantů OP 7.3.1. 
+prosba   
+  - osobní prosba JF 3.2.2. 
+  - prosba, aby někdo něco udělal JF 3. 
+  - prosba  o celkové zopakování věty JF 6.1. 
+  - prosba  o hláskování slova JF 6.4. 
+  - prosba  o hledání vhodného výrazu JF 6.2. 
+  - prosba  o napsání slova JF 6.4. 
+  - prosba  o zopakování části věty JF 6.2. 
+  - prosba  o zpomalení tempa řeči JF 6.1. 
+prospěch OP 7.3.11. 
+  - nositel prospěchu OP 7.3.11. 
+prostor  
+  - konkrétní prostor OP 5.1.9. 
+prostorové vztahy OP 7.1. 
+prostředek OP 7.4.4. 
+proživatel OP 7.3.2., OP 7.3.3. 
+277
+průvodní okolnost  
+  - vlastnost průvodní okolnosti OP 4.6. 
+prvky  
+  - prvky popisu JF 1.2., JF 1.2.2.. 
+  - prvky vypravování JF 1.2., JF 1.2.3. 
+přání JF 2.7., JF 2.7.1. 
+  - přání dobré chuti  JF 4.9. 
+  - stručné sdělení přání JF 5.2.2. 
+předčasnost dřívějšího děje OP 3.5 
+představování JF 4.5., JF 5.2.1. 
+překvapení  
+  - míra překvapení JF 2.12. 
+přerušení děje OP 3.18. 
+přesvědčování  
+  - aby někdo něco udělal JF 3. 
+přibližnost 
+  - přibližnost  časového určení OP 3.15. 
+příčina OP 7.10.1. 
+příčinné relace OP 7.10. 
+příjem SP 3.4. 
+příjemce OP 7.3.10. 
+příkaz JF 3.2.3. 
+příklad  
+  - jazykové prostředky pro konkrétní příklady JF 5.1.7. 
+přiměřenost OP 5.2.5. 
+přípitky JF 4.8. 
+přípustka OP 7.10.5. 
+přítomnost OP 1.3. 
+  - odkazy na přítomnost OP 3.10. 
+původ OP 2.7., SP 1.9. 
+R 
+radost JF 2.9. 
+reakce  
+  - reakce na komunikační šum JF 6. 
+reciprocita OP 7.3.7. 
+reflexe OP 6.1. 
+rektifikace JF 1.3.3. 
+relace OP 7. 
+relativní poloha OP 2.2. 
+relativní umístění OP 2.2. 
+restaurace SP 11.2. 
+rodina SP 1.11. 
+rodinný stav SP 1.7. 
+rozhlas SP 7.2. 
+rozhovor  
+  - konvenční začátek rozhovoru JF 4. 
+rozkaz JF 3.2.3. 
+rozměr OP 5.1. 
+278
+rychlost děje OP 3.13. 
+Ř 
+řeč OP 6.2. 
+S 
+sdělení  
+  - oprava vlastního sdělení JF 5.1.4. 
+  - sdělení informace JF 1.2., JF 1.2.1. 
+sdělovací prostředky SP 7. 
+sdělovací technika SP 7. 
+sdělování  
+  - sdělování informací JF 1. 
+setkání  
+  - pozdravy při setkání - familiárně JF 4.2. 
+  - pozdravy při setkání - oficiálně JF 4.2. 
+  - zdvořilostní konverzace při setkání JF 4.3. 
+shoda OP 7.7. 
+shrnutí JF 5.1.9. 
+schopnost JF 2.5., JF 2.5.2. 
+silniční doprava SP 5.3. 
+skutečnost  
+  - popření skutečnosti JF 1.3. 
+  - vztahové pojetí skutečnosti OP 7. 
+slovesa pohybu OP 2.4. 
+  - prefixy směru OP 2.6. 
+slučování OP 7.9.1. 
+služby SP 2.6., SP 12 
+  - další druhy služeb SP 12.6. 
+  - diplomatické služby SP 12.3. 
+slyšitelnost OP 5.1.13. 
+směr pohybu OP 6. 
+souběžnost děje OP 3.7. 
+souhlas  
+  - souhlas s kladným konstatováním JF 2.1.1. 
+  - souhlas s negativním konstatováním JF 2.1.2. 
+  - vybízení k souhlasu JF 2.2. 
+  - vyjádření souhlasu JF 2.1. 
+  - zjišťování souhlasu JF 2.1. 
+soustrast JF 4.7. 
+spokojenost JF 2.11. 
+společnost  
+  - problémy společnosti SP 6.9. 
+sport SP 4.6. 
+správnost OP 5.2.6. 
+stáří OP 5.1.16. 
+stát SP 6.7. 
+  - opuštění státu SP 5.8. 
+279
+  - vstup do státu SP 5.8. 
+státní příslušnost SP 1.8. 
+stav OP 2.1., OP 2.2. 
+  - fyzický stav SP 8.2. 
+  - rodinný stav SP 1.7. 
+stravování SP 11. 
+stupeň  
+  - stupeň jistoty JF 2.4. 
+  - stupeň nejistoty JF 2.4. 
+  - stupeň nutnosti JF 2.6. 
+stupňování OP 7.9.2. 
+subjekt  
+  - vlastnost subjektu OP 4.6. 
+svátky SP 6.4.  
+svolení JF 2.5.3. 
+Š 
+šířka OP 5.1.4. 
+školství SP 9.1. 
+T 
+telefon SP 7.3. 
+telefonování JF 5.2. 
+tělesná kondice OP 5.1.17. 
+tělesné vlastnosti SP 1.13. 
+televize SP 7.2. 
+tělo  
+  - 
+části lidského těla SP 8.1. 
+téma  
+  - uvedení tématu JF 5.1.2. 
+tempo řeči  
+  - prosba o zpomalení tempa řeči JF 6.1. 
+teplota OP 5.1.10. 
+tisk SP 7.1. 
+tloušťka OP 5.1.5. 
+trvání OP 5.1.16., OP 7.7. 
+U 
+ubytování SP 5.6. 
+účel OP 7.10.3. 
+údaje  
+  - osobní údaje SP.1. 
+událost OP 1.2. 
+  - vztahy týkající se události OP 7.3. 
+úklid SP 2.7. 
+umění  
+280
+  - výtvarné umění SP 4.4. 
+umístění OP 2.1. 
+  - relativní umístění OP 2.2. 
+upoutávání pozornosti JF 4.1. 
+upřesňování JF 1.3.3., JF 5.1.3. 
+úspěšnost OP 5.2.7. 
+úvod  
+  - úvod dopisu JF 5.3.  
+  - úvod neformálního dopisu JF 5.3.2. 
+  - úvod oficiálního dopisu JF 5.3.1. 
+užitečnost OP 5.2.3. 
+V 
+váha OP 5.1.8. 
+váhání JF 5.1.3. 
+včasnost děje OP 3.4.  
+vděčnost  
+  - odpověď na vyjádření vděčnosti JF 3.13. 
+  - vyjádření vděčnosti JF 2.13. 
+vědění OP 6. 1. 1. 
+vědomost  
+  - konstatování, že někdo něco ví JF 2.3. 
+věk OP 5.1.16., SP 1.5. 
+velikost OP 5.1.1. 
+veřejná doprava SP 5.1. 
+veřejná správa SP 6.8. 
+věta  
+  - celkové zopakování věty JF 6.1. 
+  - zopakování části věty JF 6.2. 
+vhodnost OP 5.2.4. 
+vhodný výraz  
+  - hledání vhodného výrazu JF 6.2. 
+viditelnost OP 5.1.12. 
+vláda SP 6.7. 
+vlastnictví OP 7.8. 
+vlastnost  
+  - vlastnost objektu OP 4.6. 
+  - vlastnost průvodní okolnosti OP 4.6. 
+  - vlastnost subjektu OP 4.6. 
+vlastnosti  
+  - povahové vlastnosti SP 1.12. 
+  - tělesné vlastnosti SP 1.13. 
+vlhkost OP 5.1.11. 
+vnímatel OP 7.3.3. 
+volný čas SP 4.1. 
+vstup do státu SP 5.8. 
+vůle JF 2.7., JF 2.7.1. 
+vybízení k souhlasu JF 2.2. 
+výčet JF 5.1.6., OP 4.4. 
+výčty OP 7.9.6. 
+281
+vyjadřování OP 6.2. 
+vyloučení OP 7.9.4. 
+vypravování  
+  - jednoduché vypravování JF 5.5. 
+  - prvky vypravování JF 1.2., JF 1.2.3. 
+výslovnost  
+  - dotaz na správnou výslovnost JF 6.5. 
+výstavba jazykového projevu JF 5. 
+výstavy SP 4.4. 
+výstraha JF 3.2.4. 
+výška OP 5.1.3. 
+výzva  
+  - k realizaci činnosti, mluvčí se zařazuje mezi konatele JF 3.1. 
+vzdálenost OP 2.3., OP 5.1.6. 
+vzdělání SP 9.  
+vztahové pojetí skutečnosti OP 7. 
+vztahy  
+  - 
+časové vztahy OP 7.2. 
+  - logické vztahy OP 7.9. 
+  - posesivní vztahy  OP 7.8. 
+  - prostorové vztahy OP 7.1. 
+  - vztahy s lidmi - druhy vztahů SP 6.2. 
+  - vztahy týkající se děje OP 7.3. 
+  - vztahy týkající se události OP 7.3. 
+Z 
+zábava SP 4. 
+začátek OP 1.5. 
+  - začátek děje OP 3.16. 
+  - začátek rozhovoru JF 4. 
+zahájení  
+  - zahájení mluveného projevu JF 5.1.1. 
+zahrnutí OP 7.9.4. 
+zájem JF 2.7., JF 2.7.3. 
+zájmy SP 4.2. 
+zákaz JF 2.5.3 . 
+zakončení  
+  - 
+zakončení děje OP 3.18. 
+záměr JF 2.7., JF 2.7.2. 
+zaměstnání SP 1.10. 
+  - hledání zaměstnání SP 3.5. 
+zařízení  
+  - kulturní zařízení SP 4.3. 
+zavazadla SP 5.7. 
+závěr JF 5.1.10. 
+  - závěr dopisu JF 5.3. 
+  - závěr neformálního dopisu JF 5.3.4. 
+  - závěr oficiálního dopisu JF 5.3.3. 
+zdraví SP 8. 
+282
+zdravotní péče SP 8.5. 
+zdravotní pojištění SP 8.6. 
+zdravotní problémy SP 8.4. 
+zdůrazňování  
+  - zdůrazňování složek celku JF 5.1.8. 
+zjišťování  
+  - zjišťování informací JF 1., JF 1.4. 
+změna OP 1.5. 
+  - změna polohy OP 2.7. 
+znalost  
+  - konstatování, že někdo někoho zná JF 2.3. 
+zopakování  
+  - prosba o celkové zopakování věty JF 6.1. 
+  - prosba o zopakování části věty JF 6.2. 
+zpomalení  
+  - prosba o zpomalení tempa řeči JF 6.1. 
+zpráva  
+  - podání zprávy JF 1.2., JF 1.2.1. 
+způsob OP 7.4.3. 
+  - způsob oslovování - familiárně JF 4.4. 
+  - způsob oslovování - oficiálně JF 4.4. 
+  - způsob oslovování - písemný styk familiárně JF 4.4. 
+  - způsob oslovování - písemný styk oficiálně JF 4.4. 
+Ž 
+žádost  
+  - formální žádost JF 3.2.1. 
+  - žádost o pomoc JF 3.2.5. 
+život  
+  - každodenní život SP 3. 
+!!!Level: B2

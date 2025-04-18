@@ -1,0 +1,28 @@
+---Dům, domácnost a nejbližší okolí
+6.2, 4.3 4.4.1, 4.6.2, 4.6.3, 4.6.8, 4.6.9, 4.6.10, 4.6.11
+---Nakupování
+6.8, 4.2, 4.3.6, 4.6.12
+---Jazyk a komunikace
+6.14
+---Jídlo a pití
+6.3, 4.6.6
+---Vztahy s lidmi
+6.14.2, 4.6
+---Okolní prostředí
+6.13, 4.3.4, 4.4
+---Služby
+6.11, 6.12
+---Volný čas a zábava
+6.5, 4.5
+---Cestování a doprava
+6.9, 4.3.5, 4.4.4, 4.4.11
+---Zdraví a péče o tělo
+6.4.2, 6.7
+---Osobní údaje
+6.1, 4.1, 4.6.13
+---Vzdělání
+6.10, 4.7
+---Každodenní život
+6.4.3, 6.6
+---Počasí a klima
+6.13.3, 4.3.9, 4.6.4

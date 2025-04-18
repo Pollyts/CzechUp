@@ -11,7 +11,7 @@ namespace CzechUp.Helper.ApiHelper
             Console.WriteLine("Start scrapping from https://slovnik.seznam.cz/api/slovnik?dictionary");
             try
             {
-                HttpResponseMessage response = await client.GetAsync(string.Format("https://slovnik.seznam.cz/api/slovnik?dictionary={0}&query={1}", targetLang, word));
+                HttpResponseMessage response = await client.GetAsync(string.Format("https://slovnik.seznam.cz/api/slovnik?dictionary=cz_{0}&query={1}", targetLang, word));
 
                 if (response.IsSuccessStatusCode)
                 {

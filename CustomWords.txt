@@ -1,0 +1,60 @@
+!!!Level: A1
+---Topic: Osobní údaje
+---Topic: Dům, domácnost a nejbližší okolí
+---Topic: Každodenní život
+---Topic: Volný čas a zábava
+---Topic: Cestování a doprava
+---Topic: Vztahy s lidmi
+---Topic: Zdraví a péče o tělo
+---Topic: Vzdělání
+---Topic: Nakupování
+---Topic: Jídlo a pití
+---Topic: Služby
+---Topic: Jazyk a komunikace
+---Topic: Okolní prostředí
+---Topic: Počasí a klima
+!!!Level: A2
+---Topic: Osobní údaje
+---Topic: Dům, domácnost a nejbližší okolí
+---Topic: Každodenní život
+---Topic: Volný čas a zábava
+---Topic: Cestování a doprava
+---Topic: Vztahy s lidmi
+---Topic: Zdraví a péče o tělo
+---Topic: Vzdělání
+---Topic: Nakupování
+---Topic: Jídlo a pití
+---Topic: Služby
+---Topic: Jazyk a komunikace
+---Topic: Okolní prostředí
+---Topic: Počasí a klima
+!!!Level: B1
+---Topic: Osobní údaje
+---Topic: Dům, domácnost a nejbližší okolí
+---Topic: Každodenní život
+---Topic: Volný čas a zábava
+---Topic: Cestování a doprava
+---Topic: Vztahy s lidmi
+---Topic: Zdraví a péče o tělo
+---Topic: Vzdělání
+---Topic: Nakupování
+---Topic: Jídlo a pití
+---Topic: Služby
+---Topic: Jazyk a komunikace
+---Topic: Okolní prostředí
+---Topic: Počasí a klima
+!!!Level: B2
+---Topic: Osobní údaje
+---Topic: Dům, domácnost a nejbližší okolí
+---Topic: Každodenní život
+---Topic: Volný čas a zábava
+---Topic: Cestování a doprava
+---Topic: Vztahy s lidmi
+---Topic: Zdraví a péče o tělo
+---Topic: Vzdělání
+---Topic: Nakupování
+---Topic: Jídlo a pití
+---Topic: Služby
+---Topic: Jazyk a komunikace
+---Topic: Okolní prostředí
+---Topic: Počasí a klima

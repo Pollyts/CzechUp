@@ -37,8 +37,8 @@ class Program
                         string mainText = word.Word;
                         var mainWords = mainText.Split(' ');
 
-                        var wordTranslationAreadyExist = db.GeneralWordTranslations.Any(t => t.GeneralOriginalWordId == word.Id && t.LanguageId == language.Id);
-                        var wordFormsAreadyExist = db.GeneralWordForms.Any(t => t.OriginalWordId == word.Id);
+                        var wordTranslationAreadyExist = db.GeneralWordTranslations.Any(t => t.GeneralOriginalWordGuid == word.Guid && t.LanguageGuid == language.Guid);
+                        var wordFormsAreadyExist = db.GeneralWordForms.Any(t => t.GeneralOriginalWordGuid == word.Guid);
 
                         if (wordTranslationAreadyExist && wordFormsAreadyExist)
                         {
@@ -68,8 +68,8 @@ class Program
                                         var translation = string.Join("", meaning.Translations.First());
                                         db.GeneralWordTranslations.Add(new GeneralWordTranslation()
                                         {
-                                            GeneralOriginalWordId = word.Id,
-                                            LanguageId = language.Id,
+                                            GeneralOriginalWordGuid = word.Guid,
+                                            LanguageGuid = language.Guid,
                                             Translation = Regex.Replace(translation, "\\<.*?>", "")
                                         });
                                     }
@@ -77,9 +77,10 @@ class Program
                                     {
                                         db.GeneralWordExamples.Add(new GeneralWordExample()
                                         {
-                                            GeneralOriginalWordId = word.Id,
+                                            GeneralOriginalWordGuid = word.Guid,
                                             OriginalExample = Regex.Replace(translationExample.OriginalSentence, "\\<.*?>", ""),
                                             TranslatedExample = translationExample.TranslatedSentence,
+                                            LanguageGuid = language.Guid
                                         });
                                     }
                                 }
@@ -93,7 +94,7 @@ class Program
                                         db.GeneralWordForms.Add(new GeneralWordForm()
                                         {
                                             WordNumber = 1,
-                                            OriginalWordId = word.Id,
+                                            GeneralOriginalWordGuid = word.Guid,
                                             Tag = form.Tag,
                                             WordForm = form.Word,
                                         });
@@ -110,8 +111,8 @@ class Program
                                                                     
                                     var generalWordTranslation = new GeneralWordTranslation()
                                     {
-                                        GeneralOriginalWordId = word.Id,
-                                        LanguageId = language.Id,
+                                        GeneralOriginalWordGuid = word.Guid,
+                                        LanguageGuid = language.Guid,
                                         Translation = translateSentenceResult.TranslationTexts.First().Text
                                     };
 
@@ -128,7 +129,7 @@ class Program
                                         db.GeneralWordForms.Add(new GeneralWordForm()
                                         {
                                             WordNumber = 1,
-                                            OriginalWordId = word.Id,
+                                            GeneralOriginalWordGuid = word.Guid,
                                             Tag = form.Tag,
                                             WordForm = form.Word,
                                         });
@@ -145,8 +146,8 @@ class Program
 
                                 var generalWordTranslation = new GeneralWordTranslation()
                                 {
-                                    GeneralOriginalWordId = word.Id,
-                                    LanguageId = language.Id,
+                                    GeneralOriginalWordGuid = word.Guid,
+                                    LanguageGuid = language.Guid,
                                     Translation = translateSentenceResult.TranslationTexts.First().Text
                                 };
 
@@ -168,13 +169,14 @@ class Program
                                         db.GeneralWordForms.Add(new GeneralWordForm()
                                         {
                                             WordNumber = wordNumber,
-                                            OriginalWordId = word.Id,
+                                            GeneralOriginalWordGuid = word.Guid,
                                             Tag = form.Tag,
                                             WordForm = form.Word,
                                         });
                                     }
 
                                     wordNumber++;
+                                    await Task.Delay(5000);
                                 }
                             }         
                         }

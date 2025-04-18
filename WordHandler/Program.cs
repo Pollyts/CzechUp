@@ -10,10 +10,12 @@ class Program
     {
         var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
         optionsBuilder.UseNpgsql("");
+        int levelCounter = 0;
+        int totalCounter = 0;
 
         using (var db = new DatabaseContext(optionsBuilder.Options))
         {
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "words.txt");
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "WordsFromSource1.txt");
 
             if (!File.Exists(filePath))
             {
@@ -34,12 +36,17 @@ class Program
                 if (line.StartsWith("!!!Level:"))
                 {
                     var str = line.Replace("!!!Level:", "").Trim();
+                    if (level != null)
+                    {
+                        Console.WriteLine(string.Format("{0} words was written for the level {1} from the first source", levelCounter, level.Name));
+                        levelCounter = 0;
+                    }
                     level = db.LanguageLevels.FirstOrDefault(x => x.Name == str);
                     if (level == null)
                     {
                         Console.WriteLine(string.Format("Language not found {0}", str));
                         throw new Exception();
-                    }
+                    }                    
                 }
                 else if (line.StartsWith("---Topic:"))
                 {
@@ -69,15 +76,21 @@ class Program
                         Match match = Regex.Match(word, @"^(.*?)\s*\((.*?)\)\s*$");
                         db.GeneralOriginalWords.Add(new GeneralOriginalWord()
                         {
-                            GeneralTopicId = topic!.Id,
-                            LanguageLevelId = level!.Id,
+                            GeneralTopicGuid = topic!.Guid,
+                            LanguageLevelGuid = level!.Guid,
                             Word = match.Success? match.Groups[1].Value.Trim(): word.Trim()
                         });
+                        levelCounter++;
+                        totalCounter++;
                     }
                 }
             }
 
+            Console.WriteLine(string.Format("{0} words was written for the level {1} from the first source", levelCounter, level.Name));
+            Console.WriteLine(string.Format("totalWords from the first source: {0}", totalCounter));
             db.SaveChanges();
+
+
         }
     }
 }
