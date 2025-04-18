@@ -1,4 +1,5 @@
-﻿using CzechUp.Services.DTOs;
+﻿using CzechUp.EF.Models;
+using CzechUp.Services.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace CzechUp.Services.Interfaces
 {
     public interface IUserService
     {
-        int CreateUser(RegistrationRequestDto request);
-        bool Login(LoginRequestDto loginRequest);
+        Guid CreateUser(RegistrationRequestDto request);
+        User? Login(LoginRequestDto loginRequest);
     }
 }

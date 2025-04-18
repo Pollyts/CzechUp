@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CzechUp.Helper\CzechUp.Helper.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+
 </Project>
