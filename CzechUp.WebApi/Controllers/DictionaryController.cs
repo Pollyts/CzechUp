@@ -8,7 +8,7 @@ namespace CzechUp.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class DictionaryController : BaseController
+    public class DictionaryController : Controller
     {
         //private readonly ILogger<WeatherForecastController> _logger;
         private readonly DatabaseContext _databaseContext;

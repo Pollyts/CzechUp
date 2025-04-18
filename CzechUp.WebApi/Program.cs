@@ -15,7 +15,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IWordService, WordService>();
 builder.Services.AddScoped<ITopicService, TopicService>();
 builder.Services.AddScoped<ITagService, TagService>();
-builder.Services.AddScoped<ITranslationService, TranslationService>();
+builder.Services.AddScoped<IRuleService, RuleService>();
 
 builder.Services.AddCors(options =>
 {

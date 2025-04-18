@@ -127,6 +127,18 @@ namespace CzechUp.Services.Services
                     });
                 }
             }
+
+            //add empty rule notes
+            var rules = _databaseContext.Rules.ToList();
+            foreach (var rule in rules)
+            {
+                _databaseContext.UserRuleNotes.Add(new UserRuleNote()
+                {
+                    Note = string.Empty,
+                    RuleGuid = rule.Guid,
+                    UserGuid = createUser.Guid
+                });
+            }
             _databaseContext.SaveChanges();
 
             return createUser.Guid;
