@@ -22,6 +22,13 @@ namespace CzechUp.WebApi.Controllers
             return Ok(words);
         }
 
+        [HttpPost("withFilter")]
+        public async Task<IActionResult> GetWordsWithFilter([FromBody]FilterWordDto filter, CancellationToken cancellationToken)
+        {
+            var words = await this.wordService.GetWordsWithFilter(UserGuid(), filter, cancellationToken);
+            return Ok(words);
+        }
+
         [HttpGet("word")]
         public async Task<IActionResult> GetWord(Guid wordGuid, CancellationToken cancellationToken)
         {

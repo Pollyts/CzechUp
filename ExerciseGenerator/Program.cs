@@ -34,10 +34,10 @@ class Program
                 var requestBody = new
                 {
                     contents = new[]
-    {
-        new
-        {
-            parts = new[]
+                                    {
+                                    new
+                                        {
+                                        parts = new[]
             {
                 new
                 {
@@ -51,9 +51,11 @@ class Program
                     )
                 }
             }
+
         }
     }
                 };
+
 
                 // Сериализуем корректно
                 var json = JsonSerializer.Serialize(requestBody, new JsonSerializerOptions

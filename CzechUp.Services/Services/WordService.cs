@@ -298,5 +298,15 @@ namespace CzechUp.Services.Services
             _databaseContext.Remove(dbWord);
             await _databaseContext.SaveChangesAsync();
         }
+
+        public async Task<List<UserOriginalWord>> GetWordsWithFilter(Guid userGuid, FilterWordDto filter, CancellationToken cancellationToken)
+        {
+            return await GetQuery()
+                .Where(w => w.UserGuid == userGuid)
+                .Where(w=>filter.Topics.Count == 0 || (w.UserTopicGuid.HasValue && filter.Topics.Contains(w.UserTopicGuid.Value)))
+                .Where(w => filter.Tags.Count == 0 || w.UserTags.Any(t=> filter.Tags.Contains(t.Guid)))
+                .Take(20)
+                .ToListAsync(cancellationToken);
+        }
     }
 }

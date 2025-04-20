@@ -12,6 +12,7 @@ namespace CzechUp.Services.Interfaces
     public interface IWordService
     {
         Task<List<UserOriginalWord>> GetWords(Guid userGuid, CancellationToken cancellationToken);
+        Task<List<UserOriginalWord>> GetWordsWithFilter(Guid userGuid, FilterWordDto filter, CancellationToken cancellationToken);
         Task<WordDto> GetWord(Guid userGuid, Guid wordGuid, CancellationToken cancellationToken);
         Task<SearchedWordDto> SearchWord(string word, Guid userGuid, CancellationToken cancellationToken);
         Task<Guid> CreateWord(WordDto wordDto, Guid userGuid, CancellationToken cancellationToken);
