@@ -9,6 +9,7 @@
         public List<string> Translations { get; set; }
         public List<WordExampleDto> WordExamples { get; set; }
         public List<WordFormDto> WordForms { get; set; }
+        public List<string> Tags { get; set; }
     }
 
     public class WordFormDto

@@ -12,9 +12,9 @@ namespace CzechUp.WebApi.Controllers
             this.tagService = tagService;
         }
         [HttpGet]
-        public async Task<IActionResult> GetTags(CancellationToken cancellationToken)
+        public async Task<IActionResult> GetTags(CancellationToken cancellationToken, TagTypeEnum? tagType= null)
         {
-            var tags = await this.tagService.GetTags(UserGuid(), cancellationToken);
+            var tags = await this.tagService.GetTags(UserGuid(), tagType, cancellationToken);
             return Ok(tags);
         }
 

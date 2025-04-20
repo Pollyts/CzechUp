@@ -16,8 +16,12 @@ namespace CzechUp.Services.Services
             _databaseContext = databaseContext;
             this.wordService = wordService;
         }
-        public async Task<List<UserTag>> GetTags(Guid userGuid, CancellationToken cancellationToken)
+        public async Task<List<UserTag>> GetTags(Guid userGuid, TagTypeEnum? tagType, CancellationToken cancellationToken)
         {
+            if (tagType != null)
+            {
+                return await GetQuery().Include(t => t.TagTypes).Where(w => w.UserGuid == userGuid && w.TagTypes.Any(type=>type.TagTypeEnum == tagType)).ToListAsync(cancellationToken);
+            }
             return await GetQuery().Include(t=>t.TagTypes).Where(w => w.UserGuid == userGuid).ToListAsync(cancellationToken);
         }
 

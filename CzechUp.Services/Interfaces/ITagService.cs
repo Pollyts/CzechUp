@@ -4,7 +4,7 @@ namespace CzechUp.Services.Interfaces
 {
     public interface ITagService
     {
-        public Task<List<UserTag>> GetTags(Guid userGuid, CancellationToken cancellationToken);
+        public Task<List<UserTag>> GetTags(Guid userGuid, TagTypeEnum? tagType, CancellationToken cancellationToken);
 
         public Task<UserTag> GetTag(Guid tagGuid, CancellationToken cancellationToken);
 
