@@ -11,6 +11,14 @@ namespace CzechUp.WebApi.Controllers
         {
             this.topicService = topicService;
         }
+
+        [HttpGet("general")]
+        public async Task<IActionResult> GetGeneralTopics(CancellationToken cancellationToken)
+        {
+            var topics = await this.topicService.GetGeneralTopics(cancellationToken);
+            return Ok(topics);
+        }
+
         [HttpGet]
         public async Task<IActionResult> GetTopics(CancellationToken cancellationToken)
         {

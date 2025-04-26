@@ -24,5 +24,6 @@ namespace CzechUp.EF.Models
         public User User { get; set; }
         public GeneralExercise GeneralExercise { get; set; }
         public List<UserTag> UserTags { get; set; }
+        public DateTime LastUsed {  get; set; }
     }
 }

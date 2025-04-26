@@ -11,7 +11,6 @@ class Program
     {
         List<string> exceptionWords = new List<string>()
         {
-            "had"
         };
 
         using HttpClient wordTranslateClient = new();
@@ -86,8 +85,14 @@ class Program
                                 }
                                 //find word forms
                                 if (!wordFormsAreadyExist)
-                                {                                    
-                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, translateWordResult.MainInfo.First().Head.FoundedWord);
+                                {
+                                    var foundedWord = translateWordResult.MainInfo.First().Head.FoundedWord;
+                                    //remove se/si
+                                    if (foundedWord.Split(' ').Count() == 2)
+                                    {
+                                        foundedWord = foundedWord.Split(' ').First();
+                                    }
+                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, foundedWord);
 
                                     foreach (var form in forms)
                                     {
@@ -156,28 +161,86 @@ class Program
 
                             if (!wordFormsAreadyExist)
                             {
+                                if (char.IsUpper(mainText[0]))
+                                {
+                                    continue;
+                                }
                                 //translate each word to find word form for every word
                                 int wordNumber = 1;
+                                List<WordPart> parts = new List<WordPart>();
                                 foreach (var mainWord in mainWords)
                                 {
                                     var translateResult = await TranslateWordHelper.TranslateWord(wordTranslateClient, mainWord, language.Name.ToLower());
-                                    //find word forms for every word
-                                    var forms = await WordFormHelper.GetWordForms(wordFormClient, translateResult.MainInfo.First().Head.FoundedWord);
 
-                                    foreach (var form in forms)
+                                    parts.Add(new WordPart()
+                                    {
+                                        Word = translateResult.MainInfo.First().Head.FoundedWord,
+                                        WordDescription = translateResult.MainInfo.First().Head.Description,
+                                        WordNumber = wordNumber
+                                    });
+
+                                    wordNumber++;
+                                }
+
+                                parts = parts.OrderBy(p => p.WordNumber).ToList();
+
+                                if (parts.Count >= 2 && (parts[0].WordDescription == "přídavné jméno" && parts[1].WordDescription.Contains("podstatné jméno") || (parts[1].WordDescription == "přídavné jméno" && parts[0].WordDescription.Contains("podstatné jméno")))) {
+                                    var firstWordForms = await WordFormHelper.GetWordForms(wordFormClient, parts[0].Word);
+                                    foreach (var form in firstWordForms)
                                     {
                                         db.GeneralWordForms.Add(new GeneralWordForm()
                                         {
-                                            WordNumber = wordNumber,
+                                            WordNumber = 1,
                                             GeneralOriginalWordGuid = word.Guid,
                                             Tag = form.Tag,
                                             WordForm = form.Word,
                                         });
                                     }
-
-                                    wordNumber++;
                                     await Task.Delay(5000);
+                                    var secondWordForms = await WordFormHelper.GetWordForms(wordFormClient, parts[1].Word);
+                                    if (parts.Count == 3)
+                                    {
+                                        foreach (var form in secondWordForms)
+                                        {
+                                            db.GeneralWordForms.Add(new GeneralWordForm()
+                                            {
+                                                WordNumber = 2,
+                                                GeneralOriginalWordGuid = word.Guid,
+                                                Tag = form.Tag,
+                                                WordForm = form.Word + ' ' + parts[2].Word,
+                                            });
+                                        }
+                                    }
+                                    else
+                                    {
+                                        foreach (var form in secondWordForms)
+                                        {
+                                            db.GeneralWordForms.Add(new GeneralWordForm()
+                                            {
+                                                WordNumber = 2,
+                                                GeneralOriginalWordGuid = word.Guid,
+                                                Tag = form.Tag,
+                                                WordForm = form.Word,
+                                            });
+                                        }
+                                    }
+                                    
                                 }
+                                else if (parts[0].WordDescription.Contains("sloveso") || parts[0].WordDescription.Contains("podstatné jméno") && parts.Count == 2)
+                                {
+                                    var firstWordForms = await WordFormHelper.GetWordForms(wordFormClient, parts[0].Word);
+                                    foreach (var form in firstWordForms)
+                                    {
+                                        db.GeneralWordForms.Add(new GeneralWordForm()
+                                        {
+                                            WordNumber = 1,
+                                            GeneralOriginalWordGuid = word.Guid,
+                                            Tag = form.Tag,
+                                            WordForm = form.Word + ' ' + parts[1].Word,
+                                        });
+                                    }
+                                }
+
                             }         
                         }
 
@@ -202,4 +265,11 @@ class Program
 
         }
     }
+}
+
+public class WordPart
+{
+    public string Word { get; set; }
+    public string WordDescription { get; set; }
+    public int WordNumber { get; set; }
 }

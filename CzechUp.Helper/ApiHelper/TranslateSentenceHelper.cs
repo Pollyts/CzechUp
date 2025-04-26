@@ -30,7 +30,7 @@ namespace CzechUp.Helper.ApiHelper
                 }
                 else
                 {
-                    throw new Exception(response.StatusCode.ToString());                    
+                    throw new Exception(response.StatusCode.ToString());
                 }
             }
             catch (Exception ex)

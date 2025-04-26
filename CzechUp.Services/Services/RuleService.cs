@@ -21,7 +21,7 @@ namespace CzechUp.Services.Services
 
         public async Task<UserRuleNote> GetRuleNotes(Guid ruleGuid, Guid userGuid, CancellationToken cancellationToken)
         {
-            return _databaseContext.UserRuleNotes.Where(r => r.UserGuid == userGuid && r.RuleGuid == ruleGuid).Include(r=>r.Rule).FirstOrDefault();
+            return _databaseContext.UserRuleNotes.Where(r => r.UserGuid == userGuid && r.RuleGuid == ruleGuid).Include(r=>r.Rule).First();
         }
 
         public async Task<UserRuleNote> UpdateRuleNote(UserRuleNote ruleNote, CancellationToken cancellationToken)

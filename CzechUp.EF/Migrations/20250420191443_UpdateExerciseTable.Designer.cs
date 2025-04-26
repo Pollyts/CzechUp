@@ -3,6 +3,7 @@ using System;
 using CzechUp.EF;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CzechUp.EF.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    partial class DatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20250420191443_UpdateExerciseTable")]
+    partial class UpdateExerciseTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -76,6 +79,9 @@ namespace CzechUp.EF.Migrations
                         .HasColumnType("uuid")
                         .HasDefaultValueSql("gen_random_uuid()");
 
+                    b.Property<Guid?>("GeneralTopicGuid")
+                        .HasColumnType("uuid");
+
                     b.Property<Guid>("LanguageLevelGuid")
                         .HasColumnType("uuid");
 
@@ -84,6 +90,8 @@ namespace CzechUp.EF.Migrations
                         .HasColumnType("text");
 
                     b.HasKey("Guid");
+
+                    b.HasIndex("GeneralTopicGuid");
 
                     b.HasIndex("LanguageLevelGuid");
 
@@ -296,9 +304,6 @@ namespace CzechUp.EF.Migrations
                     b.Property<Guid>("GeneralExerciseGuid")
                         .HasColumnType("uuid");
 
-                    b.Property<DateTime>("LastUsed")
-                        .HasColumnType("timestamp with time zone");
-
                     b.Property<Guid>("UserGuid")
                         .HasColumnType("uuid");
 
@@ -330,6 +335,9 @@ namespace CzechUp.EF.Migrations
                     b.Property<Guid>("UserGuid")
                         .HasColumnType("uuid");
 
+                    b.Property<Guid?>("UserTopicGuid")
+                        .HasColumnType("uuid");
+
                     b.Property<string>("Word")
                         .IsRequired()
                         .HasColumnType("text");
@@ -341,6 +349,8 @@ namespace CzechUp.EF.Migrations
                     b.HasIndex("LanguageLevelGuid");
 
                     b.HasIndex("UserGuid");
+
+                    b.HasIndex("UserTopicGuid");
 
                     b.ToTable("UserOriginalWords");
                 });
@@ -494,21 +504,6 @@ namespace CzechUp.EF.Migrations
                     b.ToTable("UserWordTranslations");
                 });
 
-            modelBuilder.Entity("GeneralOriginalWordGeneralTopics", b =>
-                {
-                    b.Property<Guid>("GeneralOriginalWordGuid")
-                        .HasColumnType("uuid");
-
-                    b.Property<Guid>("GeneralTopicGuid")
-                        .HasColumnType("uuid");
-
-                    b.HasKey("GeneralOriginalWordGuid", "GeneralTopicGuid");
-
-                    b.HasIndex("GeneralTopicGuid");
-
-                    b.ToTable("GeneralOriginalWordGeneralTopics");
-                });
-
             modelBuilder.Entity("UserExerciseUserTag", b =>
                 {
                     b.Property<Guid>("UserExerciseGuid")
@@ -537,21 +532,6 @@ namespace CzechUp.EF.Migrations
                     b.HasIndex("UserTagGuid");
 
                     b.ToTable("UserOriginalWordUserTag");
-                });
-
-            modelBuilder.Entity("UserOriginalWordUserTopic", b =>
-                {
-                    b.Property<Guid>("UserOriginalWordGuid")
-                        .HasColumnType("uuid");
-
-                    b.Property<Guid>("UserTopicGuid")
-                        .HasColumnType("uuid");
-
-                    b.HasKey("UserOriginalWordGuid", "UserTopicGuid");
-
-                    b.HasIndex("UserTopicGuid");
-
-                    b.ToTable("UserOriginalWordUserTopic");
                 });
 
             modelBuilder.Entity("UserRuleUserTag", b =>
@@ -615,11 +595,17 @@ namespace CzechUp.EF.Migrations
 
             modelBuilder.Entity("CzechUp.EF.Models.GeneralOriginalWord", b =>
                 {
+                    b.HasOne("CzechUp.EF.Models.GeneralTopic", "GeneralTopic")
+                        .WithMany()
+                        .HasForeignKey("GeneralTopicGuid");
+
                     b.HasOne("CzechUp.EF.Models.LanguageLevel", "LanguageLevel")
                         .WithMany()
                         .HasForeignKey("LanguageLevelGuid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("GeneralTopic");
 
                     b.Navigation("LanguageLevel");
                 });
@@ -727,11 +713,17 @@ namespace CzechUp.EF.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("CzechUp.EF.Models.UserTopic", "UserTopic")
+                        .WithMany()
+                        .HasForeignKey("UserTopicGuid");
+
                     b.Navigation("GeneralOriginalWord");
 
                     b.Navigation("LanguageLevel");
 
                     b.Navigation("User");
+
+                    b.Navigation("UserTopic");
                 });
 
             modelBuilder.Entity("CzechUp.EF.Models.UserRuleNote", b =>
@@ -822,21 +814,6 @@ namespace CzechUp.EF.Migrations
                     b.Navigation("UserOriginalWord");
                 });
 
-            modelBuilder.Entity("GeneralOriginalWordGeneralTopics", b =>
-                {
-                    b.HasOne("CzechUp.EF.Models.GeneralOriginalWord", null)
-                        .WithMany()
-                        .HasForeignKey("GeneralOriginalWordGuid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("CzechUp.EF.Models.GeneralTopic", null)
-                        .WithMany()
-                        .HasForeignKey("GeneralTopicGuid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("UserExerciseUserTag", b =>
                 {
                     b.HasOne("CzechUp.EF.Models.UserExercise", null)
@@ -863,21 +840,6 @@ namespace CzechUp.EF.Migrations
                     b.HasOne("CzechUp.EF.Models.UserTag", null)
                         .WithMany()
                         .HasForeignKey("UserTagGuid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("UserOriginalWordUserTopic", b =>
-                {
-                    b.HasOne("CzechUp.EF.Models.UserOriginalWord", null)
-                        .WithMany()
-                        .HasForeignKey("UserOriginalWordGuid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("CzechUp.EF.Models.UserTopic", null)
-                        .WithMany()
-                        .HasForeignKey("UserTopicGuid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

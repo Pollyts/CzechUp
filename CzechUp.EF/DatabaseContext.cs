@@ -153,6 +153,24 @@ namespace CzechUp.EF
                 j => j.HasOne<TagType>().WithMany().HasForeignKey("TagTypeGuid"),
                 j => j.HasOne<UserTag>().WithMany().HasForeignKey("UserTagGuid")
             );
+
+            modelBuilder.Entity<GeneralOriginalWord>()
+            .HasMany(w => w.GeneralTopics)
+            .WithMany()
+            .UsingEntity<Dictionary<string, object>>(
+                "GeneralOriginalWordGeneralTopics",
+                j => j.HasOne<GeneralTopic>().WithMany().HasForeignKey("GeneralTopicGuid"),
+                j => j.HasOne<GeneralOriginalWord>().WithMany().HasForeignKey("GeneralOriginalWordGuid")
+            );
+
+            modelBuilder.Entity<UserOriginalWord>()
+            .HasMany(w => w.UserTopics)
+            .WithMany()
+            .UsingEntity<Dictionary<string, object>>(
+                "UserOriginalWordUserTopic",
+                j => j.HasOne<UserTopic>().WithMany().HasForeignKey("UserTopicGuid"),
+                j => j.HasOne<UserOriginalWord>().WithMany().HasForeignKey("UserOriginalWordGuid")
+            );
         }
 
     }

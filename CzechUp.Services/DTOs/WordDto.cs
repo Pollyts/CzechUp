@@ -5,7 +5,7 @@
         public Guid Guid { get; set; }
         public string Word { get; set; }
         public string LanguageLevel { get; set; }
-        public string Topic { get; set; }
+        public List<string> Topics { get; set; }
         public List<string> Translations { get; set; }
         public List<WordExampleDto> WordExamples { get; set; }
         public List<WordFormDto> WordForms { get; set; }

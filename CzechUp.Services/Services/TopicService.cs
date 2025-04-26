@@ -16,6 +16,11 @@ namespace CzechUp.Services.Services
             _databaseContext = databaseContext;
             this.wordService = wordService;
         }
+        public async Task<List<GeneralTopic>> GetGeneralTopics(CancellationToken cancellationToken)
+        {
+            return await _databaseContext.GeneralTopics.ToListAsync(cancellationToken);
+        }
+
         public async Task<List<UserTopic>> GetTopics(Guid userGuid, CancellationToken cancellationToken)
         {
             return await GetQuery().Where(w => w.UserGuid == userGuid).ToListAsync(cancellationToken);
@@ -55,7 +60,7 @@ namespace CzechUp.Services.Services
             }
             else
             {
-                var wordsFromTopic = await _databaseContext.UserOriginalWords.Where(w=>w.UserGuid == userGuid && w.UserTopicGuid == topicGuid).ToListAsync(cancellationToken);
+                var wordsFromTopic = await _databaseContext.UserOriginalWords.Where(w=>w.UserGuid == userGuid && w.UserTopics.All(u=>u.Guid == topicGuid)).ToListAsync(cancellationToken);
                 if (withWords)
                 {
                     _databaseContext.UserOriginalWords.RemoveRange(wordsFromTopic);
@@ -64,7 +69,7 @@ namespace CzechUp.Services.Services
                 {
                     foreach (var word in wordsFromTopic)
                     {
-                        word.UserTopicGuid = null;
+                        word.UserTopics.Remove(topic);
                     }
                 }
                 _databaseContext.SaveChanges();

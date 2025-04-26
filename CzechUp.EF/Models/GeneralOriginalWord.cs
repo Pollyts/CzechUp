@@ -17,10 +17,7 @@ namespace CzechUp.EF.Models
 
         [ForeignKey("LanguageLevel")]
         public Guid LanguageLevelGuid { get; set; }
-
-        [ForeignKey("GeneralTopic")]
-        public Guid? GeneralTopicGuid { get; set; }
-        public GeneralTopic? GeneralTopic { get; set; }
+        public List<GeneralTopic> GeneralTopics { get; set; }
         public LanguageLevel LanguageLevel { get; set; }
     }
 }

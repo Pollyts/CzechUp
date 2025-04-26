@@ -1,9 +1,11 @@
 ﻿using CzechUp.EF.Models;
 using CzechUp.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CzechUp.WebApi.Controllers
 {
+    [Authorize]
     public class RuleController : BaseController
     {
         private readonly IRuleService ruleService;

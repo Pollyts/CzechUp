@@ -914,8 +914,8 @@ zeptat se
 znakovat 
 znakový jazyk 
 znát
- názvy mluvených jazyků: anglický, český, německý, slovenský…
- názvy znakových jazyků: britský, český, německý, slovenský...
+**názvy mluvených jazyků: anglický, český, německý, slovenský…
+**názvy znakových jazyků: britský, český, německý, slovenský...
 ---Topic: Okolní prostředí
 adresa
  blízko
@@ -1344,7 +1344,6 @@ webová stránka (www)
  clo
  euro
  hotel
- HOTOVO V TOM (NP)
  hrad
  hranice
  hrůza / hrozný
@@ -1463,7 +1462,7 @@ omyl
  zpět
  zpoždění
  zřícenina
- názvy taxikářských společností: Bolt, Uber…
+**názvy taxikářských společností: Bolt, Uber…
  opilý
  organizace
  organizovat
@@ -2146,9 +2145,9 @@ Makedonie
  Varšava
  Vatikán
  Vídeň
- názvy míst: Hlavní nádraží, Pražský hrad, Václavské náměstí, Výstaviště...
- názvy řek: Berounka, Labe, Vltava…
- názvy pohoří: Beskydy, Jeseníky, Krkonoše, Krušné hory, Orlické hory, Šumava...
+**názvy míst: Hlavní nádraží, Pražský hrad, Václavské náměstí, Výstaviště...
+**názvy řek: Berounka, Labe, Vltava…
+**názvy pohoří: Beskydy, Jeseníky, Krkonoše, Krušné hory, Orlické hory, Šumava...
 ---Topic: Počasí a klima
  bahno 
 bláto 
@@ -3250,7 +3249,6 @@ zemětřesení
 ---Topic: Osobní údaje
  adventista
  církev
- CODA
  horoskop
  katolík
  svědkové Jehovovi
@@ -3390,7 +3388,6 @@ vůle
  epilepsie
  fáze / stadium
  fobie
- HIV
  chemoterapie
  cholesterol
  imunita

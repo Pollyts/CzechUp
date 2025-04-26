@@ -1,8 +1,8 @@
 ﻿namespace CzechUp.Services.DTOs
 {
-    public class FilterWordDto
+    public class LoginRequestDto
     {
-        public List<Guid> Tags { get; set; }
-        public List<Guid> Topics { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
     }
 }

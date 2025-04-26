@@ -29,16 +29,17 @@ namespace CzechUp.Helper.ApiHelper
             catch (Exception ex) 
             {
                 throw new Exception(string.Format("Error while getting forms of word '{0}'. {1}", word, ex.Message));
-            }
-            
+            }           
+
+        }
+        public class WordFormsResponse
+        {
+            [JsonPropertyName("forms")]
+            public List<WordForm> Forms { get; set; }
         }
     }
 
-    public class WordFormsResponse
-    {
-        [JsonPropertyName("forms")]
-        public List<WordForm> Forms { get; set; }
-    }
+   
 
     public class WordForm
     {

@@ -4,6 +4,7 @@ namespace CzechUp.Services.Interfaces
 {
     public interface ITopicService
     {
+        public Task<List<GeneralTopic>> GetGeneralTopics(CancellationToken cancellationToken);
         public Task<List<UserTopic>> GetTopics(Guid userGuid, CancellationToken cancellationToken);
 
         public Task<UserTopic> GetTopic(Guid topicGuid, CancellationToken cancellationToken);

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,20 +17,30 @@ namespace CzechUp.EF.Models
         public string Question { get; set; }
         public string AnswerOptions { get; set; } //suggested answer options
         public string Answer { get; set; }
+
+        [ForeignKey("GeneralTopic")]
         public Guid? GeneralTopicGuid { get; set; }
+
+        [ForeignKey("GeneralOriginalWord")]
         public Guid? GeneralOriginalWordGuid { get; set; }
+
+        [ForeignKey("TranslatedLanguage")]
+        public Guid? TranslatedLanguageGuid { get; set; }
+
+        [ForeignKey("LanguageLevel")]
+        public Guid LanguageLevelGuid { get; set; }        
         public GeneralTopic? GeneralTopic { get; set; }
-        public GeneralOriginalWord? GeneralOriginalWord { get; set; }
+        public GeneralOriginalWord? GeneralOriginalWord { get; set; }        
+        public Language? TranslatedLanguage { get; set; }
+        public LanguageLevel LanguageLevel { get; set; }
     }
 
     public enum ExerciseType
     {
-        MatchingWordAndItsTranslate, //Сопоставление слов и их переводов (matching)
-        InsertWord, //Заполнение пропусков подходящими словами (несколько предложений)
+        InsertWordInRightForm, // Заполнение пропуска подходящим словом в правильной форме. 
         CreateSentence, //Составление предложений с новыми словами
-        InsertWordInRightForm, //Подстановка форм слов (например, спряжение глаголов)
-        SelectAnswer, //Выбрать правильный ответ из предложенных
-        WriteAnswer, //Заполнить пропуск в вопросе/ввести ответ на вопрос
-        ChooseCategory, //Выбрать категорию
+        InsertWordToText, //	Заполнение пропусков в тексте словами из предложенных вариантов
+        MatchingWordAndItsTranslate, //	Выбрать правильный перевод слова из предложенных
+        WriteCzechWord, // Написать перевод слова
     }
 }

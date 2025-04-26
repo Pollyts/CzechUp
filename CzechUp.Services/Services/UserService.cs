@@ -3,6 +3,8 @@ using CzechUp.EF.Models;
 using CzechUp.Services.DTOs;
 using CzechUp.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using static System.Net.Mime.MediaTypeNames;
 namespace CzechUp.Services.Services
 {
     public class UserService : IUserService
@@ -69,18 +71,25 @@ namespace CzechUp.Services.Services
 
             foreach (var userTopic in userTopics)
             {
-                var wordsForLevelAndTopic = _databaseContext.GeneralOriginalWords.Where(w => requiredLanguageLevelGuids.Contains(w.LanguageLevelGuid) && w.GeneralTopicGuid == userTopic.GeneralTopicGuid).ToList();
+                var wordsForLevelAndTopic = _databaseContext.GeneralOriginalWords.Where(w => requiredLanguageLevelGuids.Contains(w.LanguageLevelGuid) && w.GeneralTopics.Any(t=>t.Guid == userTopic.GeneralTopicGuid)).ToList();
 
                 foreach (var w in wordsForLevelAndTopic)
                 {
-                    _databaseContext.UserOriginalWords.Add(new UserOriginalWord()
+                    var existingWord = _databaseContext.UserOriginalWords.Include(w => w.UserTopics).FirstOrDefault(w => w.Word == w.Word);
+                    if (existingWord != null)
+                    {
+                        existingWord.UserTopics.Add(userTopic);
+                    }
+                    var userWord = new UserOriginalWord()
                     {
                         LanguageLevelGuid = w.LanguageLevelGuid,
-                        UserTopicGuid = userTopic.Guid,
                         Word = w.Word,
                         UserGuid = createUser.Guid,
-                        GeneralOriginalWordGuid = w.Guid
-                    });
+                        GeneralOriginalWordGuid = w.Guid,
+                        UserTopics = new List<UserTopic>()
+                    };
+                    userWord.UserTopics.Add(userTopic);
+                    _databaseContext.UserOriginalWords.Add(userWord);
                 }
             }
 

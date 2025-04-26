@@ -28,6 +28,8 @@ class Program
             Language languageRu = db.Languages.First(l => l.Name == "RU");
             Language languageEng = db.Languages.First(l => l.Name == "EN");
 
+            var wordsForTopic = 0;
+
             List<string> lines = new List<string>(File.ReadAllLines(filePath));
 
             for (int i = 0; i < lines.Count; i++)
@@ -50,6 +52,7 @@ class Program
                 }
                 else if (line.StartsWith("---Topic:"))
                 {
+                    wordsForTopic = 0;
                     var str = line.Replace("---Topic:", "").Trim();
                     topic = db.GeneralTopics.FirstOrDefault(x => x.Name == str);
                     if (topic == null)
@@ -70,16 +73,36 @@ class Program
                 }
                 else if (!string.IsNullOrWhiteSpace(line))
                 {
+                    if (wordsForTopic > 5)
+                    {
+                        continue;
+                    }
+                    wordsForTopic++;
                     string[] words = line.Split('/');
                     foreach (var word in words)
                     {
+                        var text = word.Trim();
+                        
                         Match match = Regex.Match(word, @"^(.*?)\s*\((.*?)\)\s*$");
-                        db.GeneralOriginalWords.Add(new GeneralOriginalWord()
+                        if (match.Success) {
+                            text = match.Groups[1].Value.Trim();
+                        }
+
+                        var existingWord = db.GeneralOriginalWords.Local.FirstOrDefault(w => w.Word == text);
+                        if (existingWord != null) {
+                            existingWord.GeneralTopics.Add(topic!);
+                        }
+                        else
                         {
-                            GeneralTopicGuid = topic!.Guid,
-                            LanguageLevelGuid = level!.Guid,
-                            Word = match.Success? match.Groups[1].Value.Trim(): word.Trim()
-                        });
+                            var dbWord = new GeneralOriginalWord()
+                            {
+                                LanguageLevelGuid = level!.Guid,
+                                Word = text,
+                                GeneralTopics = new List<GeneralTopic>()
+                            };
+                            dbWord.GeneralTopics.Add(topic!);
+                            db.GeneralOriginalWords.Add(dbWord);
+                        }                        
                         levelCounter++;
                         totalCounter++;
                     }

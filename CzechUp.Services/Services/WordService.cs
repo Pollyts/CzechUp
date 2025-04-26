@@ -20,11 +20,21 @@ namespace CzechUp.Services.Services
             return await GetQuery().Where(w => w.UserGuid == userGuid).Take(20).ToListAsync(cancellationToken);
         }
 
+        public async Task<List<UserOriginalWord>> GetWordsWithFilter(Guid userGuid, FilterWordDto filter, CancellationToken cancellationToken)
+        {
+            return await GetQuery()
+                .Where(w => w.UserGuid == userGuid)
+                .Where(w => filter.Topics.Count == 0 || w.UserTopics.Any(t=>filter.Topics.Contains(t.Guid)))
+                .Where(w => filter.Tags.Count == 0 || w.UserTags.Any(t => filter.Tags.Contains(t.Guid)))
+                .Take(20)
+                .ToListAsync(cancellationToken);
+        }
+
         public async Task<WordDto> GetWord(Guid userGuid, Guid wordGuid, CancellationToken cancellationToken)
         {
             var word = await GetQuery()
                 .Include(w => w.LanguageLevel)
-                .Include(w => w.UserTopic)
+                .Include(w => w.UserTopics)
                 .Include(w => w.UserTags)
                 .Where(w => w.UserGuid == userGuid && w.Guid == wordGuid).FirstAsync(cancellationToken);
 
@@ -45,7 +55,7 @@ namespace CzechUp.Services.Services
                 Guid = wordGuid,
                 Word = word.Word,
                 Tags = word.UserTags.Select(ut=>ut.Name).ToList(),
-                Topic = word.UserTopicGuid.HasValue? word.UserTopic.Name: string.Empty,
+                Topics = word.UserTopics.Select(ut => ut.Name).ToList(),
                 LanguageLevel = word.LanguageLevelGuid.HasValue? word.LanguageLevel.Name: string.Empty,
                 Translations = new List<string>(wordTranslations.Select(t => t.Translation)),
                 WordExamples = new List<WordExampleDto>(wordExamples.Select(e => new WordExampleDto() { Guid = e.Guid, OriginalExample = e.OriginalExample, TranslatedExample = e.TranslatedExample })),
@@ -170,7 +180,7 @@ namespace CzechUp.Services.Services
             {
                 LanguageLevelGuid = _databaseContext.LanguageLevels.Where(l => l.Name == wordDto.LanguageLevel).Select<LanguageLevel, Guid?>(l => l.Guid).FirstOrDefault(),
                 UserGuid = userGuid,
-                UserTopicGuid = _databaseContext.UserTopics.Where(t => t.Name == wordDto.Topic).Select<UserTopic, Guid?>(l => l.Guid).FirstOrDefault(),
+                UserTopics = new List<UserTopic>(),
                 Word = wordDto.Word,
                 UserTags = new List<UserTag>()
             };
@@ -182,6 +192,15 @@ namespace CzechUp.Services.Services
                 {
                     word.UserTags.Add(dbTag);
                 }                
+            }
+
+            foreach (var topic in wordDto.Topics)
+            {
+                var dbTopic = _databaseContext.UserTopics.Where(t => t.UserGuid == userGuid && t.Name == topic).FirstOrDefault();
+                if (dbTopic != null)
+                {
+                    word.UserTopics.Add(dbTopic);
+                }
             }
 
             _databaseContext.Add(word);
@@ -223,14 +242,13 @@ namespace CzechUp.Services.Services
 
         public async Task<Guid> UpdateWord(WordDto wordDto, Guid userGuid, CancellationToken cancellationToken)
         {
-            var dbWord = _databaseContext.UserOriginalWords.Where(w => w.Guid == wordDto.Guid).Include(w => w.UserTags).FirstOrDefault();
+            var dbWord = _databaseContext.UserOriginalWords.Where(w => w.Guid == wordDto.Guid).Include(w => w.UserTags).Include(w=>w.UserTopics).FirstOrDefault();
             if (dbWord == null)
             {
                 throw new Exception("Can not update word");
             }
 
             dbWord.LanguageLevelGuid = _databaseContext.LanguageLevels.Where(l => l.Name == wordDto.LanguageLevel).Select<LanguageLevel, Guid?>(l => l.Guid).FirstOrDefault();
-            dbWord.UserTopicGuid = _databaseContext.UserTopics.Where(t => t.Name == wordDto.Topic).Select<UserTopic, Guid?>(l => l.Guid).FirstOrDefault();
             dbWord.Word = wordDto.Word;
 
             var dbTranslations = _databaseContext.UserWordTranslations.Where(t => t.UserOriginalWordGuid == dbWord.Guid);
@@ -240,6 +258,7 @@ namespace CzechUp.Services.Services
             _databaseContext.RemoveRange(dbExamples);
 
             dbWord.UserTags.Clear();
+            dbWord.UserTopics.Clear();
 
             foreach (var tag in wordDto.Tags)
             {
@@ -247,6 +266,15 @@ namespace CzechUp.Services.Services
                 if (dbTag != null)
                 {
                     dbWord.UserTags.Add(dbTag);
+                }
+            }
+
+            foreach (var topic in wordDto.Topics)
+            {
+                var dbTopic = _databaseContext.UserTopics.Where(t => t.UserGuid == userGuid && t.Name == topic).FirstOrDefault();
+                if (dbTopic != null)
+                {
+                    dbWord.UserTopics.Add(dbTopic);
                 }
             }
 
@@ -297,16 +325,6 @@ namespace CzechUp.Services.Services
 
             _databaseContext.Remove(dbWord);
             await _databaseContext.SaveChangesAsync();
-        }
-
-        public async Task<List<UserOriginalWord>> GetWordsWithFilter(Guid userGuid, FilterWordDto filter, CancellationToken cancellationToken)
-        {
-            return await GetQuery()
-                .Where(w => w.UserGuid == userGuid)
-                .Where(w=>filter.Topics.Count == 0 || (w.UserTopicGuid.HasValue && filter.Topics.Contains(w.UserTopicGuid.Value)))
-                .Where(w => filter.Tags.Count == 0 || w.UserTags.Any(t=> filter.Tags.Contains(t.Guid)))
-                .Take(20)
-                .ToListAsync(cancellationToken);
-        }
+        }        
     }
 }
